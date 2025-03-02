@@ -1,0 +1,98 @@
+{
+    "case": "datadrevne-kundeoplevelser",
+    "url": "https://www.knowit.dk/cases/datadrevne-kundeoplevelser/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Datadrevne kundeoplevelser"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "TALKMORE"
+        },
+        {
+            "el": "p",
+            "text": "Teleselskabet Talkmore har skabt overblik og aktiveret deres kundedata, så content og salg er relevant via personaliseret indhold på tværs af digitale kanaler og touch points."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ftalkmore%2Ftalkmore-teleselskab-kvinder-pa-cykel-1284x722.jpg&w=640&q=75 640w",
+            "alt": "Talkmore case banner"
+        },
+        {
+            "el": "h2",
+            "text": "Udfordring"
+        },
+        {
+            "el": "p",
+            "text": "Telebranchen befinder sig i en opbrudstid. Selskaber fusionerer og opsplitter forretningsenheder, samtidig med at nye ejere og aktører gør deres indtog i branchen. Talkmore har som Norges første online TelCo-virksomhed taget kampen op og skabt en konkurrencedygtig televirksomhed uden en eneste fysisk butik. Den disruptive forretningsmodel krævede imidlertid nye måder at markedsføre og sælge på. Målet var at skabe en sammenhængende brugerrejse, hvor kundedata bringes i spil og skaber bedre services og salg til gavn for både kunder og bundlinje."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ftalkmore%2Ftalkmore_kunde-1000x750.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ftalkmore%2Ftalkmore-1200x300.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Proces"
+        },
+        {
+            "el": "p",
+            "text": "I tæt samarbejde med Talkmore sammensatte Knowit et team, der samler de strategiske, kreativte og ikke mindst digitale kræfter i en fælles indsats.\nDen overordnede målsætning var at øge konverteringer ved at give den bedste kundeoplevelse for den enkelte kunde, baseret på kundens adfærd og interaktion gennem Talkmores digitale kanaler."
+        },
+        {
+            "el": "p",
+            "text": "Med afsæt i analyser af Talkmores kundedata vagte vi at anvende Sitecore som markedsføring og personaliseringsfunktionalitet. En ny installation af Sitecore Experience Platform (DXP) og Sitecore Email Experience Manager (EXM) blev etableret på Microsoft Azures laaS med integration til Talkmores CRM via Sitecore xConnect og betalingssystemer."
+        },
+        {
+            "el": "p",
+            "text": "Knowit udviklede også en marketing campaign-løsning, der samler contente-redigering for både web, mobile og mails i ét interface i Sitecore. Løsningen sikrede redaktionelt overblik til trods for den komplekse personaliserings anvendelse."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ftalkmore%2Ftalkmore-1778x1000.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Løsning"
+        },
+        {
+            "el": "p",
+            "text": "I dag har Talkmore en løsning, der tilbyder relevant og personaliseret indhold og tilbud på tværs af alle marketingkanaler. Det betyder at indholdet tilpasser sig fx i forhold til om brugeren er eksisterende kunde eller en potentiel ny."
+        },
+        {
+            "el": "p",
+            "text": "Data er konsistent på tværs af email, web, mobile app og Talkmores kundeservices. Har en kunde fx brug 70% af sin data, så sender Talkmore automatisk en push besked med tilbud om at købe mere data. Eller ved vi kunden er gift og har børn så sender Talkmore et tilbud en familie-løsning."
+        },
+        {
+            "el": "p",
+            "text": "Resultaterne taler deres eget sprog: 10% forøgelse på digital salg, 67% fald i churn rate og 50% stigning i krydssalg."
+        },
+        {
+            "el": "p",
+            "text": "Talkmores Sitecore løsning vandt prisen “Most Innovative Use of Sitecore as a Digital Experience Platform” i oktober 2019."
+        },
+        {
+            "el": "p",
+            "text": "\"The combination of higher digital sales and lower customer churn through data-driven personalization with Sitecore is very good for our business.”"
+        },
+        {
+            "el": "p",
+            "text": "Håvard Hauglin, Digital Manager"
+        },
+        {
+            "el": "p",
+            "text": "Talkmore AS"
+        }
+    ]
+}

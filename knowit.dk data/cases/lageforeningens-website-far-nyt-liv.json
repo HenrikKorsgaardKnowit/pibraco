@@ -1,0 +1,85 @@
+{
+    "case": "lageforeningens-website-far-nyt-liv",
+    "url": "https://www.knowit.dk/cases/lageforeningens-website-far-nyt-liv/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Lægeforeningens website får nyt liv"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "LÆGEFORENINGEN"
+        },
+        {
+            "el": "p",
+            "text": "Med et nytænkende, intuitivt design, forbedret navigation og større fokus på medlemmerne har Lægeforeningen pustet nyt liv i sit website - og skabt en forbedret brugeroplevelse for størstedelen af Danmarks læger. Gennem et helt nyt, tværgående designsystem er Lægeforeningen lykkedes med at samle brandidentiteterne fra både Lægeforeningen og de tre forhandlingsberettigede foreninger i ét fælles udtryk på det nye læger.dk."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F5aa07dfe8296443bb1c20411c20bd339%2F3_squooshed-1577x887.png&w=640&q=75 640w",
+            "alt": "Lægeforeningens website får nyt liv"
+        },
+        {
+            "el": "h2",
+            "text": "Ét website, fire foreninger"
+        },
+        {
+            "el": "p",
+            "text": "Som læge i Danmark er man med høj sandsynlighed medlem af Lægeforeningen, der varetager lægernes politiske interesser og arbejder for at fremme videreuddannelse, forskning og udvikling. For bedst muligt at understøtte medlemmerne gennem deres lægeliv, ønskede Lægeforeningen at skabe et mere medlemsfokuseret online univers på Læger.dk. Websitet skulle derudover tydeliggøres som et samlingspunkt og fælles sted for Lægeforeningen og de tre tilhørende forhandlingsberettigede foreninger: Yngre Læger, Praktiserende Lægers Organisation og Foreningen af Speciallæger."
+        },
+        {
+            "el": "p",
+            "text": "Med udgangspunkt i en teknisk platform, der bevægede sig mod forældelse, kom Lægeforeningen til os med to udfordringer. Først og fremmest var de tvunget til at tage stilling til deres CMS, som enten skulle opgraderes eller erstattes – en opgave der ville kræve et større indgreb og som derigennem gav anledning til en strategisk beslutning om at give deres website et løft. Med en ny informationsarkitektur, opdateret UX og et helt nyt design skulle Læger.dk tilbyde en forbedret online brugeroplevelse og favne de fire selvstændige foreningsbrands med hver deres visuelle identitet."
+        },
+        {
+            "el": "p",
+            "text": "En vigtig opgave var altså at få præsenteret de fire foreninger som det fællesskab, de er. Ønsket var derfor et neutralt udgangspunkt på Læger.dk, som skulle rumme alt det generelle indhold, der er relevant for læger at vide - ud fra emner som gennem dataanalyse viste sig at være de vigtigste på tværs af medlemmerne."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F4a6a9af10da54216aa650636951288a5%2Fcarousel_1-1410x793.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Nyt online univers med medlemmerne i tankerne"
+        },
+        {
+            "el": "p",
+            "text": "Lægeforeningens formål - at være lægernes sikkerhedsnet og talerør - gør det til deres fornemmeste opgave, at det skal være nemt for medlemmerne at finde, hvad de har brug for. I samarbejde med Lægeforeningens ansatte, og med indsigt i medlemmernes online adfærd på Læger.dk, gentænkte vi derfor sitets struktur og navigation ud fra, hvad der viste sig at være medlemmernes største behov og mest besøgte sider. Kombinationen af en ny informationsarkitektur og et nyt design giver medlemmerne muligheden for hurtig segmentering og situationsbestemt navigation, så de er sikret det rette indhold og bliver mødt lige dér, hvor de står i deres lægeliv. "
+        },
+        {
+            "el": "p",
+            "text": "For at optimere Lægeforeningens arbejde og imødekomme de forskellige behov, hver af de fire foreninger måtte have, blev foreningens redaktører introduceret for et nyt CMS-system til at håndtere og distribuere deres elektroniske indhold. I dag er Læger.dk, der tidligere var bygget i Drupal 7, bygget på Umbraco 10, som tilbyder en best-in-class redaktøroplevelse og et yderst brugervenligt user interface."
+        },
+        {
+            "el": "h2",
+            "text": "Neutralt webdesign med fælles DNA "
+        },
+        {
+            "el": "p",
+            "text": "Foreningernes fire brandfarver (rød, orange, blå og turkis) var udgangspunktet for en løsning, der kunne præsentere foreningerne som et fælleseje og fremstille dem som én enhed på tværs af Læger.dk. Ved at blande disse blev en unik sort farve bragt til live og udgør nu grundelementet i den fælles, neutrale brandidentitet på websitet. Hvor Læger.dk tidligere bidrog til en signifikant større traction til Lægeforeningen, får hver forening nu lov at stå ligeligt frem med hver deres identificerbare farve i et neutralt sort/hvidt design. For et mere blidt, harmonisk udtryk blev farverne derudover dulmet til fire tilhørende pasteller, som afspejler foreningernes ligevægt og samarbejde, og derudover bidrager til sitets accessibility. "
+        },
+        {
+            "el": "p",
+            "text": "Udover farverne er foreningernes fælles DNA baseret på ny typografi og et redesignet website grid, som begge er inspireret af, og drager referencer til, recepter med medicinske linjer i forskellige tykkelse. Ved at udnytte linjerne til sektionsinddeling er navigationen og læseligheden forbedret, og med nye skrifttyper til indhold er der både skabt en synergi på tværs af foreningerne og en genkendelighed på tværs af deres online og offline platforme, som tidligere bød på forskellige typografier."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F33294f7495c041bda0b9890559d367a7%2F1_hero-1534x863.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "En forbedret brugeroplevelse for redaktører og medlemmer"
+        },
+        {
+            "el": "p",
+            "text": "UX-opdateringerne, de nye designgreb og den endnu skarpere kommunikation har gjort det nye Læger.dk til en populær løsning for både medlemmerne og internt hos Lægeforeningen, som i dag oplever effektiviserede arbejdsprocesser og optimeret ressourcebrug. Ved at gøre medlemmernes behov for omdrejningspunktet er det lykkedes at opfylde Lægeforeningens ønske om et mere brugerorienteret online univers på Læger.dk, hvor den digitale brugeroplevelse og det visuelle udtryk går hånd i hånd."
+        }
+    ]
+}

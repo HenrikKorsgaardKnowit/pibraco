@@ -1,0 +1,98 @@
+{
+    "case": "et-samlet-alt-i-et-medlemsunivers-for-fagforbund-og-a-kasse",
+    "url": "https://www.knowit.dk/cases/et-samlet-alt-i-et-medlemsunivers-for-fagforbund-og-a-kasse/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Et samlet alt-i-et medlemsunivers, for Fagforbund og A-kasse"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "SOCIALPÆDAGOGERNE"
+        },
+        {
+            "el": "p",
+            "text": "Socialpædagogerne ønskede en mere brugervenlig og personlig medlemsportal, udviklet i et strategisk samarbejde med en ny leverandør, der ville kunne omfavne rådgivning og udvikling af løsningen, på tværs af det tekniske, design, kommunikation og UX."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fsocialpaedagogerne%2Fsl_2-1600x900.png&w=640&q=75 640w",
+            "alt": "Socialpædagogerne website"
+        },
+        {
+            "el": "p",
+            "text": "I november 2022 lancerede Socialpædagogerne, med Knowit Experience som leverandør, en ny fælles medlemsplatform Mit SL, som et samlet alt i et medlemsunivers for medlemmerne af Fagforbund og A-kasse.  "
+        },
+        {
+            "el": "p",
+            "text": "Den nye https://sl.dk/ er en moderne selvbetjeningsportal, med lækkert design og høj brugervenlighed. Sammen skabte vi en løsning der omfatter, "
+        },
+        {
+            "el": "h2",
+            "text": "Kunden"
+        },
+        {
+            "el": "p",
+            "text": "Socialpædagogerne er Fagforbund og A-kasse for cirka 40.000 socialpædagoger, hvor langt de fleste arbejder med og for: udsatte børn og unge, børn og voksne med fysisk eller psykisk handicap, psykisk syge, kvinder på krisecentre, misbrugere og hjemløse. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fsocialpaedagogerne%2Fsl_5-1920x1080.png&w=640&q=75 640w",
+            "alt": "Socialpædagogerne website"
+        },
+        {
+            "el": "h2",
+            "text": "Løsningen"
+        },
+        {
+            "el": "p",
+            "text": "Afgørende for løsningens succes har været, en grundig foranalyse og planlægning, faciliteret af Knowit Experience i tæt samarbejde med Socialpædagogerne, flere tredjeparts systemejere og andre vigtige interessenter. "
+        },
+        {
+            "el": "p",
+            "text": "Mit SL er en fælles medlemsplatform for Fagforbund og A-kasse, hvor der er mange krav til beskyttelse og brug af medlemsdata. Løsningens tekniske kernesystem er opbygget med en opdelt backend, hvor data samles i et Datawarehouse og derfra hentes via sikre API'er, som imødekommer krav til håndtering af medlemsdata, og muliggør den unikke personaliserede brugeroplevelse. "
+        },
+        {
+            "el": "p",
+            "text": "Platformens backend er Azure og Umbraco 10 og frontend er bygget med Single Sign On og React. Alle dele er valgt, med henblik på fleksibilitet i personalisering, brugervenlighed, sikkerhed, i den nu lancerede første version og den videre udvikling og skalering af løsningen. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fsocialpaedagogerne%2Fsl_3-1920x1080.png&w=640&q=75 640w",
+            "alt": "Socialpædagogerne website"
+        },
+        {
+            "el": "p",
+            "text": "Til eksempel gør Single Sign On det muligt for medlemmerne at logge på én gang for at tilgå alle systemer på tværs af fagforbund og a-kasse. Sagsbehandlere, administration og kredsmedarbejdere kan logge på Mit SL og se samme indhold som medlemmerne, hvilket letter support og dialog. Med personalisering oplever den enkelte bruger, at blive præsenteret for relevant informationer som, "
+        },
+        {
+            "el": "p",
+            "text": "Den personlige oplevelse begynder allerede på hjemmesidens forside. Her præsenteres f.eks. medlemmer, der er registreret som ledige, relevant information om dagpenge, hvor andre som fagforbundsmedlemmer ser oversigter med kreds og tillidsrepræsentanter. Studerende, efterlønnere og ikke medlemmer, vil tilsvarende få personaliserede relevante oplevelser. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fsocialpaedagogerne%2Fsl_4-1920x1080.png&w=640&q=75 640w",
+            "alt": "Socialpædagogerne website"
+        },
+        {
+            "el": "h2",
+            "text": "Resultater"
+        },
+        {
+            "el": "p",
+            "text": "Med det tydelige formål i virke, at gøre en forskel for udsatte og mennesker med forskellige behov for hjælp, er Mit SL det digitale omdrejningspunkt, for at sikre de bedste rammer for medlemmernes vigtige arbejde. Et meningsfuldt og målbart resultat, i værdiskabelse for mennesker. "
+        },
+        {
+            "el": "p",
+            "text": "I Knowit Experience er vi begejstrede for samarbejder, hvor de løsninger og teknologier, vi leverer, er med til at gøre en reel forskel i menneskers liv. Vi bruger begrebet Human Technology. "
+        },
+        {
+            "el": "p",
+            "text": "Med afsæt i vores succesfulde samarbejde om lancering af Mit SL, er Socialpædagogerne og Knowit Experience i gang med videreudvikling af Mit SL, hvor alle Knowit’s kompetencer som rådgiver og udvikler på tværs af det tekniske, design, kommunikation, UX og marketing er i spil. "
+        }
+    ]
+}

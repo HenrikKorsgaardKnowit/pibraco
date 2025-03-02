@@ -1,0 +1,67 @@
+{
+    "case": "cowis-nye-website-kombinerer-astetik-og-funktionalitet-med-et-reduceret-co2-aftryk",
+    "url": "https://www.knowit.dk/cases/cowis-nye-website-kombinerer-astetik-og-funktionalitet-med-et-reduceret-co2-aftryk/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "COWIs nye website kombinerer æstetik og funktionalitet med et reduceret CO2-aftryk"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "COWI"
+        },
+        {
+            "el": "p",
+            "text": "COWI har fået et dristigt og banebrydende website, der uden tvivl vil skille sig ud i branchen. Hjemmesiden er en digital manifestation af COWIs nye visuelle identitet og fungerer samtidig som en platform, der elegant formidler COWIs projekter, vision og værdier."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F1cbeb3c3290543f1ba8f040a70b35353%2Fhero-image---cowi-2.png&w=640&q=75 640w",
+            "alt": ""
+        },
+        {
+            "el": "h2",
+            "text": "Udfordring"
+        },
+        {
+            "el": "p",
+            "text": "Den globale ingeniør- og konsulentvirksomhed, COWI, stod over for en udfordring. Deres CMS trængte til en teknisk opdatering, og de havde behov for en mere brugervenlig platform. Samtidig havde COWI implementeret en ny visuel identitet og ønskede en tidssvarende digital tilstedeværelse, der afspejlede brandet. Målet var at forbedre fortællingen om COWI og styrke kommunikationsteamets muligheder for indholdsadministration, uden at gå på kompromis med en proces, hvor både kunder og interne interessenter blev inddraget."
+        },
+        {
+            "el": "p",
+            "text": "Vi har haft en rigtig god oplevelse med at arbejde sammen med teamet fra Knowit. Deres ekspertise og engagement gennem hele processen har været afgørende for at realisere vores vision for det nye website. Vi er stolte af resultatet og kan varmt anbefale Knowit for deres professionelle og dedikerede tilgang."
+        },
+        {
+            "el": "p",
+            "text": "Søren G. Mikkelsen"
+        },
+        {
+            "el": "p",
+            "text": "Group Head of Brand and Digital Channels"
+        },
+        {
+            "el": "h2",
+            "text": "Løsning"
+        },
+        {
+            "el": "p",
+            "text": "Med en ny visuel identitet og behov for et nyt teknisk setup, var det afgørende at samtænke strategi, kreativitet og teknologi fra start. Knowit faciliterede en intensiv afklaringsproces på seks uger, hvor både forretning og kunder blev involveret gennem workshops og møder. Med fokus på enkelhed i både kommunikation og løsning blev der udviklet et koncept, hvor kommunikationen blev skåret ind til benet, og brugerne sat i centrum. Vi valgte Umbraco som teknisk løsning, da det fuldt ud opfylder COWIs behov og tilbyder et meget brugervenligt redaktørinterface. Løsningen er cloud-baseret og forberedt til fremtidig skalerbarhed, så COWI kan fortsætte sin vækst og digitale innovation uden hindringer."
+        },
+        {
+            "el": "h2",
+            "text": "Resultat"
+        },
+        {
+            "el": "p",
+            "text": "Det nye website er mere end blot en online tilstedeværelse – det er et digitalt hjem, hvor COWIs værdier, mission og resultater præsenteres med stil og klarhed. Den avancerede platform er designet til at være intuitiv og engagerende. Brugerne er sat i centrum og det er blevet enklere at navigere og finde relevant information. Samtidig er websitets digitale CO2-aftryk reduceret med 59% og websitet er gået fra en rating E til B."
+        },
+        {
+            "el": "p",
+            "text": "Den visuelle og funktionelle opgradering af COWIs website gør det muligt for virksomheden at kommunikere mere effektivt og understøtte deres position i ingeniør- og konsulentbranchen. Det afspejler COWIs evne til at kombinere æstetik med funktionalitet, hvilket skaber en unik og inspirerende brugeroplevelse."
+        }
+    ]
+}

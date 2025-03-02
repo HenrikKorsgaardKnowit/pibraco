@@ -1,0 +1,155 @@
+{
+    "case": "en-digital-transformation-af-studielivet-pa-aalborg-universitet",
+    "url": "https://www.knowit.dk/cases/en-digital-transformation-af-studielivet-pa-aalborg-universitet/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "En digital transformation af studielivet på Aalborg Universitet"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "AALBORG UNIVERSITET"
+        },
+        {
+            "el": "p",
+            "text": "Forestil dig et universitetsliv, hvor alt er lige ved hånden. Ingen stress, ingen forvirring, bare en gnidningsfri digital oplevelse. I samarbejde med Knowit har Aalborg Universitet (AAU) skabt et sammenhængende digitalt univers gennem en række apps, som er designet til at forbedre forskellige aspekter af universitetets aktiviteter."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Fa05dea7696024948a1feebf13ea03dad%2F1.png&w=640&q=75 640w",
+            "alt": ""
+        },
+        {
+            "el": "p",
+            "text": "UDFORDRING"
+        },
+        {
+            "el": "h2",
+            "text": "En digital vision for Aalborg Universitet"
+        },
+        {
+            "el": "p",
+            "text": "Uddannelsesverdenen er under løbende forandring, og forventningerne til studiemiljøet stiger. Midt i denne udvikling står Aalborg Universitet (AAU) stærkt med en vision om at skabe den bedste digitale oplevelse for sine studerende og at gøre det mere eftertragtet at være studerende på universitetet. Siden år 2016 har AAU, i samarbejde med Knowit, udviklet en række apps, der tilsammen revolutionerer den måde, de studerende interagerer med universitetet og organiserer deres studieliv."
+        },
+        {
+            "el": "h2",
+            "text": "Behov for en forbedret digital tilstedeværelse"
+        },
+        {
+            "el": "p",
+            "text": "AAU ønskede i første omgang at forbedre den digitale indgang til universitet og de studerende. Kommunikation via e-mail og plastikkort føltes forældet i en tid, hvor notifikationer, push-beskeder og individualiseret indhold er standarden. Samtidig oplevede de studerende manglende overblik over information og kurser, og tilgangen til kursusmateriale var ineffektiv. Dette skabte et presserende behov for en forbedret digital tilstedeværelse, som kunne lette de studerendes hverdag og forbedre deres oplevelse af universitetets tilbud. Løsningen på denne problemstilling blev til den første app i rækken: AAU Student."
+        },
+        {
+            "el": "p",
+            "text": "AAU Student er en uundværlig app for de studerende, som allerede har sin daglige gang på universitetet. Appen trækker data fra Moodle, som er de studerendes “skoleskema”, og giver et overblik over alle kurser, events, nyheder m.m. Derudover har appen mindsket de “små hurtige spørgsmål” til studievejledningen, da den giver svar på de fleste ting, som de studerende oplever i hverdagen."
+        },
+        {
+            "el": "p",
+            "text": "LØSNING"
+        },
+        {
+            "el": "h2",
+            "text": "Et universitetsliv lige ved fingerspidserne"
+        },
+        {
+            "el": "p",
+            "text": "For at leve op til AAU’s ambition om at være et moderne og innovativt læringssted har AAU, i tæt samarbejde med Knowit, udviklet et komplet digitalt økosystem bestående af en række centrale apps, der følger de studerende gennem hele deres studietid - både før, under og efter. Uanset hvor i deres studierejse de befinder sig, kan de studerende nemt tilgå de ressourcer og informationer, de har brug for, hvad end det er at skabe sig et overblik over uddannelser på AAU, info om studiestart, den daglige gang på AAU eller alumner efter endt uddannelse."
+        },
+        {
+            "el": "h2",
+            "text": "En brugerdrevet udviklingsrejse"
+        },
+        {
+            "el": "p",
+            "text": "Fælles for alle apps er, at de er udarbejdet ud fra teorien i MVP (Minimum Viable Product) krydret med kreative muligheder med et konstant fokus på essensen og de features AAU ønsker. Det har sikret rammerne for at idéer kan vokse uden at tabe fokus på prisen. Gennem tæt samarbejde med de studerende har vi skabt apps, der ikke blot fungerer, men som også føles intuitive, nyttige og inspirerende at bruge."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F6eb094b424224d53bb0bc73b0e679a12%2F9.jpg&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Fa23f15b26ce445aaa9704bc976cd2312%2F10.jpg&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "p",
+            "text": "AAU Student\n\nAAU Student giver hurtig adgang til de vigtigste og mest relevante informationer for de studerendes studieliv såsom skema og information, der er nødvendig for de enkelte kurser."
+        },
+        {
+            "el": "p",
+            "text": "Studievejledningen ønsker at støtte de studerendes mentale velbefindende og gribe problematikkerne, før de opstår. Derfor har vi udviklet et \"Feel Good”-element, der indeholder en række værktøjer, som kan hjælpe den studerende med at få styr på sin tid, prioritere opgaver og opsætte mål. "
+        },
+        {
+            "el": "p",
+            "text": " Feel Good-delen findes værktøjer som:"
+        },
+        {
+            "el": "p",
+            "text": "\nAAU Connect"
+        },
+        {
+            "el": "p",
+            "text": "AAU Connect er målrettet erhvervslivet, og har til formål at gøre det lettere at indlede et samarbejde om forskning, uddannelse og innovation med Aalborg Universitet. Appen giver blandt andet adgang til AAUs vidensressourcer og gør det nemmere for både nye og nuværende samarbejdspartnere at finde viden, forskere og events inden for AAU."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Fa05dea7696024948a1feebf13ea03dad%2F11.jpg&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Fcd20010b0f344cc6a91de32a839fffbf%2F12.jpg&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "p",
+            "text": "AAU Start "
+        },
+        {
+            "el": "p",
+            "text": "AAU Start er de nye studerendes perfekte følgesvend på universitetet, og har til formål at gøre studiestartsperioden let og overskuelig. Appen samler al information om studiestart - blandt andet ved hjælp af tjeklister for de ting, man skal nå inden man starter, overblik over arrangementer, programmer og boglister samt information om, hvor man skal være, og hvornår."
+        },
+        {
+            "el": "p",
+            "text": "AAU Guide "
+        },
+        {
+            "el": "p",
+            "text": "Det er ikke altid ligetil, når man skal vælge en videregående uddannelse. AAU Guide er til fremtidige studerende og har til formål at gøre det lettere at finde informationer om de forskellige studier, som Aalborg Universitet tilbyder. Ved hjælp af filtret i appen, er det muligt at få vist de uddannelser, som passer lige præcis ens egne ønsker og præferencer. Appen hjælper også med at holde styr på vigtige datoer og frister i forbindelse med studiesøgningen."
+        },
+        {
+            "el": "p",
+            "text": "AAU Map"
+        },
+        {
+            "el": "p",
+            "text": "AAU Map fungerer som en kort over AAUs indendørsarealer. Appen gør det nemt at finde rundt på Aalborg Universitet’s forskellige campusser og fortæller, hvordan man finder hen til det specifikke lokale, man skal til. Fx ved at søge efter lokalenumre. Det fremgår tilmed hvilken etage, man skal gå til."
+        },
+        {
+            "el": "p",
+            "text": "RESULTATER"
+        },
+        {
+            "el": "h2",
+            "text": "Plads til innovation"
+        },
+        {
+            "el": "p",
+            "text": "AAU's apps er heldigvis ikke bare skabt og glemt. Samarbejdet med AAU er fortsat tæt, og vi arbejder løbende på at vedligeholde og opdatere appsene. Der er en kontinuerlig strøm af nye funktionalitetsønsker og forbedringsforslag, hvilket sikrer, at appsene altid er up-to-date og relevante for målgruppen. Det dynamiske samarbejde sikrer, at AAU fortsat kan tilbyde sine studerende førsteklasses digitale løsninger og fastholde sin position som et moderne og innovativt læringssted."
+        },
+        {
+            "el": "h2",
+            "text": "Om kunden"
+        },
+        {
+            "el": "p",
+            "text": "Aalborg Universitet (AAU) er skabt i 1974 og har i dag campusområder i Aalborg, Esbjerg og København og har mere end 17.000 studerende. Ved AAU’s traditionsrige årsfest tildeler universitetet, sammen med en række fonde, priser og hæder til forskere, studerende og undervisere på AAU samt udenlandske forskere. AAU er det højest rangerede universitet i Danmark inden for forskning i datalogi og har nogle af verdens bedste ingeniøruddannelser. Årligt oprettes mellem 300 og 400 forskningsaftaler med offentlige og private aktører, herunder med store digitale virksomheder."
+        }
+    ]
+}

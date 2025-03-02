@@ -1,0 +1,119 @@
+{
+    "case": "dataplatformen-strommer-data-til-brug-for-a-insinoorit-og-dens-kunder",
+    "url": "https://www.knowit.dk/cases/dataplatformen-strommer-data-til-brug-for-a-insinoorit-og-dens-kunder/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Dataplatformen strømmer data til brug for A-Insinöörit og dens kunder"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "A-INSINÖÖRIT"
+        },
+        {
+            "el": "p",
+            "text": "A-Insinöörits forretningsudvikling baseres i stigende grad på at kombinere og forfine data til forskellige formål. I et projekt ledet af IT-afdelingen blev der skabt en centraliseret dataplatform og spilleplads for koncernens data projekter. Udover udviklingsarbejdet så projektet også fremad og formulerede en vision for den systematiske udnyttelse af data i forretningen."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F88f8e78e2c7c4e59bc905e96465411fe%2Fa-insinoorit-case-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "Dataplatformen strømmer data til brug for A-Insinöörit og dens kunder"
+        },
+        {
+            "el": "h2",
+            "text": "A-Insinöörit Oy er et finsk byggekonsulentfirma"
+        },
+        {
+            "el": "p",
+            "text": "A-Insinöörit Oy er et finsk byggekonsulentfirma. Etableret i 1959, har virksomheden specialiseret sig i byggekontrakter, konstruktionsdesign, civil- og miljøteknik, infrastrukturdesign samt design af bjerg- og miljøanlæg. Risto Tulenheimo, Chief Information Officer hos A-Insinöörit, siger, at behovet for at udnytte forskellige datakilder i virksomhedens interne drift og kundeprojekter virkelig tog fart i 2020."
+        },
+        {
+            "el": "p",
+            "text": "\"Vi konkluderede uden tvivl, at løsning af dette problem var en akut sag både teknisk og strategisk. Vi bemærkede også, at vi var begyndt at arbejde i isolerede siloer, og dette niveau af adskillelse var uønsket fra et koncernperspektiv.\""
+        },
+        {
+            "el": "p",
+            "text": "Målet var at opbygge en fælles dataplatform, der ville strømme data til brug for virksomheden og potentielt også for dens kunder. Udover selve platformen havde virksomheden brug for en datastrategi og grundregler for arbejdet med data. A-Insinöörit har store ambitioner specifikt med at levere og sælge digitale tjenester til kunder, men virksomheden havde også brug for en dataplatform for at forbedre sin driftseffektivitet gennem en intern digital transformation."
+        },
+        {
+            "el": "p",
+            "text": "\"Vi konkluderede, at folkene her var gode, og virksomheden virkede som en fleksibel, effektiv og samarbejdsvillig partner.\""
+        },
+        {
+            "el": "p",
+            "text": "Risto Tulenheimo, Chief Information Officer"
+        },
+        {
+            "el": "p",
+            "text": "A-Insinöörit"
+        },
+        {
+            "el": "p",
+            "text": "Der blev gennemført en konkurrenceudsættelsesproces efteråret 2020 med det formål at identificere den bedste partner - og ikke nødvendigvis den billigste. Fremtidige holdmedlemmer blev mødt på forhånd."
+        },
+        {
+            "el": "p",
+            "text": "\"Vi konkluderede, at folkene her var gode, og virksomheden virkede som en fleksibel, effektiv og samarbejdsvillig partner,\" siger Tulenheimo."
+        },
+        {
+            "el": "p",
+            "text": "Udover den faktiske tekniske dataplatform, kendt som Datahub, besluttede virksomheden straks at implementere to brugssagsapplikationer til produktionsbrug, der bygger på den nye platform. Den første brugssagsapplikation er Cost Forecasting Tool, som bruges til systematisk og effektivt at forudsige de endelige omkostninger ved projekter undervejs, hvilket giver projektledere mere indflydelse for at sikre en god projektudførelse. Så vidt Tulenheimo er bekendt med, har ingen andre en lignende værktøj endnu."
+        },
+        {
+            "el": "p",
+            "text": "Den anden brugssagsapplikation var et Target Cost Data Repository, der gør det muligt at analysere koncernens omkostningsberegninger på en konsolideret måde ved hjælp af den samme brugergrænseflade. Dette blev tidligere udført ved hjælp af individuelle filer."
+        },
+        {
+            "el": "p",
+            "text": "Da samarbejdet begyndte i januar 2021, fulgte flere spor parallelt. Brugssagsapplikationerne blev lanceret med det samme, mens Datahub var under opførelse. Virksomheden tænkte også på fremtidens datarkitekturmodel og planlagde sin datastrategi. "
+        },
+        {
+            "el": "h2",
+            "text": "Azure, Snowflake, Power BI og samarbejde mellem mennesker"
+        },
+        {
+            "el": "p",
+            "text": "Datahub blev bygget på Azure, et naturligt valg for et ingeniørfirma, der er afhængigt af Microsoft-økosystemet. Platformen bruger Azures egne teknologier, men den inkluderer også Snowflake, som i øjeblikket bruges til formål som at hente omkostningsberegninger baseret på filer."
+        },
+        {
+            "el": "p",
+            "text": "\"I princippet kunne alt være blevet gjort på Azure, men Snowflake har mere moden, indbygget funktionalitet til formål som salg af digitale tjenester. Der er allerede masser af praktiske eksempler på, hvordan man sælger data. Power BI spiller en afgørende rolle blandt de andre elementer. Det gør ingen forskel at centralisere data et sted, medmindre det kan præsenteres som information, som brugerne kan udnytte. Power BI er i øjeblikket det vigtigste værktøj til brugeradaption. Det giver personer i forskellige roller mulighed for at bore ned i forskelligt dataindhold,\" siger Jani Ojala, rådgivende konsulent hos Knowit."
+        },
+        {
+            "el": "p",
+            "text": "For øjeblikket importeres der stadig en masse data til cloud-platformen på en menneskecentreret måde. På et senere tidspunkt tilføjes der et ERP-interface for at overføre data fra ERP til Snowflake via Azure. Et yderligere mål er, at systemintegrationer begynder at producere data i et fælles depot, som derefter kan bruges til at berige de tidligere data. A-Insinöörit har flere systemprojekter i støbeskeen."
+        },
+        {
+            "el": "p",
+            "text": "\"Det primære mål er at have de tilgængelige data opdelt i et standardformat og let tilgængelige, med henblik på de nødvendige adgangsrettigheder. Koncernens personale, fra eksperter til ledelsesmedlemmer, er engageret i projektet, hvilket er vigtigt for en kulturel transformation som denne,\" siger Tulenheimo."
+        },
+        {
+            "el": "h2",
+            "text": "Forandringsledelse er påkrævet, selv i en entusiastisk organisation"
+        },
+        {
+            "el": "p",
+            "text": "A-Insinöörit er tydeligt entusiastisk for dataplatformsprojektet, og der sendes forespørgsler hver dag om færdiggørelsen af brugssagsapplikationerne og helt nye dataprodukter. Den øverste ledelse er også entusiastisk for dataarbejdet. Strategiarbejdet, der pågik samtidig, har givet indblik i behovet for kulturel forandring."
+        },
+        {
+            "el": "p",
+            "text": "\"Vi skal oprette roller for dataejerskab, oprettelse og vedligeholdelse. Vi forstår nu, hvad det kræver at udnytte datakilder bedre. Vi har også besluttet, at vi gerne vil gøre flere business intelligence-værktøjer tilgængelige for medarbejderne i fremtiden, så de kan kombinere data og skabe analyser uden kodning. I vores sektor er det en nødvendig færdighed, men det er stadig en ny færdighed,\" siger Tulenheimo."
+        },
+        {
+            "el": "p",
+            "text": "\"I fremtiden bør det være en selvfølge for medarbejderne at spørge først, hvilke datakilder der er tilgængelige, og hvordan man opbygger visninger af dem,\" fortsætter Ojala."
+        },
+        {
+            "el": "p",
+            "text": "Selvfølgelig vil der altid være nogle i en organisation med 900 personer, der er vant til at arbejde meget selvstændigt og er tilbageholdende med at dele deres viden. Forandringsledelse vil være påkrævet for at få de mest konservative medarbejdere til at tro på fordelene ved dataudnyttelse og acceptere at bruge de ekstra få øjeblikke, der kræves for at gemme data. Værktøjet tvinger næsten brugeren til at se fordelene ved at gøre tingene sammen."
+        },
+        {
+            "el": "p",
+            "text": "\"Ofte skal du starte med værktøjet først, men værktøjet er ikke det vigtigste i dette tilfælde – det er kulturen med at arbejde sammen. Det er op til alle – ikke kun ledere – at tænke over, hvordan man overfører ekspertise fra mere erfarne personer til mere juniorpersonale. I fremtiden vil værktøjet blive udviklet baseret på deres indsigter,\" siger Ojala."
+        }
+    ]
+}

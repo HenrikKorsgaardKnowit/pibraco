@@ -1,0 +1,131 @@
+{
+    "case": "larernes-a-kasse-far-rebranding-pa-skemaet",
+    "url": "https://www.knowit.dk/cases/larernes-a-kasse-far-rebranding-pa-skemaet/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Lærernes A-kasse får rebranding på skemaet"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "LAKA"
+        },
+        {
+            "el": "p",
+            "text": "Med en helt ny visuel identitet og tone of voice har Lærernes A-kasse fået et nyt, moderne udtryk på deres website og en mere tidssvarende brandposition på tværs af deres online platforme. Gennem UX-greb og omstrukturering af indholdet på laka.dk, er medlemmernes selvbetjeningsoplevelse blevet forbedret, samtidigt med at det redaktionelle arbejde for LAKAs ansatte er blevet effektiviseret."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Ff495a68c327145e28e0c3a28520e921c%2Ftop-scene-1492x839.png&w=640&q=75 640w",
+            "alt": "Lærernes A-kasse fået et nyt, moderne udtryk"
+        },
+        {
+            "el": "h2",
+            "text": "Arbejder for dem, der åbner verden"
+        },
+        {
+            "el": "p",
+            "text": "Siden 1985 har Lærernes a-kasse arbejdet mod deres vision om at være Danmarks bedste a-kasse. Det har de blandt andet gjort ud fra årlige medlemsundersøgelser, som har givet dem input til at justere deres tilstedeværelse og give form til deres strategi og de fire værdier, de arbejder ud fra. LAKA ønsker at være en hjælpende hånd og et økonomisk sikkerhedsnet for alle dem, der gør os nysgerrige og åbner verden for os – Danmarks lærere og undervisere."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Fe53c704fff2a4416adffda2bf285b869%2Fgroup-6740-2-1309x736.png&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Et tilstøvet omslag"
+        },
+        {
+            "el": "p",
+            "text": "I medlemsundersøgelserne tegnede sig et tydeligt mønster i holdningen til LAKAs (nu forhenværende) website. Deres 76.000 medlemmer syntes, at laka.dk var umoderne og ustruktureret – og ikke mindst et univers, de ikke kunne genkende sig selv i. Derfor stod LAKA nu overfor at ændre deres positionering til noget mere moderne. I samme omgang skulle den digitale brugeroplevelse have et løft, så de kunne servicere de medlemmer, de allerede har, og de ledige der måtte være, på et endnu højere niveau. "
+        },
+        {
+            "el": "p",
+            "text": "Med deres udefra-og-ind-tilgang, ønskede LAKA desuden at sætte fokus på en række afgørende delelementer i brugerrejsen. Løsningen skulle først og fremmest gøre det nemmere for deres medlemmer, at komme i kontakt med LAKAs rådgivere. Derudover skulle det tydeliggøres, at LAKA er relevant for alle sine medlemmer – ledig eller ej – ved at tilbyde forskellige kurser og events, som også er givende for medlemmer, der er i job. Og så var ambitionen ikke kun at være det sted, ledige og nyuddannede besøgte, for at tjekke op på vilkår og regler for bl.a. dagpengekrav, efterløn og rådighedsvilkår, men også for at få inspiration og viden om branchen. "
+        },
+        {
+            "el": "p",
+            "text": "Målet var altså at gøre LAKA til den foretrukne a-kasse for alle lærere og undervisere i landet med en forbedret digital brugeroplevelse."
+        },
+        {
+            "el": "h2",
+            "text": "Moderne brand-position på pensum"
+        },
+        {
+            "el": "p",
+            "text": "I samarbejde med LAKA fik vi afstemt funktionalitet og finesse – og løsningen blev at splitte leverancen op i to dele, som skulle implementeres i faser."
+        },
+        {
+            "el": "p",
+            "text": "Første fase var alt det, der lå foran login på laka.dk - en ny brandidentitet. Med afsæt i LAKA's nye brand-identitet lagde vi ud med at tage de indledende strategiske skridt til det nye design og tone of voice, og med afsæt i deres identitetsarbejde og gennem kollaborative workshops strømlinede vi tankerne bag UX og design og blev enige om, hvordan det nye laka.dk skulle se ud."
+        },
+        {
+            "el": "p",
+            "text": "Ny font, nye farver, nye billeder og en ny stemme er byggestenene i LAKAs nye brandidentitet. Det nye website er spækket med nye temafarver og et sprog, som bryder med den gængse forestilling om en traditionel a-kasse. Laka.dk afspejler nu et mere tidssvarende design som hænger sammen på tværs af platforme. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F7afc42ac003045d895565348254d0227%2Fframe-6742-2-800x600.png&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Ff0c1c759057e4741b2b36ae4a4b65d88%2Fkarussel-800x600.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Selvbetjening i A-klasse"
+        },
+        {
+            "el": "p",
+            "text": "Med et forbedret UX-design, og en mindre oprydning i indholdet på hjemmesiden, er navigationen og læseligheden blevet væsentligt bedre. Det har både gjort det nemmere for medlemmerne at betjene sig selv og til at tage imod nogle af de arrangementer og workshops, som LAKA tilbyder. "
+        },
+        {
+            "el": "p",
+            "text": "Som prikken over i’et  er topelementet på forsiden kodet, så et nyt mønster vises hver gang en bruger klikker sig ind på laka.dk, hvilket taler ind i fortællingen om, at LAKA er i konstant bevægelse. Med den feature modvirkes følelsen af et statisk og støvet site, da man, som besøgende, får en fornemmelse af, at der sker noget nyt hver gang, man besøger laka.dk."
+        },
+        {
+            "el": "p",
+            "text": "MinSide er blevet låst bag et mitID login, så brugeren nemt kan logge ind og tilgå sin  data. På min side indhentes informationer om den pågældende brugers kommende møder og arrangementer via et api udviklet af NetCompany, og sammen kører dette med arrangement data fra Umbraco. I den forbindelse er der bygget en integration til et bookingsystem der lader brugeren booke møder med A Kassen."
+        },
+        {
+            "el": "p",
+            "text": "For at assistere sagsbehandlerne er der blevet implementeret impersonation, der giver vedkommende mulighed for at agere som det pågældende medlem og dermed bedre kunne guide medlemmet igennem de forskellige muligheder på hjemmesiden, herunder tilmeldinger, blanketter mv. Derudover er der af sikkerhedshensyn implementeret restriktioner, der gør, at en sagsbehandler ikke kan indsende formularer mv. på vegne af medlemmer."
+        },
+        {
+            "el": "h2",
+            "text": "En redaktøroplevelse med karakter"
+        },
+        {
+            "el": "p",
+            "text": "For at optimere arbejdet som redaktører af hjemmesidens indhold, er det nye website, som tidligere var bygget i Optimizely, nu bygget i Umbraco Cloud."
+        },
+        {
+            "el": "p",
+            "text": "I løsningen var et stort fokus på at give redaktørerne den bedst mulige oplevelse. Dette har vi blandt andet opnået ved at implementere custom dashboards til at administrere arrangement tilmeldinger, samt implementeret præsentation modulerne i Umbracos best of breed Block list modul. Herigennem blev oplevelsen med at oprette content så strømlinet som muligt, uden at ofre fleksibilitet."
+        },
+        {
+            "el": "p",
+            "text": "Ved at bruge Umbraco har LAKAs redaktører fået markedets bedste og mest intuitive platform at arbejde på, som derudover giver en høj grad af fleksibilitet, og som er nem og effektiv at tilpasse. "
+        },
+        {
+            "el": "h2",
+            "text": "Forbedret brugeroplevelse fra A-Z"
+        },
+        {
+            "el": "p",
+            "text": "Det nye laka.dk sikrer LAKA en stærk brandposition uden at gå på kompromis med brugervenlighed for slutbrugeren. Derudover sikrer løsningen stor genbrugelighed og ensartethed, så LAKAs redaktører kan udføre deres arbejde nemt. LAKA ser frem imod en øget medlemstilfredshed på baggrund af den forbedrede digitale selvbetjeningsløsning."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Fc74280f9e804469db10dff71a99ee2e0%2Fgroup-6741-2-1362x766.png&w=640&q=75 640w",
+            "alt": "\"\""
+        }
+    ]
+}

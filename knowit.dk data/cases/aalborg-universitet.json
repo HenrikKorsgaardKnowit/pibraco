@@ -1,0 +1,88 @@
+{
+    "case": "aalborg-universitet",
+    "url": "https://www.knowit.dk/cases/aalborg-universitet/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "En app, der gør det nemmere, at være studerende"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "AALBORG UNIVERSITET"
+        },
+        {
+            "el": "p",
+            "text": "Mobil-app’en, der altid er opdateret med nødvendig information for de studerende."
+        },
+        {
+            "el": "p",
+            "text": "UDFORDRING"
+        },
+        {
+            "el": "h2",
+            "text": "Gøre studiedagen nemmere for de studerende"
+        },
+        {
+            "el": "p",
+            "text": "Aalborg Universitet ønskede at gøre det mere eftertragtet at være studerende på Aalborg Universitet – og samtidig gøre studiedagen nemmere for de studerende. Udfordringen var at ramme så mange studerende som muligt på tværs af studieretninger. Et ekstra element, som blev udviklet, var et Feel Good-element, som studievejledningen ønskede for at tilgodese og gribe problematikkerne, før de opstår under studietiden."
+        },
+        {
+            "el": "p",
+            "text": "AAU Student blev udviklet i tæt samarbejde med AAU’s app-team og studiemedhjælpere. Dette gav en rigtig god indsigt i de studerendes hverdag, ønsker og behov. App’en er derfor udviklet på baggrund af brugerundersøgelser og workshops."
+        },
+        {
+            "el": "p",
+            "text": "LØSNING"
+        },
+        {
+            "el": "h2",
+            "text": "Aalborg Student APP"
+        },
+        {
+            "el": "p",
+            "text": "AAU Student trækker data fra Moodle, som er de studerendes “skoleskema”. App’en giver tilgang til alle kurser, events, nyheder etc. Derudover har app’en mindsket de “små hurtige spørgsmål” til studievejledningen, da den giver svar på de fleste ting, som de studerende oplever i hverdagen."
+        },
+        {
+            "el": "p",
+            "text": "Du kan læse mere i denne pdf: Aalborg Student APP"
+        },
+        {
+            "el": "p",
+            "text": "Den studerende kan se sit skema og tilgå al information, som er nødvendig for de enkelte kurser. Skemaet kan synkroniseres med eksempelvis den studerendes almindelige kalender i telefonen."
+        },
+        {
+            "el": "p",
+            "text": "En liste med links har gjort det nemt tilgængeligt for de studerende at finde den relevante information, de har behov for. I app’en er alting samlet, og de skal ikke bruge lang tid på at finde, hvad de har brug for."
+        },
+        {
+            "el": "p",
+            "text": "Studievejledningen tilbyder hjælp til studieteknikker mv. i studietiden. Dette er tilgængeligt i app’en, ligesom der også findes en opsummering af, hvordan den studerende bruger sin tid, og om der er behov for omprioriteringer."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F71601a22559740fa826550b568716096%2Faau_udfodring.jpg&w=640&q=75 640w",
+            "alt": "Aalborg Student APP"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F649635e79f24478690328282f5e9a09f%2Faau_loesning.jpg&w=640&q=75 640w",
+            "alt": "Aalborg Student APP"
+        },
+        {
+            "el": "p",
+            "text": "OM KUNDEN"
+        },
+        {
+            "el": "h2",
+            "text": "Aalborg Universitet (AAU)"
+        },
+        {
+            "el": "p",
+            "text": "Aalborg Universitet (AAU) er skabt i 1974 og har i dag campusområder i Aalborg, Esbjerg og København og mere end 17.000 studerende. Ved AAU’s traditionsrige årsfest tildeler universitetet, sammen med en række fonde, priser og hæder til forskere, studerende og undervisere på AAU samt udenlandske forskere. AAU er det højest rankede universitet i Danmark inden for forskning i datalogi. Årligt oprettes ml. 300 og 400 forskningsaftaler med offentlige og private aktører, herunder med store digitale virksomheder."
+        }
+    ]
+}

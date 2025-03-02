@@ -1,0 +1,113 @@
+{
+    "case": "velfac-far-astetisk-finpudsning",
+    "url": "https://www.knowit.dk/cases/velfac-far-astetisk-finpudsning/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "VELFAC får æstetisk finpudsning"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "VELFAC"
+        },
+        {
+            "el": "p",
+            "text": "Med et allerede etableret brand, og en stærk identitet som en af Danmarks førende leverandører af dagslys, ønskede VELFAC en restyling af deres hjemmeside, som rent visuelt ikke var fulgt med tiden. Tre gennemgående designprincipper og et fokus på brugervenlighed bygger fundament for det nye velfac.dk, som nu byder på en forbedret online brugeroplevelse og æstetiske greb, der afspejler VELFAC produkterne og deres identitet."
+        },
+        {
+            "el": "h2",
+            "text": "VELFAC byder liv, lys og luft indenfor"
+        },
+        {
+            "el": "p",
+            "text": "Hos VELFAC stræbes der efter at blive den virksomhed, der bedst formår at bidrage til bedre bygninger med dagslys, frisk luft og udsyn. En mission som i højere grad kunne afspejles på websitet. Derfor kom VELFAC til os med ønsket om en finpudsning af deres relativt omfattende website, som allerede bød på masser af indhold, sektioner og integrationer - men som rent visuelt ikke var fulgt med tiden."
+        },
+        {
+            "el": "p",
+            "text": "Store, flotte vinduespartier lukker liv, lys og luft ind i vores hjem. Derfor blev disse tre elementer valgt som designprincipper for at give brugerne oplevelsen af rummelighed og følelsen af at åbne et vindue."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fvelfac%2Fframe-8-2.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Liv, lys og luft"
+        },
+        {
+            "el": "p",
+            "text": "Når vi åbner et vindue, byder vi udendørslivet indenfor. Det skal kunne mærkes, når man kommer ind på sitet. Derfor skulle velfac.dk byde på mere bevægelse og livlighed – noget som blev opnået med mennesker, interaktioner og skæve vinkler som byggesten. Derudover blev billeder med mennesker et gennemgående element af designet på det nye velfac.dk, som både kommer til udtryk i illustrationer og som features på ikoner."
+        },
+        {
+            "el": "p",
+            "text": "VELFAC komponentbibliotek var omfattende og rummede masser af kvalitetsindhold. Men ved at tweake deres farvepalette og gøre designet lysere, opnåede vi et lettere og mere ensartet udtryk uden støj. Designet er bygget op med lag, der overlapper hinanden og med transparente elementer, der imiterer et vindue og underbygger fortællingen om at lade lyset og livet trænge igennem."
+        },
+        {
+            "el": "p",
+            "text": "Ved at arbejde med en lysere og forstørret udgave af det eksisterende billedmateriale, og give indholdet mere luft med white spaces, opnåede vi et mindre klemt og kompakt indtryk – noget som også har en effekt på overblikket af sitet, så det nu er lettere at finde, hvad man søger."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fvelfac%2Fframe-4_sand.webb.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Parallelt udviklingsforløb og effektivt designsystem"
+        },
+        {
+            "el": "p",
+            "text": "VELFAC åbnede døren for Knowit Experience i foråret 2021. Her blev der snakket store og små visioner og præmisser for, hvordan det nye site skulle udfolde sig. For at undgå at VELFAC skulle stå med næsen mod ruden i et år, implementerede vi den nye brugeroplevelse og det nye design med .NET i Episerver parallelt med det eksisterende site. Dette gav VELFACs redaktører mulighed og tid til at oprette indhold og bygge det nye velfac.dk, mens det oprindelige site kørte uberørt imens. "
+        },
+        {
+            "el": "p",
+            "text": "Vi har bygget sitet ved at arbejde komponentbaseret i Stencil JS og udvikle vores designsystem i Storybook, hvilket ikke kun har effektiviseret vores indsats, men også været fordelagtigt for VELFAC, da løbende vedligehold og optimering er gjort nemmere og mere risikofrit, mens vi samtidig sikrer en høj grad af ensartethed. "
+        },
+        {
+            "el": "p",
+            "text": "Hos Knowit Experience arbejder vi i øvrigt ofte med designsystemer til at skrue op for effektiviteten og sikre en langt mere konsistent og kvalitetssikker design- og udviklingsfase. "
+        },
+        {
+            "el": "p",
+            "text": "Læs vores blogindlæg om 7 gode grunde til at bruge et designsystem."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fvelfac%2Fframe-6-2-webb.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Gennemsigtigt produktoverblik"
+        },
+        {
+            "el": "p",
+            "text": "VELFAC bryster sig af et kæmpe sortiment af vinduer, som altid er i udvikling. Men efterhånden som produktudvalget er blevet større, er overskueligheden blevet mindre. Ønsket var derfor at overføre det lette udtryk fra de trykte kataloger til produkter.velfac.dk ved at forbedre visualiseringen af produktoverblikket."
+        },
+        {
+            "el": "p",
+            "text": "En afgørende del af den proces var at gentænke bindeleddet mellem websitet og PIM-systemet - det system der hjælper med at håndtere og distribuere produktinformationerne. Til det udviklede og implementerede vi et Live Sync Modul, som imødekommer VELFAC-redaktørernes behov for at kunne se deres ændringer online straks efter, de har arbejdet i PIM-databasen."
+        },
+        {
+            "el": "p",
+            "text": "Siden finjusteringen af PIM-databasen og implementeringen af et nyt Live Sync Modul er kompleksiteten i databasen betydeligt minimeret. Løsningen har derudover også bidraget til at vedligeholde den arbejdsgang, VELFACs ansatte allerede er vante i uden at pålægge dem yderligere arbejde. For fremtiden er det også ambitionen at gøre databasen tilgængelig offline, så den kan tilgås remote."
+        },
+        {
+            "el": "p",
+            "text": "Vi har været supertilfredse med samarbejdet med Knowit igennem hele projektet. Vi har oplevet meget kompetente folk i alle projektets faser lige fra design og UX, til udvikling, test og den gennemgående projektledelse. Vi havde fra begyndelsen en klar ide om hvor vi ville hen med projektet. Den ide har Knowit forstået, forfinet og forbedre til et resultat, der er bedre end forventet og vi som kunde er ovenud tilfredse med."
+        },
+        {
+            "el": "p",
+            "text": "Morten Bonde Pedersen, Digital Lead Manager"
+        },
+        {
+            "el": "p",
+            "text": "VELFAC."
+        }
+    ]
+}

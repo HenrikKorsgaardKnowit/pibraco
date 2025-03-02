@@ -1,0 +1,62 @@
+{
+    "case": "en-helt-ny-bank",
+    "url": "https://www.knowit.dk/cases/en-helt-ny-bank/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "En helt ny bank til Monobank"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "MONOBANK"
+        },
+        {
+            "el": "p",
+            "text": "Markedet oversvømmes af aktører, der tilbyder lån uden sikkerhed, så hvordan kan en ny aktør da konkurrere? Efterspørgslen er stigende blandt kunder med højere indkomst, og de ønsker fleksible, intelligente banktjenester. Dette blev udgangspunktet for strategiarbejdet og grundlaget for MONOBANKs identitet."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fmonobank%2Fmonobank-banner-1284x722.jpg&w=640&q=75 640w",
+            "alt": "Monobank banner"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fmonobank%2F550x413_logo.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fmonobank%2F550x413_tiles.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Leveringen"
+        },
+        {
+            "el": "p",
+            "text": "En god brugeroplevelse var en vigtig faktor for kunden, fordi de som ren onlinebank er afhængige af en problemfri og engagerende oplevelse på nettet. Knowit Experience udviklede webstederne med brugeroplevelse, ux-design og teknisk implementering af disse. Derudover har vores kolleger i Knowit Solutions udviklet det bagvedliggende system bankløsningen. "
+        },
+        {
+            "el": "p",
+            "text": "Kompetenceområder, der blev brugt til løsningen: Strategi, navneudvikling, visuel identitet, konceptudvikling, ux-design, teknisk udvikling, projektledelse."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fmonobank%2Fmonobank_eksempel_banner.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Løsningen"
+        },
+        {
+            "el": "p",
+            "text": "Løsningen blev en bank, der leverer fleksible og intelligente banktjenester til en målgruppe, der forventer at blive taget alvorligt. MONOBANKs visuelle identitet blev udviklet med udgangspunkt i positioneringsstrategien. Vi lagde stor vægt på, at bankens USP'er skulle fremhæves på en konsekvent måde, så de kan klare sig på et hårdt marked med mange konkurrenter og en masse lavrenteprodukter."
+        }
+    ]
+}

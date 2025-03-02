@@ -1,0 +1,107 @@
+{
+    "case": "nyt-og-optimeret-design-forbedrer-brugeroplevelsen-i-nabohjalp-appen",
+    "url": "https://www.knowit.dk/cases/nyt-og-optimeret-design-forbedrer-brugeroplevelsen-i-nabohjalp-appen/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Nyt og optimeret design forbedrer brugeroplevelsen i Nabohjælp-appen"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "NABOHJÆLP"
+        },
+        {
+            "el": "p",
+            "text": "Nabohjælp-appen har gennemgået et omfattende designløft og tilbyder nu en mere intuitiv navigering, forbedret visuel æstetik og brugervenlige interaktioner. Opdateringen gør det nemmere end nogensinde for brugerne at engagere sig i sit lokalsamfund og samarbejde med naboer om alt fra vejfest til overvågning af boliger under ferien."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fnabohjalp%2Fhero-1.jpg&w=640&q=75 640w",
+            "alt": ""
+        },
+        {
+            "el": "h2",
+            "text": "Indbrudsforebyggelse med godt naboskab i centrum"
+        },
+        {
+            "el": "p",
+            "text": "Siden 1987 har Det Kriminalpræventive Råd (DKR) arbejdet for at forebygge indbrud og styrke nabofællesskaberne i hele landet med Nabohjælp. Og det virker. Faktisk så godt, at 2 ud af 3 tyve har oplevet at blive afbrudt af en nabo."
+        },
+        {
+            "el": "p",
+            "text": "Nabohjælp-appen er et led i at styrke det gode samarbejde mellem naboer, og den gør det endnu nemmere for naboer at kommunikere og samarbejde om at forebygge kriminalitet, især indbrud og mistænkelig adfærd, gennem deling af information og observationer. Brugerne kan koordinere og planlægge feriehjælp med de tætteste, så hjemmene holdes under opsyn, mens ejerne er væk."
+        },
+        {
+            "el": "p",
+            "text": "Appen har flere end 275.000 brugere, som alle tager del i at styrke fællesskabet og sikkerheden i nabolagene. Det ønsker vi, at de bliver ved med. Og gerne i selskab med endnu flere brugere. Da Knowit i april 2023 overtog drift, vedligehold og videreudvikling fra den hidtidige leverandør, var tiden inde til at kigge på det 10 år gamle design. Appen trængte gevaldigt til en æstetisk overhaling og en gennemgang af funktionaliteter. Knowit har stået for at give Nabohjælp-appen et visuelt løft for både at skabe en forbedret brugeroplevelse og øget engagement hos brugerne. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fnabohjalp%2F2.jpg&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "h2",
+            "text": "Nyt design"
+        },
+        {
+            "el": "p",
+            "text": "Nabohjælp-appen har gennemgået en betydelig opdatering af designet. Brugeroplevelsen er forbedret med et mere nutidigt og brugervenligt interface. De tidligere farver er erstattet med et mere afdæmpet og elegant design, som gør navigationen intuitiv og mere behagelig. Med det nye design bliver det nemmere for naboer at samarbejde om at holde øje med hinandens huse og reagere på mistænkelig adfærd. Det styrker både fællesskabet og sikkerheden i nabolaget."
+        },
+        {
+            "el": "p",
+            "text": "Et forældet design kan give indtryk af, at appen ikke bliver vedligeholdt eller forbedret, og den fornemmelse ønskede Det Kriminalpræventive Råd ikke at give. Målet for redesignet var derfor at skabe en mere sammenhængende og indbydende brugeroplevelse, som både tiltrækker nye brugere og fastholder de eksisterende. Nabohjælps primære farver er i det nye design brugt som virkemidler og call-to-action elementer, mens en beige baggrundsfarve skaber ro og konsistens i det visuelle udtryk. Brugerne kan hurtigt finde de funktioner, de har brug for, hvilket gør appen mere intuitiv og aktiverer dem i appens fællesskaber."
+        },
+        {
+            "el": "p",
+            "text": "Redesignprocessen har også givet mulighed for at imødekomme moderne designstandarder og brugervenlighedskrav. Den gamle version af appen var funktionel, men den nye version skaber en langt bedre brugeroplevelse, som passer til nutidens forventninger til mobilapplikationer såsom intuitiv navigation, løbende forbedringer og sikkerhed."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fnabohjalp%2F3.jpg&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "h2",
+            "text": "Forbedret funktionalitet"
+        },
+        {
+            "el": "p",
+            "text": "Udover det visuelle løft har vi forbedret funktionaliteterne og implementeret nye funktioner i appen. Vi har f.eks opdateret opslagstavlefunktionen, der gør det muligt for brugerne/nabohjælpere at kommunikere bredere med deres nabolag og stille spørgsmål om stort og småt - ligesom man ville gøre over hækken."
+        },
+        {
+            "el": "p",
+            "text": "Brugerrejsen for at oprette advarsler i nabolaget er blevet forenklet ved at gøre det tydeligere, hvordan brugeren skal navigere for at oprette en advarsel. Og det er blevet mere trygt at dele sine ferier ved at tydeliggøre, hvem der kan se ens ferier i appen."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fnabohjalp%2Fmockup-feriekalender-1920x1080.jpg&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fnabohjalp%2F5.jpg&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "h2",
+            "text": "Resultater"
+        },
+        {
+            "el": "p",
+            "text": "Nabohjælp-appens nye design og funktioner formår at engagere brugerne i at tage del i nabolagets sikkerhed og tryghed. Det er blevet enklere at navigere, dele information og koordinere feriehjælp. Appen og Nabohjælps hjemmeside udgør tilsammen Nabohjælps digitale tilstedeværelse. Appen er et vigtigt element, for at Nabohjælp kan fungere og skabe tryghed og sammenhold i boligområder i hele landet. Det nye og opdaterede design tiltrækker ikke blot flere brugere, men fastholder også de eksisterende ved at tilbyde en platform, der er praktisk, effektiv og æstetisk tiltalende."
+        },
+        {
+            "el": "h2",
+            "text": "Om kunden"
+        },
+        {
+            "el": "p",
+            "text": "Det Kriminalpræventive Råd arbejder for at forebygge kriminalitet og skabe et mere trygt og sikkert Danmark. Rådet blev etableret i 1971 og består af repræsentanter fra forskellige sektorer, herunder politiet, kommuner, frivillige organisationer og andre relevante aktører. DKR's arbejde er bredt funderet og omfatter forskning, rådgivning og udvikling af konkrete initiativer og kampagner med henblik på at komme samfundets udfordringer med kriminalitet til livs. Nabohjælp har eksisteret siden 1987 og er blot ét af Rådets initiativer."
+        }
+    ]
+}

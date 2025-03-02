@@ -1,0 +1,96 @@
+{
+    "case": "videreudvikling-og-support-af-vias",
+    "url": "https://www.knowit.dk/cases/videreudvikling-og-support-af-vias/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Videreudvikling og support af VIAS"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "SOCIALSTYRELSEN"
+        },
+        {
+            "el": "p",
+            "text": "VIAS er et administrativt system til understøttelse af sagsprocesser."
+        },
+        {
+            "el": "p",
+            "text": "UDFORDRING"
+        },
+        {
+            "el": "h2",
+            "text": "Behov for sparring på videreudvikling, vedligeholdelse og support"
+        },
+        {
+            "el": "p",
+            "text": "Socialstyrelsen er en del af Social- og Indenrigsministeriet. Styrelsens formål er at bidrage aktivt til en vidensbaseret socialpolitik, der medvirker til en effektiv, social indsats til gavn for borgerne."
+        },
+        {
+            "el": "p",
+            "text": "Socialstyrelsen havde behov for sparring på videreudvikling, vedligeholdelse og support af deres applikation VIAS. VIAS er den nationale videns- og specialrådgivningsorganisations (VISO) administrative system til understøttelse af sagsprocesser, dokumenthåndtering og økonomistyring. Sparringen skulle være med til at løfte applikationen op på det næste niveau."
+        },
+        {
+            "el": "p",
+            "text": "LØSNING"
+        },
+        {
+            "el": "h2",
+            "text": "Rette kompetencer til at levere hjælp"
+        },
+        {
+            "el": "p",
+            "text": "Knowit stod klar med de rette kompetencer til at levere hjælp til vedligeholdelse, videreudvikling og support af VIAS. Kontorchef i Socialstyrelsen, Jan Christensen, siger om samarbejdet:"
+        },
+        {
+            "el": "p",
+            "text": "”I har i transitionsperioden sikret, at alle valg og fravalg er blevet diskuteret igennem og forventningsafstemt i detaljer. Således at processen understøtter den løbende indsigt, der opnås, og slutproduktet derved dækker det behov, der er på afleveringstidspunktet.”"
+        },
+        {
+            "el": "p",
+            "text": "Vi stod klar med sparring omkring systemudvikling og til at hjælpe med alle dele af deres projekt."
+        },
+        {
+            "el": "p",
+            "text": "Læs mere mere i denne pdf: VIAS Socialstyrelsen case"
+        },
+        {
+            "el": "p",
+            "text": "Vi har arbejdet ud fra projektformen SCRUM for at sikre den bedst mulige projektproces. Vi anerkender gennem SCRUM at man ikke kan kende alle krav i starten af processen og at de løbende kan ændre sig, således at processen bliver uforudsigelig."
+        },
+        {
+            "el": "p",
+            "text": "Fordi vi valgte en agil udviklingsmetode, har vi hele tiden kunne tilpasse os nye udfordringer. Det har gjort, at processen har kørt optimalt."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Ff37bef6481f1445ba53f164311193b4b%2Fvias_udfordring.jpg&w=640&q=75 640w",
+            "alt": "Socialstyrelsens kontor"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fimage-bank%2Fknowit-employees%2Fgbg_var23_1639-1640-1284x722.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "p",
+            "text": "OM KUNDEN"
+        },
+        {
+            "el": "h2",
+            "text": "Socialstyrelsen"
+        },
+        {
+            "el": "p",
+            "text": "Socialstyrelsen er en del af Social- og Indenrigsministeriet. Organisationen består af en direktion, et ledelsessekretariat og tre søjler med centre og kontorer. Kontorernes opgaver understreger styrelsens rolle som videnshaver på det socialfaglige område, varetager af rollen med at overvåge det sociale område og den sociale indsats i Danmark samt socialfaglig rådgiver for kommuner, regioner og borgere."
+        },
+        {
+            "el": "p",
+            "text": "VISO er en netværksorganisation under Socialstyrelsen, der består af en central enhed i Odense og et netværk af faglige specialister. Enheden i Odense er bemandet med en kontorchef og ca. 40 medarbejdere. Netværket af specialister kommer fra kommunale, regionale og private leverandører, der yder rådgivning for VISO. VISO rådgiver borgere, kommuner, institutioner og tilbud, når der er behov for supplerende ekspertise, viden og erfaring. VISO rådgiver i sager om udsatte børn, unge og voksne samt om børn, unge og voksne med handicap eller psykiske problemstillinger. Rådgivningen er gratis og landsdækkende."
+        }
+    ]
+}

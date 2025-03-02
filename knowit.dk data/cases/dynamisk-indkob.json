@@ -1,0 +1,149 @@
+{
+    "case": "dynamisk-indkob",
+    "url": "https://www.knowit.dk/cases/dynamisk-indkob/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Dynamisk Indkøb"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "SKI"
+        },
+        {
+            "el": "p",
+            "text": "En noget atypisk og skræddersyet it-løsning blev billigere end ventet. Og nu genbruger Gudrun Klint opskriften i sin egenskab af forretningsudviklingschef hos Staten og Kommunernes Indkøbsservice (SKI)"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F01d39b217a554b37be12034caaa906fe%2F7y2a0299-1920x1080.jpg&w=640&q=75 640w",
+            "alt": ""
+        },
+        {
+            "el": "h2",
+            "text": "”Jeg vil gerne tage livet af nogle flere Excel-ark”"
+        },
+        {
+            "el": "p",
+            "text": "Efter et vellykket og måske lidt utraditionelt it-projekt i en anden ende af butikken er Staten og Kommunernes Indkøbsservice (SKI) godt i gang med at vende op og ned på de offentlige indkøbsprocesser, som traditionelt har været meget tunge."
+        },
+        {
+            "el": "p",
+            "text": "”Jeg vil gerne tage livet af nogle flere Excel-ark,” som Gudrun Klint udtrykker det."
+        },
+        {
+            "el": "p",
+            "text": "Hun er forretningsudviklingschef hos SKI og satte i 2018 gang i et nyt, offentligt digitaliseringsprojekt på sundhedsområdet."
+        },
+        {
+            "el": "p",
+            "text": "Det hedder mingenoptræning.dk, og endte på relativt kort tid – og for langt færre millioner end budgetteret – med en digital løsning, der blev skabt uden kravspecifikationer, projektledere eller standardsoftware."
+        },
+        {
+            "el": "p",
+            "text": "Ifølge Gudrun Klint er det ikke specielt bøvlet for eksempelvis en skole at bestille 20 computere via en SKI-aftale."
+        },
+        {
+            "el": "p",
+            "text": "Her har SKI måske en aftale med en enkelt leverandør, som så skaffer de ønskede computere."
+        },
+        {
+            "el": "p",
+            "text": "”Men på et område som indkøb af biler kunne det tidligere være meget omfattende og komplekst at udfylde de mange Excel-ark, vi brugte dengang,” siger Gudrun Klint."
+        },
+        {
+            "el": "p",
+            "text": "Som eksempel nævner hun, at utroligt mange felter skulle krydses af, hvis en kommune skulle købe en bil, der var specielt indrettet til handikapkørsel – eller måske en bil med særlige egenskaber, som kommunens vej- og parkservice lige stod og havde brug for."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Fb8d57fc910714031b2eb4e16dba29e6f%2Fgudrun-2-1036x692.jpg&w=640&q=75 640w",
+            "alt": "Gudrun Klint"
+        },
+        {
+            "el": "p",
+            "text": "Gudrun Klint, Direktør FritValgService og Forretningsudviklingschef."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F62a3a91ead7349a5bcb4a159f10f1b5f%2Fski-office-867x489.jpg&w=640&q=75 640w",
+            "alt": "SKI's kontor"
+        },
+        {
+            "el": "p",
+            "text": "For at få en idé til en løsningsmodel behøvede hun faktisk bare at se sig selv over skulderen og vælge nogenlunde samme fremgangsmåde, som havde været en succes i forbindelse med udviklingen af mingenoptræning.dk. Det betød, at Gudrun Klint igen anvendte SKIs aftale på it-konsulenter og tildelte opgaven til it-huset Miracle A/S - nu Knowit - som begyndte at arbejde på en skræddersyet løsning, som også her blev til uden omfattende kravspecifikationer, projektledere eller standardsoftware."
+        },
+        {
+            "el": "p",
+            "text": "Ligesom man i mange webbutikker ledes igennem en række valg og ender med præcis det produkt, man ønsker, så sker det samme nu, når offentlige kunder bestiller biler via det, som Klint kalder for et guidet flow."
+        },
+        {
+            "el": "p",
+            "text": "”Det gør det nemmere for kunderne. Men for en bilforhandler er det også meget lettere at forholde sig til en bestilling, der er oprettet via et guidet flow,” forklarer hun."
+        },
+        {
+            "el": "p",
+            "text": "Den nye og it-baserede løsning til indkøb af biler blev startet som et pilotprojekt til 2 mio. kr."
+        },
+        {
+            "el": "p",
+            "text": "”Det gik godt. Og ultimo 2021 blev det færdigt,” fortæller Ursula Krogsbøll, der er afdelingsdirektør med ansvar for digital strategi og innovation hos Knowit."
+        },
+        {
+            "el": "p",
+            "text": "Dernæst tog parterne så fat på et andet område, der førhen også krævede en del tid i selskab med Excel-arkene – nemlig indkøb og levering af AV-løsninger."
+        },
+        {
+            "el": "p",
+            "text": "”Det er også kompliceret, fordi der i staten og kommunerne kan være vidt forskellige behov,” forklarer Gudrun Klint."
+        },
+        {
+            "el": "h2",
+            "text": "Løsningen skal forenkle regeringens og kommunernes indkøb af IT-driftsydelser"
+        },
+        {
+            "el": "p",
+            "text": "Den nemmere adgang til indkøb af AV-løsninger blev færdig i maj 2022. Og så vidt muligt genbrugte udviklerne flere af de elementer, der var blevet skruet sammen i forbindelse med bilprojektet."
+        },
+        {
+            "el": "p",
+            "text": "Og det samme gør man nu i et udviklingsarbejde, der skal forenkle staten og kommunernes indkøb af it-drift-ydelser – et område, som angiveligt kan være noget af en jungle at finde rundt i."
+        },
+        {
+            "el": "p",
+            "text": "”Det er nok det mest komplicerede hidtil, fordi brugerne her har så vidt forskellige behov,” siger Klint."
+        },
+        {
+            "el": "p",
+            "text": "Ligesom i de andre tilfælde gennemføres projektet uden kravspecifikationer, egentlige projektledere eller standardsoftware."
+        },
+        {
+            "el": "p",
+            "text": "Gudrun Klint kalder denne type samarbejde for en tillidsbaseret kontrakt, som i praksis indebærer, at Knowits udviklere ca. fire dage om ugen sidder hos SKI i Valby."
+        },
+        {
+            "el": "h2",
+            "text": "Vi vil gøre vores indkøbsaftaler nemme at anvende"
+        },
+        {
+            "el": "p",
+            "text": "Undervejs holder team Forretningsudvikling demomøder med udviklerne for at se, om projektet er på rette vej, ligesom både SKIs kunder og leverandører i løbet af udviklingsprocessen også inviteres ind for at kigge med over skulderen og komme med forslag til dette og hint."
+        },
+        {
+            "el": "p",
+            "text": "”Det er meget nemmere at invitere folk ind i stedet for at skrive frem og tilbage. Det sparer en masse arbejde med kravspecifikationer og mailkorrespondancer, samtidig med at det fjerner nogle abstraktionsniveauer – hvilket i sidste ende resulterer i risikominimering,” siger Ursula Krogsbøll."
+        },
+        {
+            "el": "p",
+            "text": "Med flere øjne på udviklingsarbejdet er der også en bedre chance for, at den endelige løsning bliver brugervenlig og ikke føles som en pestilens at anvende, som hun udtrykker det."
+        },
+        {
+            "el": "p",
+            "text": "”Ja, mantraet har været, at vi vil gøre vores indkøbsaftaler nemme at anvende, så vi vil gerne udvikle en lækker, brugervenlig løsning,” siger Gudrun Klint, som i dag både er forretningsudviklingschef hos SKI og direktør for det SKI-datterselskab, der huser sundhedsordningen for det frie valg af behandler til genoptræning."
+        }
+    ]
+}

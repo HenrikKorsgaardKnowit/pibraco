@@ -1,0 +1,117 @@
+{
+    "case": "teknologisamarbejde-der-forandrer-hverdagen",
+    "url": "https://www.knowit.dk/cases/teknologisamarbejde-der-forandrer-hverdagen/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Teknologisamarbejde der forandrer hverdagen"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "TEKNOLOGISAMARBEJDE DER FORANDRER HVERDAGEN"
+        },
+        {
+            "el": "p",
+            "text": "Ved kreativt at forbinde førende teknologi med menneskelige og forretningsdrevne behov gennem HumanTechnology, har vi, som teknologiudviklingspartner i samarbejdet med SPACE10's igangværende serie af digitale eksperimenter med IKEA, præsenteret en løsning som skal skabe en bedre hverdag for mennesker og planeten. Det kreative samarbejde har gjort det muligt at slette og erstatte møbler i sit hjem ved hjælp af kunstig intelligens – en løsning som har trukket 152.800 sidevisninger på hjemmesiden og omtale verden over."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fikea%2Fhero-1600x900.jpg&w=640&q=75 640w",
+            "alt": "IKEA case"
+        },
+        {
+            "el": "p",
+            "text": "SPACE10 er et uafhængigt forsknings- og designlaboratorium og en del af IKEA-koncernen. Laboratoriets arbejde er udelukkende dedikeret til at støtte IKEA til løbende at leve op til sit løfte om at skabe en bedre hverdag for mennesker og planeten. Laboratoriet har en samarbejdende tilgang, der stræber efter at involvere og samarbejde med en bred mangfoldighed af dygtige fagfolk og fremsynede specialister, for at identificere reelle menneskelige udfordringer og præsentere de bedst mulige løsninger ved at dele al forskning og ideer offentligt."
+        },
+        {
+            "el": "p",
+            "text": "Dette er et spot-on match for os hos Knowit Experience og vores mission om at skabe effektive løsninger ved kreativt at forbinde førende teknologi med menneskelige og forretningsdrevne behov – det vi kalder HumanTechnology. "
+        },
+        {
+            "el": "h2",
+            "text": "Hvad hvis du kunne prøve nye møbler uden at flytte dit gamle?"
+        },
+        {
+            "el": "p",
+            "text": "Hos Knowit Experience blev vi inviteret til at være teknologiudviklingspartner i SPACE10s Everyday Experiments og projektet Room Editor. Everyday Experiments er paraplyen for SPACE10’s igangværende serie af digitale eksperimenter med IKEA, som udfordrer teknologiens rolle i hjemmet. Se Everyday Experiments film https://www.everydayexperiments.com/."
+        },
+        {
+            "el": "p",
+            "text": "Som medlem af Room Editor gruppen var den indledende udfordring:"
+        },
+        {
+            "el": "p",
+            "text": "Hvad hvis du kunne prøve nye møbler uden at flytte dit gamle?"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fikea%2Fcolor-balcony-679x509.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fikea%2Fcolor-685x514.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Banebrydende teknologiudvikling og kreativitet forbinder teknologi og menneskelige behov"
+        },
+        {
+            "el": "p",
+            "text": "Projektteamet blev sat sammen af vores egen CTO Anton Stonor sammen med Alonso Holmes (USA), et drømmeteam for banebrydende teknologiudvikling og kreativitet. For at få bolden til at rulle gennemførte vi en tre-ugers sprint for at sørge for forstå den givne udfordring og projektudførelse."
+        },
+        {
+            "el": "p",
+            "text": "Ved hjælp af AI- og AR-teknologi byggede vi en teknisk prototype, hvor du midlertidigt kan \"slette\" et møbel i dit hjem og derefter skifte det ud med en helt ny erstatning for nem visualisering af, hvordan det nye møbel ville se ud uden fysisk at røre det gamle."
+        },
+        {
+            "el": "p",
+            "text": "En vigtig inspirationskilde i vores udvikling var apps som Photoshop og Instagram og deres intuitive brugeroplevelse. Brugeren \"farver\" blot det område (dvs. dét møbel), de gerne vil slette og erstatte med et andet møbel. Se Room Editor-filmen https://www.everydayexperiments.com/room-editor."
+        },
+        {
+            "el": "p",
+            "text": "Fra et teknologisk perspektiv gav dette projekt og denne løsning os mulighed for at eksperimentere yderligere med AI i en samarbejdende opsætning. Vi kombinerede AR og ARKit 3 med en generativ maskinlæringsmodel kaldet EdgeConnect (en billedinpainting-model) for at simulere evnen til at fjerne eksisterende objekter i et billede og placere modeller af realistisk udseende samme sted."
+        },
+        {
+            "el": "h2",
+            "text": "Anerkendt verden over"
+        },
+        {
+            "el": "p",
+            "text": "Med et af SPACE10s succeskriterier om at ville involvere mennesker fra hele verden på en samarbejdsplatform, skabe og dele, er de første rapporter fra SPACE10 meget opmuntrende. Vi har set mere end 152.800 sidevisninger på hjemmesiden og mere end 208 presse-/mediehits, alt fra Rusland til Thailand, Brasilien til Kina, USA til Ungarn, Storbritannien til Tyrkiet og mange flere steder. Everyday Experiments er blevet dækket over hele kloden, fra nær og fjern."
+        },
+        {
+            "el": "p",
+            "text": "Et andet succeskriterie for Room Editor-projektet var at demonstrere og dokumentere denne tilstand af AI som teknologi, vurdere kvaliteten, levedygtigheden og tillade os selv at fordybe os i den innovative proces. Dette er opnået med den oprindelige prototype."
+        },
+        {
+            "el": "p",
+            "text": "Dette er fortsat et fantastisk projekt for os hos Knowit Experience, fordi det har givet os mulighed for at eksperimentere yderligere med kunstig intelligens og andre teknologier. Vores samarbejde med SPACE10 og IKEA Group er et givende og innovativt partnerskab, som er blevet beriget med vores mange medpartnere: FIELD.IO, Bakken & Bæck, Random Studio, Alonso Holmes, CIRG, ManvsMachine, Norgram, Amos Timi Oyedeji, Set Snegl og Philip Pries Henningsen."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fikea%2Fchair-2-600x450.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fikea%2Fchair-600x450.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fikea%2Fscreen-600x338.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fikea%2Fflower-600x450.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        }
+    ]
+}

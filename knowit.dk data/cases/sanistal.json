@@ -1,0 +1,141 @@
+{
+    "case": "sanistal",
+    "url": "https://www.knowit.dk/cases/sanistal/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Implementering af Jira Service Management"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "SANISTÅL"
+        },
+        {
+            "el": "p",
+            "text": "Implementering af Jira Service Management og automatisering af processer med et skalerbart værktøj, har givet Saniståls IT-organisation stor værdi."
+        },
+        {
+            "el": "p",
+            "text": "UDFORDRING"
+        },
+        {
+            "el": "h2",
+            "text": "Øget automatisering og færre fejl"
+        },
+        {
+            "el": "p",
+            "text": "Sanistål stod over for en udskiftning af systemet til håndtering af Service Desk sager. Et af de helt store krav til et nyt system var mulighed for at automatisere store dele af deres processer. Målet var også at give kunder og samarbejdspartnere en endnu bedre oplevelse med hurtigere svartider og færre fejl."
+        },
+        {
+            "el": "p",
+            "text": "Sanistål havde gennem en intern undersøgelse fundet frem til, at Jira Service Management måske kunne dække de behov, der var formuleret – herunder øget automatisering. Derfor søgte de en lokal partner med specialistkendskab til Atlassian, som kunne rådgive omkring mulighederne med Jira Service Management og samtidigt anbefale en proces i forbindelse med implementeringen."
+        },
+        {
+            "el": "p",
+            "text": "Vores certificerede konsulenter har mange års erfaring med netop Atlassian og kunne derfor hurtigt afklare, om det var muligt at opnå de forretningsmæssige fordele som Sanistål ønskede. Da dette var bekræftet, sikrede vores konsulenter, at teknikken fungerede."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F4204e10e4cb74d409cded010047f9f46%2Fpexels-photo-845451-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "Sanistål call centre"
+        },
+        {
+            "el": "p",
+            "text": "LØSNING"
+        },
+        {
+            "el": "h2",
+            "text": "Et produkt, der virkelig har givet organisationen værdi!"
+        },
+        {
+            "el": "p",
+            "text": "En workshop mellem Sanistål og vores konsulenter tydeliggjorde, at Jira Service Management fra Atlassian kunne løfte de behov, som Sanistål havde. Udover stærk styring af både incidents samt problem- og service requests, tilbyder Jira Service Management også self-service i højeste klasse og nem mulighed for automatisering gennem smart intelligence. Det var vigtigt, at den løsning, der blev valgt, ikke var alt for teknisk, for det var forskellige personer i organisationen, der skulle bruge den og stå for implementeringen – også personer uden teknisk baggrund."
+        },
+        {
+            "el": "p",
+            "text": "Konkret gennemførte Sanistål en proces med rullende implementering, hvor de startede med alle de incidents, der kom ind på mail. Da det var på plads, fortsatte de med en løbende indfasning, som de tog bid for bid – herunder øget fokus på automatisering af så mange processer i deres Service Desk som muligt."
+        },
+        {
+            "el": "p",
+            "text": "”Vi har været meget glade for samarbejdet og rådgivningen fra Knowit. De har hele tiden haft fokus på at finde den løsning, der bedst matchede vores behov, og skabte den største værdi for os.”"
+        },
+        {
+            "el": "p",
+            "text": "Henriette Kjærgaard Hesselby"
+        },
+        {
+            "el": "p",
+            "text": "Sanistål A/S"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Ff239619e76254de48e3df0ae6a37c6e8%2Fimage003-2592x1458.png&w=640&q=75 640w",
+            "alt": "Process"
+        },
+        {
+            "el": "h2",
+            "text": "Automatisering – nemt og enkelt"
+        },
+        {
+            "el": "p",
+            "text": "Et eksempel på nem automatisering var bestilling af headsets og IT-udstyr. Det er der som regel altid høj efterspørgsel på, men især i nedlukningsperioden af Danmark i forbindelse med COVID-19. I stedet for, at der sad en person i Service Desk og tog imod alle medarbejdernes bestillinger af nye headset og ringede til leverandøren manuelt, så har de med Jira automatiseret processen. Det var nemt og enkelt at oprette de relevante felter i Jira, således brugeren selv kunne bestille. Derefter oprettes sagen, og en automatiseret mail sender bestillingen videre til leverandøren med alle oplysninger om den specifikke vare, hvor den skal sendes hen, og hvem der skal faktureres. Samtidig modtager brugeren en bekræftelse og sagen kan lukkes. Hele processen er automatiseret, hvilket sparer Service Desk tid, forebygger fejl og aflaster tidskrævende opfølgninger."
+        },
+        {
+            "el": "p",
+            "text": "Sanistål oplevede, at der hele tiden var nye features og muligheder for at gøre systemet endnu bedre. Samtidig var der kort fra tanke til handling, og systemets brugervenlighed medførte stor tilfredshed hos brugerne."
+        },
+        {
+            "el": "p",
+            "text": "”Vores brugere, og ikke kun vores medarbejdere i servicedesk, er blevet utrolig glade for Jira Service Management.” – Henriette Kjærgaard Hesselby, Sanistål A/S."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F01aee1b167e743a9be2f0ba13d73081e%2Flagerautomater-billund-1900x1069.jpg&w=640&q=75 640w",
+            "alt": "Lagerautomater Billund"
+        },
+        {
+            "el": "h2",
+            "text": "Vi fortsætter udviklingen"
+        },
+        {
+            "el": "p",
+            "text": "En af fordelene med Jira er, at man kan plukke de løsninger, der passer til ens udfordringer fra en stor pulje af muligheder. Efter succesen med Service Desk, har Sanistål derfor valgt at tilkøbe yderligere to moduler. ’Canned Response’, der hjælper dem med at sende ensartede mails ud til brugerne samt ’Customer Form Extention’, der øger brugervenligheden på de formularer, som kunderne skal udfylde. Derudover har afdelingen, der arbejder med Business Intelligence, udskiftet Outlook og Excel til opgave- og projektstyring, så det også kører i Jira. Det samme har medarbejderne i afdelingen for Indkøb og Marked, og de er helt sikkert ikke den sidste afdeling, der rykker opgaver over på Jira."
+        },
+        {
+            "el": "p",
+            "text": "Du behøver ikke være IT-ekspert for at implementere Jira Service Management. Samtidig kan du implementere Jira Service Management i de steps og i det tempo, der giver mening for netop din organisation."
+        },
+        {
+            "el": "p",
+            "text": "Løsningen kan nemt skaleres efter behov."
+        },
+        {
+            "el": "p",
+            "text": "Enkel og hurtig mulighed for at automatisere workflows."
+        },
+        {
+            "el": "p",
+            "text": "OM KUNDEN"
+        },
+        {
+            "el": "h2",
+            "text": "Sanistål"
+        },
+        {
+            "el": "p",
+            "text": "”Vi har fået et produkt, der har stort potentiale til at give vores organisation værdi”– Henriette Kjærgaard Hesselby, Sanistål A/S."
+        },
+        {
+            "el": "p",
+            "text": "Sanistål har rødder helt tilbage til midten af 1800-tallet, men selskabet, som vi kender det i dag, blev stiftet i 1971. I starten leverede de, som navnet hentyder, primært stål og metaller, men op igennem 80’erne og 90’erne voksede produktporteføljen – og indeholder idag næsten 400.000 forskellige varer inde for stål og metaller, VVS og VA-teknik, kemi, personligt udstyr og meget mere. Virksomheden har over 34 fysiske butikker over hele landet og 1200 medarbejdere i Danmark og udlandet."
+        },
+        {
+            "el": "p",
+            "text": "I dag arbejder Sanistål som en værdiskabende sourcingpartner for deres kunder. Gennem specialistkompetencer, digitale koncepter og varehåndteringsservices skaber de værdi mellem producenter og kunder."
+        }
+    ]
+}

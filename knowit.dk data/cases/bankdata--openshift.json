@@ -1,0 +1,117 @@
+{
+    "case": "bankdata--openshift",
+    "url": "https://www.knowit.dk/cases/bankdata--openshift/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Transformation til nye teknologier med en skarp deadline"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "BANKDATA"
+        },
+        {
+            "el": "p",
+            "text": "PSD2 godkendt app-løsning til Bankdata. Med afsæt i nye liberaliseringskrav, etablerede Knowit en API first-arkitektur på moderne privat cloud."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Fa831d66c5c484f9e93208518ade95275%2Fbankdata_hero.jpg&w=640&q=75 640w",
+            "alt": ""
+        },
+        {
+            "el": "p",
+            "text": "UDFORDRING"
+        },
+        {
+            "el": "h2",
+            "text": "Nye direktiver fra EU skal implementeres"
+        },
+        {
+            "el": "p",
+            "text": "I 2015 vedtog EU et betalingsdirektiv (PSD2), der skulle ophæve bankers monopol på funktioner som betalingstransaktioner, initiering af betalinger m.v., samtidig med at en mere sikker 2-faktor godkendelse af online-betalinger, større gennemsigtighed på gebyrer og bedre beskyttelse af persondata skulle efterleves. Intentionen fra EU var at stimulere fri konkurrence til fordel for forbrugerne ved at tilbyde teknologivirksomheder i finanssektoren adgang til services, der hidtil var forbeholdt bankerne. For bankerne betød dette liberaliseringskrav konkret, at de, såfremt en kunde måtte ønske det, skulle give andre virksomheder adgang til kundens data."
+        },
+        {
+            "el": "p",
+            "text": "Med en tidsfrist for implementering af direktivet senest i juli 2018 stod virksomheden Bankdata, der leverer full service IT-løsninger til den finansielle sektor, overfor en større udfordring. Der var ingen tvivl om, at løsningerne til bankerne skulle baseres på nye teknologier. Der var etableret et privat cloud-setup, bestående af OpenShift til containerafvikling, Apigee som API-manager og Curity som sikkerhedssystem, men ingen i afdelingen havde erfaring med dette. Samtidig var virksomhedens produkter host-tunge. Ca. 90% af alle egenudviklede systemer var Cobol-programmer, og behovet for en mere agil løsning for at kunne efterleve EU’s betalingsdirektiv stod klart."
+        },
+        {
+            "el": "p",
+            "text": "Bankdata skulle vælge en partner der, dels forstod denne udfordring og dels havde specialistkompetencerne til at løse opgaverne, og som i samarbejde med Bankdatas egne udviklere kunne løfte opgaven. Dette med en målsætning forankret i fortsat at sikre kunderne de bedste konkurrencevilkår. "
+        },
+        {
+            "el": "p",
+            "text": "LØSNING"
+        },
+        {
+            "el": "h2",
+            "text": "Løsning i luften inden for EU's deadline"
+        },
+        {
+            "el": "p",
+            "text": "Setup og krav var givet, så hos Knowit kunne vi koncentrere os om at forstå Bankdatas behov og forudsætninger og ud fra det begynde at sammensætte arkitektur og plan sammen med deres system- og domænearkitekt. Med udgangspunkt i behovet for enkle integrationer og understøttelse i cloud native udvikling, etablerede Knowit i samarbejde med arkitekter og udviklere en standardarkitektur, som tog udgangspunkt i microservices på et passende framework og førte den gennem en pilot."
+        },
+        {
+            "el": "p",
+            "text": "Prioriteterne var høje standarder og en overskuelig arkitektur, det var enkel at sætte sig ind i. Under forløbet blev det klart, at man ville kunne drage fordel af en tidlig fastlæggelse af API’er. Forsøg med automatiseringer blev til en etableret API-first-strategi, understøttet af værktøjer til redigering og kodegenerering. Med udgangspunkt i denne arkitektur blev der lavet dokumentation og uddannelse til onboarding af teams."
+        },
+        {
+            "el": "p",
+            "text": "Med involvering fra folkene hos Bankdata sikrede vi dels et godt niveau for uddannelsen og gjorde overdragelse af uddannelse let. På den tekniske side var det elementer som builds og deployment til Red Hat’s OpenShift containerplatform, konfiguration for produktion, autentifikation samt arbejdet med API’er. På arkitektursiden var microservices vejen til at sikre fleksibilitet og skalerbarhed i løsningen."
+        },
+        {
+            "el": "p",
+            "text": "Efter en spændende udviklingsfase kom Bankdata og Knowits PSD2 løsning i luften inden for EUs deadline. Fortsat samarbejde med Knowit hjælper med at driftsmodne alle elementer af det nye setup, så også Finanstilsynets krav løbende tilfredsstilles."
+        },
+        {
+            "el": "p",
+            "text": "Eksisterende arkitektur var tilpasset drift på konventionel applikationsserver. Med input fra Bankdatas arkitekter omkring behov og forudsætninger, fik vi etableret en arkitektur målrettet hurtig, API first-baseret udvikling på en moderne, privat cloud."
+        },
+        {
+            "el": "p",
+            "text": "Med udgangspunkt i standarder, understøttet af dokumentation og uddannelse, kunne Bankdata effektivt inddrage nye teams i udviklingen på den nye platform."
+        },
+        {
+            "el": "p",
+            "text": "Med introduktionen til en – for Bankdata – ny platform, OpenShift, var det tætte samarbejde essentielt. Uddannelse og adgang til viden og kompetencer var gennemgående i en bæredygtig udviklingsproces. Bankdatas egne medarbejdere var hele vejen en del af udviklingen, og ved overdragelsen klædt på til selv at kunne drive løsningen videre. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F5d3762fdc1034aef98e8f72a66052d56%2Fbankdata-1313x985.jpg&w=640&q=75 640w",
+            "alt": "Bankdata – OpenShift"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F364f61be420442b7b76b8564c8e71dc9%2Fbankdata_loesning.jpg&w=640&q=75 640w",
+            "alt": "Bankdata – OpenShift"
+        },
+        {
+            "el": "p",
+            "text": "OM KUNDEN"
+        },
+        {
+            "el": "h2",
+            "text": "Bankdata"
+        },
+        {
+            "el": "p",
+            "text": "Bankdata er en full-service provider af IT-løsninger til den finansielle sektor. Med over 700 ansatte og IT systemer, der dagligt benyttes af mere end 7.400 medarbejdere i banker og 1,6 mill kunder, er Bankdata en af de største finansielle IT-virksomheder i Danmark. "
+        },
+        {
+            "el": "p",
+            "text": "“Jeg har gennem tiden samarbejdet med mange forskellige konsulenthuse, men det er sjældent, at jeg oplever, at de har været med til at gøre en så stor forskel som på denne opgave. Vi har samarbejdet med knivskarpe konsulenter, som både kunne udfordre os – og vores ledelse – og det gælder både på det tekniske, organisatoriske og arkitektoniske niveau. Det har været en fornøjelse at arbejde sammen med så talentfulde mennesker.”"
+        },
+        {
+            "el": "p",
+            "text": "Lars Christensen, afdelingsleder"
+        },
+        {
+            "el": "p",
+            "text": "Bankdata"
+        }
+    ]
+}

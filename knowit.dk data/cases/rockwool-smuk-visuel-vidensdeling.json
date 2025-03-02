@@ -1,0 +1,110 @@
+{
+    "case": "rockwool-smuk-visuel-vidensdeling",
+    "url": "https://www.knowit.dk/cases/rockwool-smuk-visuel-vidensdeling/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "ROCKWOOL: Smuk, visuel vidensdeling"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "ROCKWOOL"
+        },
+        {
+            "el": "p",
+            "text": "At indtage en rådgiverrolle for professionelle og private - i hele verden - er lidt af en udfordring. En udfordring, ROCKWOOL har løst med oceaner af content i fleksible moduler."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Frockwool%2Frockwool_case_header_v3-1920x1080.jpg&w=640&q=75 640w",
+            "alt": ""
+        },
+        {
+            "el": "h2",
+            "text": "ROCKWOOL og rådgivning"
+        },
+        {
+            "el": "p",
+            "text": "ROCKWOOL er en af Danmarks største og mest velrenomerede virksomheder med knap 110 år på bagen. I godt 80 år har virksomheden givet danskerne - siden verden - varmen med stenuld. Siden er produktkataloget kun blevet større."
+        },
+        {
+            "el": "p",
+            "text": "Derfor var vi også beærede, da vi blev valgt til at puste nyt liv i ROCKWOOLs digitale tilstedeværelse."
+        },
+        {
+            "el": "p",
+            "text": "Vi blev mødt med et ønske om at give platformen et løft hele vejen rundt. Nyt design, en ny måde at vise produkterne frem på og en ny måde at kommunikere med omverdenen."
+        },
+        {
+            "el": "p",
+            "text": "ROCKWOOL, der er verdens førende stenuldsproducent, ønskede at knytte sig endnu tættere til kunderne og få en rådgiverrolle, - hvad enten kunden er arkitekt, installatør eller ganske almindelig privatperson. At få en platform, hvor man kunne dele sin omfattende ekspertise med resten af verden."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Frockwool%2Frockwool_mood_v3-1430x804.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Kom nærmere med content"
+        },
+        {
+            "el": "p",
+            "text": "Det blev klart for os, at indhold skulle være den drivende del af løsningen - skarpt flankeret af design og brugervenlighed. Vi fik udviklet et intuitivt system til at navigere i det enormt omfattende og detaljerede produktkatalog, så brugeren hele tiden bliver tilbudt hjælp og rådgivning."
+        },
+        {
+            "el": "p",
+            "text": "En digital hjælp til selvhjælp, hvor nye og gamle typer og formater af indhold - alt fra digitale beregnere og værktøjer til artikler med ekspertråd - understøtter ROCKWOOLs rolle som rådgiver gennem hele byggeprocessen."
+        },
+        {
+            "el": "p",
+            "text": "Samtidigt var der, i kraft af ROCKWOOLs globale forretning, en masse interessenter, der skulle tages med på råd."
+        },
+        {
+            "el": "p",
+            "text": "De forskellige markeder tilbyder alle forskellige produkter, så der var fundamentale forskelle i ønsker til platformen fra land til land."
+        },
+        {
+            "el": "p",
+            "text": "Derfor havde vi store workshops med alle de involverede, hvor vi sågar printede hele hjemmesiden ud, klippede den op i bidder for at finde frem til en løsning, der kunne bruges i alle ROCKWOOLs markeder."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Frockwool%2Frokwool_devices_mockup_v7_white-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "En platform til hele planeten"
+        },
+        {
+            "el": "p",
+            "text": "Vi endte med en platform til ROCKWOOL, der havde organisationens brede opbakning. En moderne og modulær platform - med fokus på billeder frem for tabeller - som kan tilpasses det enkelte marked. De forskellige lande kan udvælge og tilføje indhold, så det passer de lokale behov. Samtidigt understøtter indholdet visionen om, at produktinformation, vejledning og hjælp skal være tilstede for arkitekter, installatører og private."
+        },
+        {
+            "el": "p",
+            "text": "ROCKWOOLs nye website betjener nemlig 39 forskellige lande, hvor det omfattende katalog af contentblokke nemt kan oversættes og tilpasses de individuelle markeder samt anvendes af søster- og datterselskaber. Det kræver dog en vis indsigt at få strukturet de mange content-blokke, så rækkefølgen giver mening. Vi har bistået ROCKWOOL med den nødvendige redaktørtræning, så den daglige opdatering nu helt og holdent varetages af de ansvarlige i virksomheden. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Frockwool%2Fmodul_gif.gif&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Et kig i maskinrummet"
+        },
+        {
+            "el": "p",
+            "text": "Websitet er bygget på den nyeste udgave af Episerver, som muliggør høj fleksibilitet og modularitet, og løsningen er som skræddersyet til ROCKWOOLs behov. Episerver leverer nemlig stærke produkter til de bagvedliggende funktioner."
+        },
+        {
+            "el": "p",
+            "text": "Blandt andet med CMS, Commerce og søgemotoren Epifind, som er blandt de bedste på markedet. Sammenlagt er disse komponenter oplagte til at levere den service, ROCKWOOLs målgruppe har brug for."
+        }
+    ]
+}

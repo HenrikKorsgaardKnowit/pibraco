@@ -1,0 +1,109 @@
+{
+    "case": "cloud-app-hjalper-malkeproducenter-med-at-overvage-koens-trivsel",
+    "url": "https://www.knowit.dk/cases/cloud-app-hjalper-malkeproducenter-med-at-overvage-koens-trivsel/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Cloud app hjælper mælkeproducenter med at overvåge koens trivsel"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "DELAVAL"
+        },
+        {
+            "el": "p",
+            "text": "DeLaval er verdensførende inden for malkning med udstyr og løsninger til mælkeproducenter og giver vigtig støtte til bæredygtig mælkeproduktion. Sammen med Knowit har de skabt en unik app-løsning, hvor køer er forbundet til skyen via IoT. Målet er at hjælpe mælkeproducenter med at overvåge koens trivsel i realtid."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fdelaval%2Fbrun-och-vit-ko-1500x844.jpg&w=640&q=75 640w",
+            "alt": "Cloud app hjælper mælkeproducenter"
+        },
+        {
+            "el": "h2",
+            "text": "Sensorer giver vigtig information"
+        },
+        {
+            "el": "p",
+            "text": "Forskning og innovation er centrale for DeLaval, og der er en stærk fokus på digitale tjenester med det formål at hjælpe mælkeproducenter med at forbedre beslutningsprocessen, øge effektiviteten og styrke fokus på dyrevelfærd."
+        },
+        {
+            "el": "p",
+            "text": "Nutidens mælkefarm kan betragtes som en højteknologisk hub i et firma, der er aktivt 24/7, 365 dage om året - hvor dyrevelfærd og effektivitet er to vigtige byggesten for at gøre gården rentabel og produktiv."
+        },
+        {
+            "el": "p",
+            "text": "Gårde med DeLaval-udstyr har nu både hardware og digitale løsninger, hvor køer er mærket med sensorer, der indsamler værdifulde data. Dataanalyse fører til bedre beslutningsstøtte for drift af gården på maksimal kapacitet og med et stærkt fokus på dyrevelfærd. "
+        },
+        {
+            "el": "p",
+            "text": "“Knowit er en vigtig partner for DeLaval i udviklingen af avancerede systemer med fokus på digitale løsninger, med høj ekspertise og engagement i at skabe verdensførende systemer og tjenester til DeLavals kunder.\""
+        },
+        {
+            "el": "p",
+            "text": "Lars Bergmann, EVP"
+        },
+        {
+            "el": "p",
+            "text": "DeLaval Digital Services"
+        },
+        {
+            "el": "h2",
+            "text": "Næste skridt i DeLavals digitale udvikling - tilbyde flere digitale tjenester"
+        },
+        {
+            "el": "p",
+            "text": "DeLavals kerneaktiviteter involverer oprettelse af malkningsudstyr til mælkeproducenter. At opbygge digitale løsninger og blive endnu mere af en serviceudbyder skaber en anden udfordring inden for teknik, organisation og kultur."
+        },
+        {
+            "el": "p",
+            "text": "Med det formål at tilbyde digitale tjenester parallelt med oprettelsen af de maskiner, som DeLaval leverer til sine kunder, blev et program iværksat for at forny og skabe den næste generation af informationsplatform."
+        },
+        {
+            "el": "p",
+            "text": "DeLaval havde brug for en samarbejdspartner, der kunne opfylde kravene til et højt tempo af produktivitet, skalerbart og fleksibelt arbejde og en garanteret hurtig markedsføringstid. Knowit blev hyret og fik opgaven med at oprette den første applikation til platformen. "
+        },
+        {
+            "el": "h2",
+            "text": "Løsningen: Appen gør det muligt at blive IoT-tilsluttet via AWS"
+        },
+        {
+            "el": "p",
+            "text": "Et agilt team fra Knowit med kompetencer inden for udvikling af cloud-baserede løsninger, IoT, AWS og Scrum udviklede en løsning, der samler alle data og sammenligner dem med andre tilgængelige data, hvilket producerer data og analyser, der er nyttige for landmanden i deres daglige arbejde. DeLaval har også et internt innovationshold, der opbygger algoritmer til forudsigelser baseret på sensordata ved hjælp af maskinlæring."
+        },
+        {
+            "el": "p",
+            "text": "I den nyudviklede app er alle køer IoT-tilsluttet til AWS, hvor data organiseres, og maskinlæring bruges til at producere pålidelig information og forudsigelser. Metoder, der blev brugt under udviklingen, omfatter: Node.JS, Python, Type Script, AWS Greengrass (IoT) MQTT, Lambda, Dynamo DB og S3. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fdelaval%2Fdelaval_vms-v300_holstein-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "Cloud app hjælper mælkeproducenter"
+        },
+        {
+            "el": "h2",
+            "text": "Den skybaserede realtidsløsning forenkler hverdagsarbejdet for mælkeproducenten"
+        },
+        {
+            "el": "p",
+            "text": "Der er nu en realtidsløsning på plads i form af en applikation, der hjælper mælkeproducenten med at fastholde fokus på koens trivsel. Appen informerer landmanden, hvis en ko spiser for meget eller for lidt, viser uregelmæssig adfærd eller bliver syg."
+        },
+        {
+            "el": "p",
+            "text": "Løsningen hjælper også med at forudsige, hvornår en ko er klar til insemination, hvilket er en stor hjælp for landmanden. Gennem sådanne indsigter fra systemet kan mælkeproducenterne mindske deres veterinære omkostninger og få værdifuld, håndgribelig information, der kan bidrage til forbedret mælkeproduktion, øget effektivitet og bæredygtighed samt tidsbesparelser."
+        },
+        {
+            "el": "p",
+            "text": "Bidrag til SDG 12: Alle køer er IoT-tilsluttet til AWS, hvor data organiseres, og maskinlæring bruges til at producere pålidelig information og forudsigelser. Gennem appen lettes det daglige arbejde for mælkeproducenten med det formål at fremme bæredygtig mælkeproduktion, hvor det primære fokus er på koens trivsel. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fimage-bank%2Fsdg-icons-colored-background%2Fe-web-goal-12.png&w=640&q=75 640w",
+            "alt": "SDG 12"
+        }
+    ]
+}

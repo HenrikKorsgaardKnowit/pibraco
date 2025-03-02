@@ -1,0 +1,89 @@
+{
+    "case": "identifikation-af-ulovligt-fiskeri-gennem-robotstyret-automatisering-og-maskinlaring",
+    "url": "https://www.knowit.dk/cases/identifikation-af-ulovligt-fiskeri-gennem-robotstyret-automatisering-og-maskinlaring/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Identifikation af ulovligt fiskeri gennem robotstyret automatisering og maskinlæring"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "NORSKE KYSTVAGT"
+        },
+        {
+            "el": "p",
+            "text": "I Norge er fiskeriet baseret på princippet om bæredygtigt fiskeri og strenge fiskeriregler. Knowit har skabt en løsning, der hjælper den norske Kystvagt med effektivt at identificere ulovligt fiskeri."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fnorwegian-coast-guard%2Fnorwegian-flag-on-boat-1500x844.jpg&w=640&q=75 640w",
+            "alt": "Norske kystvagt case"
+        },
+        {
+            "el": "h2",
+            "text": "Udfordringen"
+        },
+        {
+            "el": "p",
+            "text": "Fiskeri er en stor industri i Norge og har stået over for udfordringer på grund af ulovligt fiskeri. Sådanne handlinger kan føre til overfiskeri, som truer arter og ødelægger marine habitater. Knowit mente, at dette var en meningsfuld udfordring at arbejde med."
+        },
+        {
+            "el": "p",
+            "text": "Knowit så dette som en mulighed for at bidrage til kampen mod ulovligt fiskeri. Løsningen var også Knowits indgang i konkurrencen Nordic SAS Hackathon."
+        },
+        {
+            "el": "h2",
+            "text": "Løsningen"
+        },
+        {
+            "el": "p",
+            "text": "Denne udfordring var velegnet til brug af åbne automatiske identifikationssystem (AIS) data. Tilgængelige AIS-data blev indsamlet og suppleret med yderligere data om skibstype fra marine hjemmesider. Dette blev gjort for at afgøre, om et fartøj var en fiskerbåd, et skib eller en af Kystvagtens egne."
+        },
+        {
+            "el": "p",
+            "text": "Med hjælp fra robotprocesautomatisering, RPA, blev alle nødvendige oplysninger om fartøjerne indsamlet. Disse oplysninger blev ført ind i SAS Viya Visual Analytics-platformen til analyse af hvert fartøjs bevægelsesmønstre. Maskinlæring blev brugt til at træne og forfine modellen, så den kunne afgøre, om et bevægelsesmønster kunne klassificeres som normalt eller unormalt fiskeri."
+        },
+        {
+            "el": "p",
+            "text": "“Med SAS Viya-platformen var det nemt at identificere fiskerimønstre. Vi kunne nemt se forskellen mellem fartøjer, der var på fiskeri, og dem, der ikke var det. De data, vi fik fra SAS Viya, blev brugt som træningsdata til maskinlæring i Python. Informationen blev derefter sendt tilbage til platformen for automatisk at afgøre, om et fartøj var på fiskeri eller ej. Datamængderne og tjenesterne i SAS Viya er nyttige, når du har store mængder data.”"
+        },
+        {
+            "el": "p",
+            "text": "Team Knowit"
+        },
+        {
+            "el": "h2",
+            "text": "Resultatet"
+        },
+        {
+            "el": "p",
+            "text": "Ved hjælp af modellen kan historiske data i et interesseområde forbindes for at forudsige og fremhæve fartøjer, der viser adfærdsmønstre, som muligvis indikerer ulovligt fiskeri."
+        },
+        {
+            "el": "p",
+            "text": "En yderligere udvikling af løsningen var at forbinde en AIS-datastrøm i realtid. Dette skaber en model, der automatisk kan advare kystvagten, hvis den opdager og identificerer ulovlige aktiviteter."
+        },
+        {
+            "el": "p",
+            "text": "Modellen var Knowits indgang i konkurrencen Nordic SAS Hackathon og blev tildelt førstepladsen."
+        },
+        {
+            "el": "p",
+            "text": "Knowit har præsenteret løsningen for den norske Fiskeridirektorat, den svenske Agentur for Hav- og Vandrindvinding og det danske Fiskeristyrelse blandt andre for at inspirere til, hvad der er muligt."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fnorwegian-coast-guard%2Ffjord-in-norway-800x600.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fnorwegian-coast-guard%2Ffishing-boat-on-the-sea-800x600.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        }
+    ]
+}

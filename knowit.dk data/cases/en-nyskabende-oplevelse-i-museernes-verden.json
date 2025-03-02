@@ -1,0 +1,147 @@
+{
+    "case": "en-nyskabende-oplevelse-i-museernes-verden",
+    "url": "https://www.knowit.dk/cases/en-nyskabende-oplevelse-i-museernes-verden/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "En nyskabende oplevelse i museernes verden"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "SMK"
+        },
+        {
+            "el": "p",
+            "text": "Med SMK Open har Statens Museum for Kunst fået en værdifuld digital platform, der gør deres kunstsamling tilgængelig online og tilbyder de besøgende en anderledes kunstoplevelse. Samtidigt er museets primære website på SMK.dk også blevet redesignet ud fra samme vision."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fsmk%2Fsmk-hero.jpeg&w=640&q=75 640w",
+            "alt": "SMK website."
+        },
+        {
+            "el": "h2",
+            "text": "Digitale ambitioner på kunstens vegne"
+        },
+        {
+            "el": "p",
+            "text": "SMK – Statens Museum for Kunst er det største kunstmuseum i Danmark og kendt som landets primære lokation for visuel kunst. SMK har til huse i hjertet af København, og museets internationalt anerkendte kunstsamling tiltrækker hvert år mere end 400.000 besøgende."
+        },
+        {
+            "el": "p",
+            "text": "Med ansvar for at pleje og kultivere aktiviteter imellem og på tværs af både danske og internationale museer har SMK en klar strategi om at forløse kunstens potentiale hos flere målgrupper og flere mennesker. For at opnå disse mål for kunsten, har SMK en ambition om gå ud over de fysiske rammer for kunsten og træde ind i den digitale sfære."
+        },
+        {
+            "el": "p",
+            "text": "I 2020 vandt SMK Open en 'Best of the Best'-pris ved det anerkendte Red Dot Design Awards, hvor løsningen blev udvalgt blandt 7.000 indsendelser."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fsmk%2Fsmk-01.jpeg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fsmk%2Fsmk-1.gif&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Online udstilling skal gøre flere mennesker kunstinteresserede"
+        },
+        {
+            "el": "p",
+            "text": "SMK ønskede ikke kun en helt ny SMK.dk hjemmeside, men også en ny digital platform og service, der ville gøre deres enorme samling af mere end 260.000 kunstværker tilgængelige online og med en mere engagerende oplevelse for deres besøgende. Den nye platform kaldet SMK Open."
+        },
+        {
+            "el": "p",
+            "text": "Således blev to seperate projekter flettet sammen, da SMK.dk sitet også ville fungere som gateway til SMP Open og omvendt. Begge projekter bygger på SMKs tro på og vision om at gøre kunst tilgængelig og relevant for langt flere mennesker i Danmark og udlandet."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fsmk%2Fsmk.02.jpeg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fsmk%2Fsmk.03.jpeg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fsmk%2Fsmk.gif02-1.gif&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Unik museumsoplevelse gennem digitalisering"
+        },
+        {
+            "el": "p",
+            "text": "Gennem tæt samarbejde hjalp vi SMK med at nå deres vision ved at levere det tekniske fundament for både det nye SMK.dk site i 2018 og SMK Open i 2019."
+        },
+        {
+            "el": "p",
+            "text": "WordPress er CMS'et til SMK.dk. For at imødekomme arbejdskravene fra de mange forskellige indholdsudbydere, samt design- og frontend-udviklerne, udvidede vi SMKs åbne API og udviklede det, der er kendt som et hovedløst CMS. Dette løser begrænsningerne i WordPress CMS, giver en backend, der er nem at arbejde med og giver fuld fleksibilitet under de givne designretningslinjer."
+        },
+        {
+            "el": "p",
+            "text": "Løsningen med SMK Open udforsker grænserne for digitalisering med involvering af revolutionerende teknologier. Den er baseret på SMK’s egen offentlige API udvidet af Knowit Experience, og den avancerede brug af kunstig intelligens og maskinlæring gør det muligt for besøgende at søge og udforske mere end 40.000 forskellige kunstværker. Til at bygge den omfattende information og database af SMK Open, brugte vi crowd-sourcing ved at udtrække relevante data fra Wikidata og Wikipedia. Antallet af kunstværker og den tilgængelige information vokser dagligt."
+        },
+        {
+            "el": "p",
+            "text": "De besøgendes oplevelse af den nye hjemmeside og SMK Open er unik. Hjemmesidens frontenddel skulle være visuelt smuk og rig, men hurtig at navigere, hvilket krævede en backend af det nye SMK.dk, der supplerede den digitale infrastruktur og integrerede med SMK’s søgeklynger. Løsningen giver de besøgende en moderne digital oplevelse af kunst på SMK med adgang til en stor mængde, meget forskelligartet, indhold bestående af 3D-modeller, billeder i høj opløsning, forklarende tekster, lyd og video."
+        },
+        {
+            "el": "p",
+            "text": "Den innovative teknologiske tilgang i brugen af ​​kunstig intelligens og maskinlæring fangede opmærksomheden hos førende teknologi- og ingeniørmedier ’Teknologiens Mediehus’ (på dansk): www.ing.dk"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fsmk%2Fsmk.04.jpeg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fsmk%2Fsmk.05.jpeg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fsmk%2Fsmk.06.jpeg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Et succesfuldt kunstværk af æstetik og teknologisk overlegenhed"
+        },
+        {
+            "el": "p",
+            "text": "Under vores indledende samtaler med SMK-teamet var det klart, at deres ambition med deres nye hjemmeside og SMK Open var at tilbyde en nyskabende onlineoplevelse i museernes verden. Og resultatet taler for sig selv. Begge sites tager sig ud på smukkeste vis og SMK Open-løsningen fremstår som en teknologisk fantastisk løsning."
+        },
+        {
+            "el": "p",
+            "text": "Det er en fangende oplevelse, som vi synes du skal udforske på https://open.smk.dk/da/."
+        },
+        {
+            "el": "p",
+            "text": "Baseret på feedback fra SMK’s besøgende, medierne og andre nøgleinteressenter har SMK opnået deres vision med stor succes. Både SMK.dk og SMK Open har vist sig at være værdifulde ressourcer for den brede offentlighed og kunstprofessionelle. Vi er meget stolte over at være en del af dette projekt og fortsætte vores involvering i at hjælpe SMK med at udvikle digitaliseringen af ​​SMK’s kunstsamling i fuld skala."
+        },
+        {
+            "el": "p",
+            "text": "SMK Open er en drøm, der går i opfyldelse for os alle på SMK. Med denne nye digitale service kan vi nu dele vores komplette udbud af viden og kunstværker som digitale byggeklodser. En vigtig komponent er online værkerne, som vi ønskede at stille til rådighed for alle med interesse for kunst - ikke kun professionelle kunsthistorikere"
+        },
+        {
+            "el": "p",
+            "text": "Jonas Heide Smith, Head of Digital"
+        },
+        {
+            "el": "p",
+            "text": "SMK."
+        }
+    ]
+}

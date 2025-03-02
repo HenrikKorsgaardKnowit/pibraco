@@ -1,0 +1,88 @@
+{
+    "case": "videreudvikling-og-transformering-af-sbsys",
+    "url": "https://www.knowit.dk/cases/videreudvikling-og-transformering-af-sbsys/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Videreudvikling og transformering af SBSYS"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "BRUGERKLUBBEN SBSYS"
+        },
+        {
+            "el": "p",
+            "text": "SBSYS er en forening for fællesoffentligt samarbejde, som betyder billigere og mere effektiv administration for såvel borgere som virksomheder."
+        },
+        {
+            "el": "p",
+            "text": "UDFORDRING"
+        },
+        {
+            "el": "h2",
+            "text": "Effektiv hverdag med øget arbejdsglæde."
+        },
+        {
+            "el": "p",
+            "text": "Brugerklubben SBSYS havde en vision om at kunne dele investeringer i udviklingsarbejdet, men høste effektiviseringsgevinsterne i hver sin organisation. Dette med et overordnet fælles mål om at få sagsprocedurer systemunderstøttet lokalt, for en bedre effektivitet og øget arbejdsglæde."
+        },
+        {
+            "el": "p",
+            "text": "Filosofien i Brugerklubben SBSYS er, at man deles om investeringen i udviklingsarbejdet, men høster effektiviseringsgevinsterne i hver sin organisation. Det fælles mål er at få sagsprocedurer systemunderstøttet lokalt, så vi alle oplever en effektiv hverdag med øget arbejdsglæde."
+        },
+        {
+            "el": "p",
+            "text": "LØSNING"
+        },
+        {
+            "el": "h2",
+            "text": "Videreudvikling og transformering af SBSYS"
+        },
+        {
+            "el": "p",
+            "text": "Vi løfter opgaverne med videreudvikling og transformering af SBSYS i tæt samarbejde med kommunerne over fire år. Udover at modernisere og refaktorere dele af koden, skal udviklingen sikre en bevægelse væk fra en klient/server-applikation til en mere hændelsesdrevet arkitektur. Dette vil gøre det muligt for kommunerne og andre brugere at bygge platformsuafhængige applikationer oven på systemet, som kan målrettes forskellige brugergrupper og devices og udvikles af forskellige leverandører."
+        },
+        {
+            "el": "p",
+            "text": "Vi stod for refaktorering, hvor den eksisterende programkode blev omskrevet, så den blev enklere, og den gamle kode blev fjernet og dermed lettere at vedligeholde. Dette blev gjort med en større testsuite som over tid er blevet automatiseret, så de forskellige testmiljøer kunne afvikle de forskellige testtyper på en smidig og struktureret måde."
+        },
+        {
+            "el": "p",
+            "text": "Også kaldet EDA. Denne blev valgt for at sikre at integrere både afsender og modtager på en løstkoblet måde, så udskiftningen af systemer ikke affødte integrationsopgaver."
+        },
+        {
+            "el": "p",
+            "text": "Det var vigtigt, at transformeringen af SBSYS var platformsuafhængig, så at den kunne fungere på tværs af platforme."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F11b77eac06df4453b8978c1b794e8ea9%2Fsbsys_udfodring.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F66e500c4feb84fc29f5f4751938dd0c6%2Fsbsys_loesning.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "p",
+            "text": "OM KUNDEN"
+        },
+        {
+            "el": "h2",
+            "text": "Brugerklubben SBSYS"
+        },
+        {
+            "el": "p",
+            "text": "Brugerklubben er en forening, hvor medlemsorganisationerne i fællesskab udvikler og vedligeholder SBSYS og de forskellige ydelser. Brugerklubben opererer inden for de rammer, der udstikkes af medlemsorganisationerne, og der er således ikke tale om, at medlemsorganisationerne afgiver kompetence til Brugerklubben. Brugerklubben fungerer ikke mindst som et forum, hvor man drøfter konkrete forhold omkring SBSYS såvel som digital forvaltning generelt."
+        },
+        {
+            "el": "p",
+            "text": "Brugerklubben SBSYS får stadigt flere medlemmer. Der løses stadigt flere opgaver for borgere og brugere hos medlemmerne, og der videreudvikles hele tiden på systemet til at kunne mere og mere. Brugerklubben består i dag af 40 medlemmer fordelt på 39 kommuner og en region."
+        }
+    ]
+}

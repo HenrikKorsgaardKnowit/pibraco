@@ -1,0 +1,109 @@
+{
+    "case": "energirigtig-ecommerce-fra-vestas",
+    "url": "https://www.knowit.dk/cases/energirigtig-ecommerce-fra-vestas/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Energirigtig eCommerce fra Vestas"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "VESTAS"
+        },
+        {
+            "el": "p",
+            "text": "Vindmøller er nok ikke det første, du tænker på, når emnet falder på eCommerce. Og det er faktisk en af grundene til, vi er særligt stolte over at at have udviklet en ny webshop for vindmølle-dele i samarbejde med Vestas. Kunderne har taget godt imod løsningen, og den har lynhurtigt skabt værdi i markedet."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fvestas%2Fhero-1518x854.jpg&w=640&q=75 640w",
+            "alt": "Vindmøller"
+        },
+        {
+            "el": "h2",
+            "text": "Shop Vestas udvider den gode service"
+        },
+        {
+            "el": "p",
+            "text": "Med mere end 23.000 medarbejdere og flere end 63.500 vindmøller i drift er Vestas verdens førende virksomhed inden for vindenergi. Vestas har en umiskendelig ambition om at fortsætte væksten og skabe endnu mere ren energi i verden. Strategien er at levere de bedste 360-graders løsninger til kunderne, og i dét løfte spiller Vestas’ digitale services en vital rolle."
+        },
+        {
+            "el": "p",
+            "text": "Med lanceringen af den nye eCommerce-løsning har Vestas taget et stort spring mod en endnu bedre kundeoplevelse."
+        },
+        {
+            "el": "p",
+            "text": "Nu kan kunderne hurtigt identificere og bestille de nødvendige dele. Løsningen hjælper med at minimere driftsomkostninger og maksimere turbinernes oppetid."
+        },
+        {
+            "el": "p",
+            "text": "Shop Vestas indeholder mere end 25.000 produkter. Det gør sitet til den største eCommerce-platform for reservedele til Vestas-møller. Fordi fleksibilitet er altafgørende for Vestas’ kunder, inkluderer shoppen også et voksende antal af vindemøllereservedele fra GE, Siemens Gamesa og Suzlon."
+        },
+        {
+            "el": "h2",
+            "text": "Udviklet med kundernes behov i fokus"
+        },
+        {
+            "el": "p",
+            "text": "Shop Vestas’ kunder har forskellige tilgange, når de søger efter reservedele. Nogle kunder kender delenes specifikke ID, mens andre måske kun kender produkttypen. Med Shop Vestas kan de søge efter begge dele, da shoppens avangerede filteringssystem gør søgeresultaterne nemme at afkode. Hvis kunden er i tvivl, om det nu også er det rigtige produkt, han eller hun har fundet frem til, er den fysiske kundeservice altid nem at få fat i."
+        },
+        {
+            "el": "p",
+            "text": "Ved at inkludere tegninger, billeder og illustrationer af produkterne gør webshoppen hele købsprocessen nemmere for kunderne."
+        },
+        {
+            "el": "p",
+            "text": "Det gør det nemlig muligt for kunderne at se, om reservedelen passer til den specifikke turbinemodel. Samtidigt har kunderne adgang til priser, alternative dele og lagerstatus. Herfra er det op til kunden, om der er behov for et specifikt tilbud på ordren, eller om kunden vil fortsætte direkte til købet."
+        },
+        {
+            "el": "p",
+            "text": "Shop Vestas er optimeret til alle enheder, og en avanceret brugerstyring betyder, at kunderne kun får vist de informationer, de har brug for og ret til."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fvestas%2Fdevices-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "En kundefavorit fra dag ét"
+        },
+        {
+            "el": "p",
+            "text": "Det tog ikke Vestas’ kunder mange øjeblikke, før de tog Shop Vestas til sig. De køber nu alt fra lavpris-komponenter til vindmølledele, der koster over 100.000 Euro pr. modul."
+        },
+        {
+            "el": "p",
+            "text": "Efter lanceringen er antallet af ordrer gennem Shop Vestas gennemsnitligt steget med over 20 % fra kvartal til kvartal. Nogle Sales Business Units oplever endda måneder, hvor mere end 85 % af deres samlede salgstransaktioner kommer via Shop Vestas."
+        },
+        {
+            "el": "p",
+            "text": "Med den nye eCommerce-løsning har Vestas taget et stort skridt mod at levere markedsledende digitale services. Webshoppen er i øvrigt også en del af kundeplatformen Vestas Online, som længe har haft en bevist effekt på kundeloyaliteten. Alt tyder på, at Shop Vestas kun kommer til at øge loyaliteten."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fvestas%2Fuxmobile-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "En sikker og skalerbar platform"
+        },
+        {
+            "el": "p",
+            "text": "Shop Vestas er bygget på den seneste version af Episerver, der for tredje år i træk er udnævnt som ’leder’ i Gatners Magic Quadrant."
+        },
+        {
+            "el": "p",
+            "text": "Episerver-platformen er blevet integreret med Vestas’ eksisterende SAP-løsning, hvor alle produktdata hører hjemme. Det er en stærk og stabil platform, som er yderst skalerbar – også langt ud over de nuværende seks sprogversioner."
+        },
+        {
+            "el": "p",
+            "text": "Shop Vestas benytter Episervers avancerede søgeteknologi, Episerver Find, som gør produktsøgningen ekstrem effektiv. Episervers ’The Digital Experience Cloud’ garanterer oppetid inkl. 24-timers support i alle ugens syv dage."
+        }
+    ]
+}

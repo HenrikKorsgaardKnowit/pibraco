@@ -1,0 +1,68 @@
+{
+    "case": "sbsys-api-testautomatisering",
+    "url": "https://www.knowit.dk/cases/sbsys-api-testautomatisering/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Videreudvikling og transformering af SBSYS"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "BRUGERKLUBBEN SBSYS"
+        },
+        {
+            "el": "p",
+            "text": "Knowit har udviklet og anvendt en suite af tests til kvalitetssikring af WebAPI."
+        },
+        {
+            "el": "p",
+            "text": "UDFORDRING"
+        },
+        {
+            "el": "h2",
+            "text": "Udvikling i et foranderligt miljø"
+        },
+        {
+            "el": "p",
+            "text": "For Brugerklubben SBSYS var det vigtigt at få udviklet et WebAPI til deres sagshåndteringssystem på et tidspunkt, hvor systemet løbende blev moderniseret. Det medførte en del rettelser i systemkernen og berørte funktionaliteten bredt. Et nyudviklet WebAPI skulle håndtere både korrekt forretningslogik og parallelle transaktioner. WebAPI’et voksede hurtigt, og der blev brug for en proaktiv mekanisme til at sikre kvaliteten i forbindelse med de mange, hyppige ændringer. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Ff3165a3a83d446a4aac73dd545830782%2Fsbsys_udf.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F1b06f27a862e4703b7de82711e1c44cc%2Fsbsys_loes2.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "p",
+            "text": "LØSNING"
+        },
+        {
+            "el": "h2",
+            "text": "En suite af tests til kvalitetssikring af WebAPI"
+        },
+        {
+            "el": "p",
+            "text": "Knowit har udviklet og anvendt en suite af tests til kvalitetssikring af WebAPI. Disse tests blev også benyttet til at kommunikere og beskrive måden, hvorpå andre leverandører kunne bruge WebAPI’et."
+        },
+        {
+            "el": "p",
+            "text": "Et API er ofte centreret omkring forretningsdomænet. Elementerne i en virksomheds forretningsproces kaldes forretningsobjekter. Vi har implementeret en struktureret testproces for vores API’er med fokus på at undersøge forretningsobjekterne og deres adfærd. Dette er en adfærdsdrevet tilgang til designet af vores API’er."
+        },
+        {
+            "el": "p",
+            "text": "Testen af WebAPI’et baserede sig på konkrete use cases og deres variationer i brugen af WebAPI’et. Disse inkluderede negative scenarier, undtagelser og sikkerhedstest."
+        },
+        {
+            "el": "p",
+            "text": "Forretningsviden om brug af API’et blev samlet i en suite af testforløb, som havde en læsbar form som i grafikken her ved siden af. 60-70% af API funktionalitet med høj eller medium risiko blev dækket af automatiseret test ved hjælp af den strukturerede tilgang til testen."
+        }
+    ]
+}

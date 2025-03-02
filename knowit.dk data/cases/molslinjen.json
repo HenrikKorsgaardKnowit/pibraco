@@ -1,0 +1,84 @@
+{
+    "case": "molslinjen",
+    "url": "https://www.knowit.dk/cases/molslinjen/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Molslinjen gør bookingflowet til en personlig og flydende oplevelse"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "MOLSLINJEN"
+        },
+        {
+            "el": "p",
+            "text": "For at imødekomme nye strategiske mål og give passagererne en bedre digital oplevelse har Molslinjen løftet brugeroplevelsen på tværs af alle platforme. I samarbejde med Knowit og Vertica har vi skabt et solidt strategisk fundament og en digital oplevelse, der er lige så intuitiv, som den er gennemtænkt."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fmolslinjen%2Fmolslinjen_case4_ferry-1600x900.webp&w=640&q=75 640w",
+            "alt": ""
+        },
+        {
+            "el": "h2",
+            "text": "Gentænkning og redesign af brugeroplevelsen"
+        },
+        {
+            "el": "p",
+            "text": "Med over 8 millioner passagerer årligt havde Molslinjen behov for at styrke sine digitale platforme og gøre dem endnu mere brugervenlige. Sammen designede vi en digital rejse, hvor købsprocessen blev mere detaljeret, men stadig enkel og let tilgængelig for brugerne. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fmolslinjen%2Fmolslinjen_case2_logosquare.webp&w=640&q=75 640w",
+            "alt": "Molslinjen logotype"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fmolslinjen%2Fmolslinjen_case7_boy.webp&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "h2",
+            "text": "Nyt personligt og skræddersyet bookingflow"
+        },
+        {
+            "el": "p",
+            "text": "Med udgangspunkt i feltstudier og grundig research som udgangspunkt tog vi højde for de mange forskellige måder, passagererne køber billetter på. Resultaterne hjalp os med at give Molslinjens bookingflow en komplet opgradering, så det nu tilbyder en gnidningsfri og personaliseret oplevelse på tværs af alle enheder. \n \nDet nye bookingflow rummer hundredvis af mulige brugerrejser og introducerer personaliseringsmuligheder som billettyper, madvalg, prioriterede præferencer og siddepladser. "
+        },
+        {
+            "el": "p",
+            "text": "Denne nye brugeroplevelse lever fuldt op til de europæiske WCAG-standarder for transportindustrien, hvilket sikrer en tilgængelig og enkel oplevelse for alle – uden unødig kompleksitet. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fmolslinjen%2Fmolslinjen_case3_desktopdesign-1920x1080.webp&w=640&q=75 640w",
+            "alt": "Desktop design"
+        },
+        {
+            "el": "h2",
+            "text": "Et designsystem klar til at skalere"
+        },
+        {
+            "el": "p",
+            "text": "Molslinjen fik også en visuel opgradering med en moderne og sammenhængende digital identitet. Den ikoniske kongeblå farve blev fremhævet for både at styrke brandets identitet og øge brugervenligheden. Det nye designsystem er skalerbart og sikrer en ensartet oplevelse på tværs af alle touchpoints, så Molslinjen let kan udvide og opretholde den røde tråd i både bus- og færgeruter over hele Danmark. "
+        },
+        {
+            "el": "p",
+            "text": "Med denne indsats har vi været med til at sikre, at Molslinjen ikke bare leverer en stærk digital brugeroplevelse, men også sætter nye standarder for, hvordan teknologi kan gøre rejser mere intuitive og tilgængelige for alle. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fmolslinjen%2Fmolslinjen_case9_designsystem-1423x1067.webp&w=640&q=75 640w",
+            "alt": "Design system Molslinjen"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fmolslinjen%2Fmolslinjen_case6_brandassets-1400x1050.webp&w=640&q=75 640w",
+            "alt": "Brand assets"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "case": "nyt-digitalt-samfund-for-gronlands-indbyggere",
+    "url": "https://www.knowit.dk/cases/nyt-digitalt-samfund-for-gronlands-indbyggere/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Nyt digitalt samfund for Grønlands indbyggere"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "THE GREENLANDIC AGENCY FOR DIGITIZATION"
+        },
+        {
+            "el": "p",
+            "text": "Ved at udvikle en platform til at håndtere adgangen til flere selvbetjeningsløsninger gennem et Single Sign On system med NemID, effektiviserer The Greenlandic Agency for Digitization den digitale kommunikation mellem borgerne og det offentlige samtidigt med, at omkostninger til udvikling, drift og vedligeholdelse reduceres kraftigt."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fgreenland%2Fgreenland_squooshed-1800x1013.jpg&w=640&q=75 640w",
+            "alt": "Greenland case"
+        },
+        {
+            "el": "h2",
+            "text": "Effektivisering af digitale kommunikationsmidler"
+        },
+        {
+            "el": "p",
+            "text": "Grønlands Selvstyre har i mange år arbejdet på at sikre effektive digitale kommunikationsmidler for de grønlandske borgere. Grønlands Selvstyre tilbyder let tilgængelige webløsninger, der kan imødekomme borgernes behov for digital kommunikation med det offentlige. Dette er en løbende proces drevet af en klar digital strategi. Grønlands Selvstyre havde oprindeligt mere end 65 forskellige portaler kørende på flere CMS-instanser, og det har derfor været et erklæret mål at konsolidere disse flere instanser i en enkelt Sitecore-baseret løsning for at sikre at omkostningerne til udvikling, drift og vedligeholdelse reduceres kraftigt."
+        },
+        {
+            "el": "h2",
+            "text": "Platform skal sikre borgerne centraliseret digital adgang"
+        },
+        {
+            "el": "p",
+            "text": "Knowit Experience har arbejdet sammen med Grønlands Selvstyre om at udvikle en platform på Sitecore med centraliseret digital adgang til borgerne i Grønland. Denne hub fungerer som en portal for deres behov for digital kommunikation med de offentlige myndigheder. Platformen håndterer adgangen til flere selvbetjeningsløsninger fra et væld af 3. parts løsningsudbydere og omslutter alt gennem et SSO (Single Sign ON) system udviklet på toppen af NemId for at sikre, at borgerne får den bedst mulige oplevelse, når de interagerer digitalt med det offentlige."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fgreenland%2Fvillage-800x600.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fgreenland%2Fflowers-800x600.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "En strømlinet brugeroplevelse "
+        },
+        {
+            "el": "p",
+            "text": "Vi har skabt en løsning, der er blevet godt vedtaget og bliver brugt i større grad år efter år."
+        },
+        {
+            "el": "p",
+            "text": "Platformen er udvidet til flere dele af den offentlige forvaltning, hvilket begrænser antallet af forskellige løsninger og strømliner oplevelsen for borgerne, samtidig med at udviklingstiden og omkostningerne er reduceret og en hurtig time to market for nye tjenester er sikret. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fgreenland%2Fmountin-1800x1013.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        }
+    ]
+}

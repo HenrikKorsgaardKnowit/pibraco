@@ -1,0 +1,100 @@
+{
+    "case": "mobil-app-til-totalkredit",
+    "url": "https://www.knowit.dk/cases/mobil-app-til-totalkredit/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "En app, der hjælper med et hurtigt overblik"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "TOTALKREDIT"
+        },
+        {
+            "el": "p",
+            "text": "En praktisk og tilgængelig løsning, der hjælper med et hurtigt overblik, når du skal købe bolig"
+        },
+        {
+            "el": "p",
+            "text": "UDFORDRING"
+        },
+        {
+            "el": "h2",
+            "text": "Skabe en digital service, der opleves som hurtig og venlig"
+        },
+        {
+            "el": "p",
+            "text": "En stor del af den voksne, danske befolkning har et realkreditlån, og det er typisk vores livs største, økonomiske forpligtelse. Samtidig oplever vi os selv som usikre i låneprocessen og har en fornemmelse af, at “det ikke er noget, jeg har forstand på”. Og strengt taget interesserer det os ikke. Faktisk brænder de færreste af os for at vide noget om realkreditlån. Men det er vigtigt, at vi får taget stilling til, hvor meget vi vil låne, hvor længe vi vil låne og at vi får afvejet fordele og risici ved de forskellige lånetyper. I låntagningssituationen står vi typisk med blandede følelser af utilstrækkelighed og en forventning om en langtrukken og kompliceret proces – en proces, der dog har stor betydning for vores fremtidige økonomi."
+        },
+        {
+            "el": "p",
+            "text": "Udfordringen er at skabe en digital service, der opleves enkel og som sætter helt almindelige, voksne danskere i stand til at foretage kompetente til- og fravalg, UDEN at de først skal bestå den store realkreditbelåningseksamen. En service, der opleves som hurtig og venlig. En service, mennesker uden finansiel baggrund har lyst til at anvende."
+        },
+        {
+            "el": "p",
+            "text": "LØSNING"
+        },
+        {
+            "el": "h2",
+            "text": "Totalkredit-appen"
+        },
+        {
+            "el": "p",
+            "text": "Vi udviklede en app, der giver et hurtigt overblik, hvis du skal til at købe bolig, men også hvis du allerede har et realkreditlån. Du kan hurtigt beregne, hvad det vil koste at låne til en ny bolig med forskellige lånetyper. Og du kan tjekke dit realkreditlån, hvis du allerede har et. Måske kan du med fordel lægge om til en anden lånetype."
+        },
+        {
+            "el": "p",
+            "text": "Du kan også lede efter drømmeboligen direkte i appen og få forslag til finansiering. Løsningen henter data fra Den Digitale Tinglysning, boliger til salg, NemID og integrerer til Totalkredits beregningsservices. En løsning, der stiller store krav til formidling af vanskeligt stof, UX, sikkerhed omkring data privacy og sikkerhed omkring korrekthed."
+        },
+        {
+            "el": "p",
+            "text": "Faktisk stiller løsningen også usædvanligt store krav til design, idet Totalkredit co-brander de mange medlemspengeinstitutter, de samarbejder med. Appen håndterer således Look & Feel på tværs af virksomheder."
+        },
+        {
+            "el": "p",
+            "text": "Vil du se, hvad det koster dig at låne til en ny bolig, giver appen dig et overblik. Du skal blot indtaste boligens pris og lånebeløb og herefter kan du nemt sammenligne finansieringen med Totalkredits forskellige lånetyper."
+        },
+        {
+            "el": "p",
+            "text": "Har du allerede et lån, kan du se, om du med fordel kan ændre dit lån. Du skal bare indtaste din adresse, så finder appen selv frem til dit nuværende lån og giver dig en idé om, hvad det vil betyde, hvis du ændrer lånet til en anden lånetype."
+        },
+        {
+            "el": "p",
+            "text": "Er du på boligjagt, giver Totalkredit-appen dig et hurtigt overblik over boliger til salg i dit område. Når du har fundet din drømmebolig, skal du bare klikke på den, så får du en række oplysninger om boligen og kan lave en låneberegning."
+        },
+        {
+            "el": "p",
+            "text": "I appen kan du også se, hvor mange KundeKroner, du kan få i rabat på betalinger af dit lån. KundeKroner er en kontant fordel, som er garanteret indtil 2020 for alle kunder med realkreditlån i Totalkredit."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F569577bcbd0c41bb9485f89ef508ba6c%2Ftotalkredit_loesning.jpg&w=640&q=75 640w",
+            "alt": "Mobil-app til Totalkredit"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Fdd0b16aa24e04ae7bf13351a2b032524%2Ftotalkredit_udfordring.jpg&w=640&q=75 640w",
+            "alt": "Mobil-app til Totalkredit"
+        },
+        {
+            "el": "p",
+            "text": "OM KUNDEN"
+        },
+        {
+            "el": "h2",
+            "text": "Forenet Kredit"
+        },
+        {
+            "el": "p",
+            "text": "Forenet Kredit er den forening, som ejer det meste af Totalkredit og Nykredit. Foreningens formål er blandt andet at sikre danske boligejere og virksomheder adgang til finansiering over hele Danmark nu og fremover."
+        },
+        {
+            "el": "p",
+            "text": "Samtidig har Forenet Kredit også en klar strategi – nemlig at foreningens indtægter fra blandt andet ejerskabet af Totalkredit skal komme kunderne til gode. Det er bl.a. derfor, at du som kunde i Totalkredit kan få KundeKroner."
+        }
+    ]
+}

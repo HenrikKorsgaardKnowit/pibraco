@@ -1,0 +1,77 @@
+{
+    "case": "hungry-en-smagfuld-app-oplevelse",
+    "url": "https://www.knowit.dk/cases/hungry-en-smagfuld-app-oplevelse/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Hungry: En smagfuld app-oplevelse"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "HUNGRY"
+        },
+        {
+            "el": "p",
+            "text": "Hungry vil gøre online madbestilling så nemt, ærligt og nede på jorden som muligt. Derfor bad de os om hjælp til at gentænke én af deres vigtigste kanaler: app’en. For når man som Hungry opererer i et marked, hvor convenience er grundpræmissen, og produktet er digitalt, så skal en app ikke bare fungere – den skal være den bedste af sin slags på markedet."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fhungry%2Fhungryisometric-1284x722.jpg&w=640&q=75 640w",
+            "alt": "Hungry: En smagfuld app-oplevelse"
+        },
+        {
+            "el": "h2",
+            "text": "Nyt interface gør det let at blive mæt"
+        },
+        {
+            "el": "p",
+            "text": "Der kan være stor kompleksitet i at få noget til at se let ud. Udbringningstid, minimumspris, anmeldelser og åbningstider er nyttige informationer, men det er meget at forholde sig til, når blodsukkeret styrtdykker. "
+        },
+        {
+            "el": "p",
+            "text": "Med brugertests fandt vi frem til den perfekte balance mellem vigtig viden og larmende info, og selv på en lille skærm er Hungry nu lækker og intuitiv at navigere i."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fhungry%2Fhungry-efter-1284x722.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Micro moments med mening"
+        },
+        {
+            "el": "p",
+            "text": "Hungrys app skulle ikke kun levere convenience, den skulle også vække følelser hos brugeren. Derfor er micro copy og micro interactions designet til at forstærke, støtte og anerkende brugerens følelser."
+        },
+        {
+            "el": "p",
+            "text": "Det krævede en ny brand personality med humor og ærlighed i højsædet. Og med en ny, international tone of voice, der matcher den nye identitet, er Hungry gearet til den digitale verden."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fhungry%2Fhungry-tov-1600x900.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "God mad skal deles"
+        },
+        {
+            "el": "p",
+            "text": "Det skal være let at bestille til mad til champions league-aftenerne, forfesten eller de sene timer på kontoret. Med group order kan man tilføje mad til den samme bestilling - også selvom man sidder hver for sig."
+        },
+        {
+            "el": "h2",
+            "text": "The usual, please"
+        },
+        {
+            "el": "p",
+            "text": "Langt fra alle har lyst til at tage på en kulinarisk opdagelsesrejse, når de skal bestille take away. Faktisk bestiller mange brugere det samme – igen og igen. Derfor introducerede vi One Click Order, så brugeren kan få sin søndagspizza med ét enkelt klik. Han behøver ikke engang sit kreditkort - han kan blot betale med fingeraftryk eller face recognition."
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "case": "digital-radgivningsservice-i-sarklasse-hos-tekniq-arbejdsgiverne",
+    "url": "https://www.knowit.dk/cases/digital-radgivningsservice-i-sarklasse-hos-tekniq-arbejdsgiverne/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Digital rådgivningsservice i særklasse hos TEKNIQ Arbejdsgiverne"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "TEKNIQ ARBEJDSGIVERNE"
+        },
+        {
+            "el": "p",
+            "text": "TEKNIQ Arbejdsgiverne søgte en styrket relation til sine medlemmer og en forbedret rådgivningsydelse på deres website. Svaret blev en gentænkt informationsarkitektur, en indbydende visuel identitet og en række nye features, der banker brugeroplevelsen op på næste niveau."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ftekniq-arbejdsgiverne%2Ftablet_pro_mockup_10.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "TEKNIQ – helt tæt på?"
+        },
+        {
+            "el": "p",
+            "text": "TEKNIQ Arbejdsgiverne er Danmarks tredjestørste erhvervs- og arbejdsgiverorganisation med medlemmer inden for bl.a. el, vvs og industri, hvor de repræsenterer godt 4.100 medlemsvirksomheder. Sammenlagt beskæftiger medlemsvirksomhederne omkring 55.000 medarbejdere i Danmark med en årlig omsætning i omegnen af 60 mia. kr."
+        },
+        {
+            "el": "p",
+            "text": "Alt det lyder jo meget godt – men TEKNIQ stiller sig ikke tilfreds med ”godt”. De har ambitioner om meget mere. TEKNIQ Arbejdsgiverne har et forretningsstrategisk mål om at tilbyde medlemsvirksomhederne den bedste kundeoplevelse – og det mål skulle realiseres gennem en større digital transformationsrejse med ét overskyggende formål:"
+        },
+        {
+            "el": "p",
+            "text": "At bringe medlemmerne tættere på TEKNIQ Arbejdsgiverne."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ftekniq-arbejdsgiverne%2Fmacbook-pro-14_---2.png&w=640&q=75 640w",
+            "alt": "Icons"
+        },
+        {
+            "el": "h2",
+            "text": "Store ambitioner og umulig gemmeleg"
+        },
+        {
+            "el": "p",
+            "text": "Men hvad betyder det egentlig at bringe medlemmerne ”tættere på”, når man er en af landets største erhvervs- og arbejdsgiverorganisationer? Og hvordan gør man det?"
+        },
+        {
+            "el": "p",
+            "text": "Det korte svar er: Det hele handler om kunderelationen. Ambitionen var at bygge en ny digital platform, der fokuserer på at imødekomme medlemmernes behov for bedre digital rådgivning om personaleforhold, virksomhedsdrift og teknisk viden. Virksomhedsmedlemmernes digitale møde med TEKNIQ Arbejdsgiverne skulle altså være et kvalificeret supplement til den solide rådgivning, der er organisationens kerneydelse, så den digitale kunderelation når samme flyvehøjder som den fysiske."
+        },
+        {
+            "el": "p",
+            "text": "Men intet stort, ambitiøst projekt uden benspænd. Projektets primære udfordring var et bedaget digitalt setup, et støvet visuelt udtryk og en fragmenteret informationsarkitektur."
+        },
+        {
+            "el": "p",
+            "text": "Det satte medlemmerne på en vanskelig prøve for at finde den højtkvalificerede rådgivning, der ellers lå og gemte sig på sitet. Det resulterede i dalende trafik, der ofte stoppede på forsiden eller gik til ”Kontakt os”. Og når hjælpen ikke var at finde på websitet, så blev telefonerne rødglødende af praktiske opkald, som alle omhandlede personaleanliggender, der faktisk fandtes svar på online. De var bare noget nær umulige at grave frem."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ftekniq-arbejdsgiverne%2Fmacbook-pro-14_---4.png&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Fra støvet service til 360-graders rådgivning"
+        },
+        {
+            "el": "p",
+            "text": "Fundamentet for TEKNIQ Arbejdsgivernes nye website er en ny, velovervejet informationsarkitektur, der råder bod på udfordringerne ved det gamle website og styrker servicen til medlemmerne."
+        },
+        {
+            "el": "p",
+            "text": "Grundige brugerundersøgelser blandt medlemmerne har lagt kimen til både indhold og struktur på sitet – med overvejende fokus på at gøre sitet så intuitivt og letforståeligt som muligt. Men indholdet kunne ikke stå alene, så der blev også udarbejdet en ny visuel identitet, der præsenterer indholdet på indbydende vis og bidrager kraftigt til brugerens samlede indtryk og oplevelse."
+        },
+        {
+            "el": "p",
+            "text": "Landingssider og indhold er nøje prioriteret efter brugernes konkrete situation og problem – blandt andet gennem en tydeligere opdeling mellem sider relateret til daglig drift af medlemmernes virksomheder og mere branchespecifik viden. På den måde skaber sitet ret naturligt et større fokus på den branchespecifikke information, som differentierer TEKNIQ Arbejdsgiverne fra deres konkurrenter og giver medlemmerne en 360-graders rådgivningsydelse."
+        },
+        {
+            "el": "p",
+            "text": "Al data på det nye website er integreret med CRM- og ERP-systemer, der sikrer en central styring af masterdata, hvilket giver kontrol og minimerer risikoen for unødvendigt dobbeltarbejde og vedligehold. Samtidig sikrer det, at medlemmet bliver mødt af personlig og nærværende digital rådgivning."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ftekniq-arbejdsgiverne%2Fiphones.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Kundeoplevelsen er forbedret på alle parametre"
+        },
+        {
+            "el": "p",
+            "text": "Set fra helikopteren forbedrer det nye website altså den digitale kundeoplevelse hos TEKNIQ Arbejdsgiverne på stort set alle parametre – lige fra informationsarkitektur, dataopsamling og teknisk performance til brugervenlighed, navigation og visuelt udtryk. Resultatet er let tilgængelig og nærværende digital rådgivning af højeste kvalitet."
+        },
+        {
+            "el": "p",
+            "text": "Det samlede antal sidevisninger for tekniq.dk er steget med beskedne 7%, men til gengæld har enkelte undertemaer, såsom ’Løn’, fordoblet antallet af sidevisninger, hvilket indikerer, at brugerne nu bedre er i stand til at finde den højt kvalificerede rådgivning, de søger. Den pointe bliver også hamret fast med syvtommersøm, da bounce-raten er faldet med hele 48%."
+        },
+        {
+            "el": "p",
+            "text": "Alt i alt er TEKNIQ Arbejdsgiverne altså lykkedes med at bringe organisation og medlemmer tættere sammen via et website, der tilbyder stærk digital rådgivning i form af gode svar på komplicerede spørgsmål – allerede inden medlemmerne stiller spørgsmålene."
+        },
+        {
+            "el": "p",
+            "text": "Besøg det nye tekniq.dk"
+        },
+        {
+            "el": "p",
+            "text": "Knowit Experience har hjulpet os med for alvor at sætte vores medlemmer i fokus og give dem digital rådgivning i hverdagen. Websitet er vores primære platform, der giver vores medlemmer nem adgang til deres egne sager, løndata mm. Derfor er det så vigtigt, at brugeroplevelsen, mulighederne og navigationen er af højeste kvalitet. Hos TEKNIQ Arbejdsgiverne vil vi være Danmarks digitale og grønne arbejdsgiverforening, og Knowit Experience bidrager hver dag med at drive os i den retning og blive endnu mere datadrevne."
+        },
+        {
+            "el": "p",
+            "text": "Troels Blicher Danielsen, Adm. direktør"
+        },
+        {
+            "el": "p",
+            "text": "TEKNIQ Arbejdsgiverne"
+        }
+    ]
+}

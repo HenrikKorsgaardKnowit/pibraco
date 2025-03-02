@@ -1,0 +1,137 @@
+{
+    "case": "cashbackapp",
+    "url": "https://www.knowit.dk/cases/cashbackapp/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Loyalitetskoncept - få bonus når du betaler"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "LOYALTY KEY"
+        },
+        {
+            "el": "p",
+            "text": "Knowit udviklede en app, der gør det nemmere for medlemmerne at udnytte deres mange fordele."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F86e376b8f0b74d189a98fe0b50401f72%2Fcashback-app-mock-up-2800x1575.jpg&w=640&q=75 640w",
+            "alt": ""
+        },
+        {
+            "el": "p",
+            "text": "UDFORDRING"
+        },
+        {
+            "el": "h2",
+            "text": "Vi vil tættere på brugerne"
+        },
+        {
+            "el": "p",
+            "text": "Medarbejderne i flere end 1.500 restauranter, butikker og webshops, som er samarbejdspartnere med Loyalty Key, tilbydes rabatfordele gennem CashbackAPP. Det er et lukket loyalitetsprogram, hvor medlemmerne optjener rabat/cashback med deres almindelige betalingskort, hver gang de handler brændstof, mobilabonnementer, tøj, takeaway mv. hos partnere som Shell, Telmore, Zalando og Just Eat."
+        },
+        {
+            "el": "p",
+            "text": "Programmet har de seneste år kun været et univers på web, men det har hele tiden været målet, at kunne tilbyde cashbackAPP som en brugervenlig app, medlemmerne altid kan have ved hånden. "
+        },
+        {
+            "el": "p",
+            "text": "LØSNING"
+        },
+        {
+            "el": "h2",
+            "text": "Brugervenlig app"
+        },
+        {
+            "el": "p",
+            "text": "Med appen installeret på medlemmernes mobiler bliver det nu endnu nemmere for dem at få glæde af deres mange fordele – uanset om de har en iOS- eller Android-enhed, da appen er kompatibel med begge styresystemer og kan downloades i hhv. App Store og Google Play."
+        },
+        {
+            "el": "p",
+            "text": "Appen giver medlemmerne følgende funktioner lige ved hånden, når de er på farten: "
+        },
+        {
+            "el": "p",
+            "text": "Kortfunktion"
+        },
+        {
+            "el": "p",
+            "text": "Funktionen ”Find butikker” er et interaktivt Danmarkskort, hvor medlemmerne finder butikker, restauranter og andre partnere i deres nærområde, hvor de optjener cashback. Det gør det nemmere for medlemmerne at finde og handle de steder, hvor de får en procentdel af deres køb tilbage. "
+        },
+        {
+            "el": "p",
+            "text": "Søgefunktion"
+        },
+        {
+            "el": "p",
+            "text": "Funktionen ”Søg” gør det nemt at finde de partnere, der giver medlemmerne cashback. Når medlemmerne søger, kan de samtidig se, hvor tæt de befinder sig på partneren, og hvor meget cashback de optjener."
+        },
+        {
+            "el": "p",
+            "text": "Opdag-funktion"
+        },
+        {
+            "el": "p",
+            "text": "Medlemmerne kan desuden tilgå funktionen ”Opdag”, til at udforske deres fordele og blive inspireret til endnu flere steder, hvor de kan optjene cashback. ”Opdag” bliver løbende opdateret med nye partnere og aktuelle temaer, der kan være relevante i medlemmernes hverdag."
+        },
+        {
+            "el": "p",
+            "text": "Min profil"
+        },
+        {
+            "el": "p",
+            "text": "Under ”Min profil” i appen kan medlemmerne holde øje med deres saldo og tilføje alle de betalingskort, de har i pungen, eller udskifte et udløbet betalingskort."
+        },
+        {
+            "el": "p",
+            "text": "Udbetal"
+        },
+        {
+            "el": "p",
+            "text": "Medlemmerne kan få udbetalt deres optjente cashback direkte via appen, når saldoen overstiger 100 kr."
+        },
+        {
+            "el": "p",
+            "text": "Notifikationer"
+        },
+        {
+            "el": "p",
+            "text": "Medlemmerne kan vælge at modtage notifikationer, hver gang de optjener cashback til deres konto. På den måde bliver medlemmerne mere opmærksomme på deres fordele og får lyst til at handle endnu flere steder, hvor de optjener cashback."
+        },
+        {
+            "el": "p",
+            "text": "cashbackAPP som web-løsning bliver selvfølgelig også ført videre som hidtil, så medlemmerne også har mulighed for at tilgå de mange funktioner og fordele på deres computer, men det er målet, at langt de fleste medlemmer vil bruge appen i deres hverdag."
+        },
+        {
+            "el": "p",
+            "text": "Læs mere om appen her: https://cashbackapp.dk/download-cashbackapp/"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Febaef7baca3641bdb437fcd386527a2f%2Fcashback-2.jpg&w=640&q=75 640w",
+            "alt": "cashbackAPP"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F06d73e26bc434396a447c0faf9112a23%2Frestaurant-1284x722.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "p",
+            "text": "OM KUNDEN"
+        },
+        {
+            "el": "h2",
+            "text": "Loyalty Key"
+        },
+        {
+            "el": "p",
+            "text": "Loyalty Key driver fordelsklubber for Danmarks største virksomheder. Her forbinder de deres partnere med mere end 100.000 medlemmer i hele landet. Deres mission er at skabe dybere og mere varige relationer imellem virksomheder og deres kunder gennem løsninger, der målbart øger kundernes interaktion med den enkelte virksomheds brand. "
+        }
+    ]
+}

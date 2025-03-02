@@ -1,0 +1,84 @@
+{
+    "case": "cases",
+    "url": "https://www.knowit.dk/cases/en-komplet-modernisering-af-studiepraktik.dk",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "En komplet modernisering af Studiepraktik.dk"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "STUDIEPRAKTIK"
+        },
+        {
+            "el": "p",
+            "text": "En gentænkt informationsarkitektur og en spritny visuel identitet udgør fundamentet for den komplette modernisering af Studiepraktik.dk. I dag tilbydes praktiksøgende elever en overskuelig og konsistent digital brugeroplevelse, hvor navigation og tilgængelighed er i top. Og ved at implementere det nye webdesign på den fleksible og skalerbare Umbraco 10 CMS-platform, er det redaktionelle arbejde for Studiepraktiks ansatte også blevet optimeret."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fstudiepraktik%2F_studiepraktik---visual-4.png&w=640&q=75 640w",
+            "alt": ""
+        },
+        {
+            "el": "p",
+            "text": "UTMANING"
+        },
+        {
+            "el": "h2",
+            "text": "Et brugerflow uden trit og retning"
+        },
+        {
+            "el": "p",
+            "text": "Studiepraktik.dk logger du ind på, hvis du har lyst til at afprøve, hvordan det er at studere på en videregående uddannelse. Du skal bare ønske de specifikke tilbud, der matcher dine angivne interesseområder, og herfra bliver du tildelt et af tilbuddene i en lodtrækning. "
+        },
+        {
+            "el": "p",
+            "text": "Selvom det lyder simpelt, oplevede Studiepraktik, at eleverne havde svært ved at navigere rundt på sitet, som var præget af meget tekst og et komplekst hierarki. Praktiksøgende elever oplevede manglende overblik i brugerflowet, hvilket også kom til udtryk i stor aktivitet i supporten, hvor eleverne havde behov for at blive assisteret i deres søgen. "
+        },
+        {
+            "el": "p",
+            "text": "Derfor skulle studiepraktik.dk gentænkes med et helt nyt webdesign ud fra moderne teknologi og en mere tidssvarende visuel stil. Ønsket til det nye site var en forbedret og forenklet informationsarkitektur gennem opdateret frontend-kodning, som skulle understøttes med nye designgreb for at fremme struktur, overblik og læsbarhed."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fstudiepraktik%2F_studiepraktik---visual-5.png&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "p",
+            "text": "LÖSNING"
+        },
+        {
+            "el": "h2",
+            "text": "Overskuelig navigation med moderne teknologi"
+        },
+        {
+            "el": "p",
+            "text": "Hvor det tidligere studiepraktik.dk var bygget på et forældet system med forældet teknologi, er det nye site implementeret efter moderne standarder på en Umbraco 10 CMS-platform, som gør det muligt at udvide, ændre og skalere på strukturen. "
+        },
+        {
+            "el": "p",
+            "text": "Med Umbraco 10 har Studiepraktik fået nemmere ved at vedligeholde deres data med mulighed for selv at tilføje og opdatere tekster og automatiske mails – noget, som tidligere krævede administratorhjælp. På denne måde er alle medarbejdere på studiepraktik.dk blevet givet fuld autonomi til at kunne oprette og ændre i praktikudbydere og aktiviteter, hvilket samtidig gør det nemmere at onboarde nye redaktører."
+        },
+        {
+            "el": "p",
+            "text": "Studiepraktik.dk er derudover udviklet til også at fungere fuldkomment gnidningsfrit på mobil, hvor størstedelen af de unge er til stede."
+        },
+        {
+            "el": "p",
+            "text": "Studiepraktik.dk havde et stort behov for at komme over på en fremtidssikret og mobilvenlig løsning, der var mere intuitiv. Vi havde fået anbefalet at snakke med Knowit, og de viste sig at være den helt rigtige sparringspartner. Opgaven var ikke bare at kopiere det gamle site, men at forenkle de vigtigste brugerrejser på sitet, så flere elever kan komme ud på praktikophold. Her var Knowit ultraskarpe til at forstå både elevernes og administratorernes behov og sortere det uvæsentlige fra, så vi kun fik bygget det, der skabte værdi. Vi er svært glade for den nye løsning."
+        },
+        {
+            "el": "p",
+            "text": "Henrik Varmark, sekretariatsleder"
+        },
+        {
+            "el": "p",
+            "text": "Studiepraktik.dk"
+        }
+    ]
+}

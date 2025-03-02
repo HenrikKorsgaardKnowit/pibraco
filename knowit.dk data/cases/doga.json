@@ -1,0 +1,103 @@
+{
+    "case": "doga",
+    "url": "https://www.knowit.dk/cases/doga/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "DOGA"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "DESIGN AND ARCHITECTURE NORWAY"
+        },
+        {
+            "el": "p",
+            "text": "DOGA (Design and Architecture Norway) aims to facilitate learning and experimentation in Norwegian design and architecture. Through the development of a new brand platform and visual identity, Knowit Experience has helped DOGA showcase the industry, rather than itself."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fdoga%2Fdoga_logo_pencilsketch-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "DOGA case"
+        },
+        {
+            "el": "h2",
+            "text": "Built around design methodology"
+        },
+        {
+            "el": "p",
+            "text": "DOGA had been formed through a merger of three independent organizations - and therefore needed to find a clear, new direction for the new entity. They wanted design methodology to be strategically and visually central to the process of creating a new platform."
+        },
+        {
+            "el": "p",
+            "text": "Designers have been involved in the work from the start, with the development of brand platform and valuation, all the way through to the completed visual profile and logo. The entire process has ensured that the new identity is central to DOGA's new strategy, thus contributing to the organization reaching its goals as a single entity."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fdoga%2Fdoga_bizcards-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Creates an arena"
+        },
+        {
+            "el": "p",
+            "text": "DOGA – Design and Architecture Norway – advances the role of design and architecture in shaping Norway’s future. The organisation facilitates collaboration and creates an arena for practitioners and businesses in the sector."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fdoga%2Fdoga_signage-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "In constant movement"
+        },
+        {
+            "el": "p",
+            "text": "The highlight of DOGA’s brand profile is a new logo, featuring four letters displayed without a dominant focal point. The letters act as visual cornerstones, naturally creating shape and substance, depending on the point of view. The logo hints at DOGA’s ambition to be an arena for possibilities."
+        },
+        {
+            "el": "p",
+            "text": "DOGA represents the various design and architecture disciplines, which are reflected in the way the logo comes to life. The logo adapts itself to digital formats – and where motion is possible, in 3D physical formats, and in 2D and printed materials."
+        },
+        {
+            "el": "p",
+            "text": "Users can interact with the logo on the web, producing experiences that vary, depending on the type of device. A digital “logo maker” was also created, making it easier to design new logos in an infinite range of perspectives. As a result, the new visual identity appears organic and dynamic – quite appropriate for a sector in transformation."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fdoga%2Fdoga_watermug-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fdoga%2Fdoga-10-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fdoga%2Fdoga-14-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fdoga%2Fdoga-12-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fdoga%2Fdoga_postal-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fdoga%2Fawards-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        }
+    ]
+}

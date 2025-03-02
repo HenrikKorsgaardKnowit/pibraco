@@ -1,0 +1,51 @@
+{
+    "case": "volvo-cars-forretningsudvikling",
+    "url": "https://www.knowit.dk/cases/volvo-cars-forretningsudvikling/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Volvo Cars forretningsudvikling"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "VOLVO CARS"
+        },
+        {
+            "el": "p",
+            "text": "Volvo Cars styrker sin position som selvstændig biludvikler med Scalable Platform Arcitecture (SPA). Da projektet startede, valgte Volvo at søge hjælp hos Knowit til arkitektur, forretningsudvikling og kvalitetssikring."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fvolvo-cars%2Fvolvo-cars-1284x722.jpg&w=640&q=75 640w",
+            "alt": "Volvo Cars forretningsudvikling"
+        },
+        {
+            "el": "h2",
+            "text": "Volvo Cars forretningsudvikling"
+        },
+        {
+            "el": "p",
+            "text": "SPA er et af Sveriges største industriprojekter i dag og indgår i Volvos industrielle satsning på op imod 11 mia. USD globalt over 5 år. Volvos ambition med SPA projektet er at udvikle en skalerbar køretøjsarkitekturm, som indebærer at de fleste Volvomodeller, uanset størrelse, bygges på de samme fabrikker med en stor andel af ens komponenter. Den nye platform skal imødekomme fremtidens krav til ny funktionalitet såsom aktive sikkerheds- og komfortsystemer for kørsel og brændstofeffektivisering ved hjælp af automatisering og hybride løsninger. Krav til opkobling til internettet og til andre biler i nærområdet er også et kraftigt voksende område."
+        },
+        {
+            "el": "p",
+            "text": "Da Volvo i efteråret 2014 lancerede en XC90 som den første bil på SPA platformen, Tog Volvo et stort skridt mod en meget konkurrencestærk bilplatform som genererer et stort antal bilmodeller på en omkostningseffektiv måde."
+        },
+        {
+            "el": "p",
+            "text": "Knowit har stor erfaring med at forretningsudvikle Volvo og allerede fra begyndelsen var vi med og definerede såvel arkitekturen som det operationelle for den nye platform."
+        },
+        {
+            "el": "p",
+            "text": "Forretningsudviklingen blev udført som et antal sammenkoblede aktiviteter med det formål at effektivisere og få udviklingsafdelingen til at trække i samme retning."
+        },
+        {
+            "el": "p",
+            "text": "Disse aktiviteter var:"
+        }
+    ]
+}

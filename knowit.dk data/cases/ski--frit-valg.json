@@ -1,0 +1,141 @@
+{
+    "case": "ski--frit-valg",
+    "url": "https://www.knowit.dk/cases/ski--frit-valg/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Frit Valg"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "SKI"
+        },
+        {
+            "el": "p",
+            "text": "Et offentligt it-projekt blev skudt i gang uden hverken kravspecifikationer, egentlig projektledelse eller standardsoftware – og blev langt billigere end ventet"
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2F65d6c3c4487e4ac1ac174011b7e8b45a%2Fski-1-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "Medarbejdere på SKI i samtale"
+        },
+        {
+            "el": "h2",
+            "text": "It-udvikling lige på og hårdt"
+        },
+        {
+            "el": "p",
+            "text": "For mange vil det nok lyde som halsløs gerning…"
+        },
+        {
+            "el": "p",
+            "text": "Man skyder et offentligt it-projekt i gang, uden at der på forhånd er udarbejdet en kravspecifikation. Der udpeges heller ikke en decideret projektleder. Og så satses der i øvrigt ikke på standardsoftware, men udvikles helt fra bunden. Umiddelbart kan det ligne den sikre opskrift på noget, der vil løbe helt løbsk og sikkert også sprænge alle budgetter."
+        },
+        {
+            "el": "p",
+            "text": "Men det er på ingen måde tilfældet for en løsning, som SKI (Staten og Kommunernes Indkøbsservice) blev udpeget til at etablere, efter at en ny lov trådte i kraft i maj 2018. Snarere tværtimod… Folketinget havde besluttet, at patienter til genoptræning skulle tilbydes frit valg af behandlere, hvis ikke deres kommune kunne stille med et tilbud inden for syv dage. Og det krævede en webbaseret løsning."
+        },
+        {
+            "el": "p",
+            "text": "Opgaven landede på bordet hos Gudrun Klint, der er forretningsudviklingschef hos SKI. Og da den som sådan ikke havde noget med SKI at gøre, blev den placeret i et datterselskab, Fritvalgservice – med Klint som direktør."
+        },
+        {
+            "el": "p",
+            "text": "”Mantraet var, at vi gerne ville lave noget, der var lækkert og nemt at bruge,”"
+        },
+        {
+            "el": "p",
+            "text": "Gudrun Klint, forretningsudviklingschef"
+        },
+        {
+            "el": "p",
+            "text": "SKI"
+        },
+        {
+            "el": "p",
+            "text": "Men hvor kunne man lige finde en færdig løsning, der populært sagt var let at navigere i for alle de tre målgrupper, som i dette tilfælde er kommunerne, patienterne samt de behandlere, der gerne vil tilbyde genoptræning under fritvalgsordningen?"
+        },
+        {
+            "el": "p",
+            "text": "Det kunne man ingen steder, skulle det vise sig. Og derfor indledte SKI et samarbejde med it-huset Miracle A/S - nu Knowit - som gik i gang med at udvikle det, der skulle blive til to portaler."
+        },
+        {
+            "el": "p",
+            "text": "Den første – fritvalgservice.dk – skulle orientere om selve ordningen med det frie valg og var ikke specielt kompliceret at lancere."
+        },
+        {
+            "el": "p",
+            "text": "Den anden – mingenoptræning.dk – var straks en større udfordring. Arbejdet gik i gang hen på året 2018, og i februar 2019 gik mingenoptræning.dk så også i luften."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Fef61af515139432d8c264531f1865d39%2Fgudrun-1037x697.jpg&w=640&q=75 640w",
+            "alt": "Gudrun Klint"
+        },
+        {
+            "el": "p",
+            "text": "Gudrun Klint, Direktør FritValgService og Forretningsudviklingschef."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fcontentassets%2Ff5e265502e06494896a9b784d0ee90ac%2Fski-office-867x489.jpg&w=640&q=75 640w",
+            "alt": "SKI's kontor"
+        },
+        {
+            "el": "p",
+            "text": "Og ca. fire år efter startskuddet kan parterne konstatere, at der undervejs kun er brugt 18 mio. ud af den oprindelige budgetramme på 30 mio. kr."
+        },
+        {
+            "el": "p",
+            "text": "Der var ikke afsat et specifikt beløb til etablering af selve it-løsningen, det skulle blot holdes inden for det samlede budget."
+        },
+        {
+            "el": "p",
+            "text": "”Siden 2018 har vi totalt set ikke brugt 5 mio. kr. på udvikling af it-løsningen,” lyder det fra Ursula Krogsbøll, der er afdelingsdirektør med ansvar for digital strategi og innovation hos Knowit."
+        },
+        {
+            "el": "p",
+            "text": "Hun betegner den valgte arbejdsgang som ”fast track development,” hvor man f.eks. ikke bruger tid og kræfter på at skrive omfattende kravspecifikationer på forhånd eller maile frem og tilbage i det uendelige."
+        },
+        {
+            "el": "p",
+            "text": "I stedet har udviklere fra Knowit typisk fire dage om ugen siddet og arbejdet hos SKI i Valby, hvilket har betydet, at der hele tiden har været en tæt dialog mellem udviklerne og SKI."
+        },
+        {
+            "el": "p",
+            "text": "”Det er grundlæggende en anden slags kontrakt, som er tillidsbaseret,” siger Gudrun Klint, der har haft fuld opbakning til arbejdsformen fra SKIs øverste ledelse.\n”Ja, det må man sige – det har jeg,” fastslår hun."
+        },
+        {
+            "el": "p",
+            "text": "Igennem udviklingsforløbet har hun med et par ugers mellemrum holdt statusmøder med Knowits udviklere, så hun med egne øjne kunne se, hvor man var på vej hen. Undervejs har hun også været ude at tale med kommunerne, så løsningen kunne rettes til, hvor det var nødvendigt."
+        },
+        {
+            "el": "p",
+            "text": "”Hvis nogen har haft styr på sit projekt, så er det Gudrun. Man får ikke lov til at lave noget juks, da det bliver opdaget med det samme. Det er risikostyring,” som Ursula Krogsbøll udtrykker det."
+        },
+        {
+            "el": "p",
+            "text": "Hun forklarer den relativt lave pris på den skræddersyede løsning derhen, at det typisk kræver kostbare konsulenttimer at lave de tilretninger, der næsten altid er nødvendige, når man tager udgangspunkt i standardsoftware – som jo også har en pris i sig selv."
+        },
+        {
+            "el": "p",
+            "text": "Vi kan udvikle utroligt meget mere funktionalitet pr. time med nye udviklingsframeworks og på nye platforme end man kan, når man laver ændringer i et standardsystem. Standardsystemer har typisk adskillige år på bagen og kører derfor i princippet på gamle eller halvgamle teknologivalg, forklarer hun. Det giver meget mere værdi pr. krone at arbejde på de nyeste platforme."
+        },
+        {
+            "el": "p",
+            "text": "Skal Gudrun Klint sætte fingeren på noget, der har kostet en del kalorier at få på plads – så er det at få styr på de aftaler, der så at sige ligger bag ordningen om det frie valg af genoptræning."
+        },
+        {
+            "el": "p",
+            "text": "”Det er selvfølgelig en fordel, at sundhedsområdet er ret reguleret. Men det svære har været at finde ud af, hvordan behandlerne kommer ind i systemet. Hvordan skal de godkendes, og hvordan skal de aflønnes?” som hun siger."
+        },
+        {
+            "el": "p",
+            "text": "Samarbejdet mellem SKI og Knowit startede, da Knowit blev tildelt opgaven om at udvikle it-løsningerne til genoptræning. Samarbejdet er siden fortsat om forskellige, skræddersyede løsninger til SKI, ved tildelinger på SKIs aftale for it-konsulenter."
+        }
+    ]
+}

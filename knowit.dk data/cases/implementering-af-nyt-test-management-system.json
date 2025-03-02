@@ -1,0 +1,90 @@
+{
+    "case": "implementering-af-nyt-test-management-system",
+    "url": "https://www.knowit.dk/cases/implementering-af-nyt-test-management-system/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Implementering af nyt test management system"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "KNOWIT QUALITY SERVICES"
+        },
+        {
+            "el": "p",
+            "text": "Hos Knowit Quality Services havde vi brug for flere og mere fleksible rapporteringsmuligheder, smidighed i testdesign samt et fælles overblik over alle igangværende testindsatser. Vi fandt vejen til en ny løsning, som du kan læse om her."
+        },
+        {
+            "el": "p",
+            "text": "UDFORDRING"
+        },
+        {
+            "el": "h2",
+            "text": "Løft af test og QA-processer til et nyt niveau"
+        },
+        {
+            "el": "p",
+            "text": "Hvad gør man, når et testmanagement-værktøj rammer loftet for, hvad det kan understøtte og tilbyde i det professionelle arbejde med softwaretest? Vi oplevede at have flere behov, end vi umiddelbart kunne få opfyldt i det test management-værktøj, vi benyttede på daværende tidspunkt. F.eks. havde vi brug for flere og mere fleksible rapporteringsmuligheder, smidighed i testdesign samt et fælles overblik over alle igangværende testindsatser. "
+        },
+        {
+            "el": "p",
+            "text": "LØSNING"
+        },
+        {
+            "el": "h2",
+            "text": "Fleksibelt og skalerbart værktøj"
+        },
+        {
+            "el": "p",
+            "text": "Vi undersøgte markedet, lavede en analyse og dernæst en datamigrering og implementering af et nyt testmanagement-værktøj, som løste vores behov i softwaretest."
+        },
+        {
+            "el": "p",
+            "text": "Test er meget mere end test cases, og kan tage forskellige former i softwareudviklingsprocessen. De testmanagement-værktøjer, Knowit har været omkring, understøtter både testautomatisering, effektivt testdesign og samarbejde omkring test i alle dele af livscyklussen."
+        },
+        {
+            "el": "p",
+            "text": "Med et værktøj til struktureret test kan man beskrive og bruge testviden om et system på logisk eller detaljeret niveau og samtidig opnå en struktur og kategorisering af viden, der gør det nemt at finde frem til det relevante."
+        },
+        {
+            "el": "p",
+            "text": "Oftest er det vigtigt, at det er nemt at dokumentere samt at få overblik over den udførte test og de fundne afvigelser. Dernæst er det ofte relevant at spore den udførte test til krav og at kunne se overblikket over testdækning. Alt dette er eksempler på krav til et testmanagement-system, men disse kan naturligvis variere fra virksomhed til virksomhed. Her er nogle eksempler på vores krav, som blev opfyldt: "
+        },
+        {
+            "el": "p",
+            "text": "Testplanlægning"
+        },
+        {
+            "el": "p",
+            "text": "Testdesign"
+        },
+        {
+            "el": "p",
+            "text": "Automatisering"
+        },
+        {
+            "el": "p",
+            "text": "Testrapportering"
+        },
+        {
+            "el": "p",
+            "text": "Før et velargumenteret valg kunne træffes og en migrering gennemføres, var det nødvendigt at afdække og forstå krav og behov hos de testere, som skulle bruge det nye værktøj. Inddragelse af brugerne i dette stadie er en afgørende faktor for succes med implementeringen."
+        },
+        {
+            "el": "h2",
+            "text": "Om Knowit"
+        },
+        {
+            "el": "p",
+            "text": "Knowit arbejder professionelt med test og kvalitetssikring og beskæftiger flere testkonsulenter, der yder en vigtig indsats på projekter i roller som testere, tekniske testere og test managers. "
+        },
+        {
+            "el": "p",
+            "text": "Læs mere om vores Quality Services her."
+        }
+    ]
+}

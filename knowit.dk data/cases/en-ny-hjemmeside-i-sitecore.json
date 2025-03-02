@@ -1,0 +1,73 @@
+{
+    "case": "en-ny-hjemmeside-i-sitecore",
+    "url": "https://www.knowit.dk/cases/en-ny-hjemmeside-i-sitecore/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "En ny hjemmeside i Sitecore"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "EFTERSKOLEFORENINGEN"
+        },
+        {
+            "el": "p",
+            "text": "Med en ny hjemmeside i Sitecore har Efterskoleforeningen fået en platform, der inspirerer og giver overblik for de knap 30.000 unge og deres forældre, der hvert år vælger at gå på en af landets 241 efterskoler. Processen varede blot seks måneder fra det første afklaringsmøde til løsningen gik i luften."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fefterskoleforeningen%2Fefterskoleforeningen-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "Donorrejse og agil arbejdsmetode"
+        },
+        {
+            "el": "h2",
+            "text": "Udfordring"
+        },
+        {
+            "el": "p",
+            "text": "Med et ældre website havde Efterskoleforeningen både behov for et teknisk og et designmæssigt løft. I tæt samarbejde med e-Types blev der lagt en plan for at øge performance og brugeroplevelsen."
+        },
+        {
+            "el": "p",
+            "text": "Målet var at lave det bedst mulige udstillingsvindue for efterskolerne til unge og deres forældre, der ønsker et år med fokus på dannelse og fællesskab."
+        },
+        {
+            "el": "h2",
+            "text": "Proces"
+        },
+        {
+            "el": "p",
+            "text": "I tæt samarbejde med Efterskoleforeningen og e-Types blev der gennemført et afklaringsforløb, hvor fokus var at få indsigt i mål og målgrupper og ikke mindst brugerrejsen. I et iterativt forløb blev et nyt design-koncept udarbejdet, der afspejler ungdom og begejstring."
+        },
+        {
+            "el": "p",
+            "text": "Teknisk lå den gamle løsning på en Sitecore 8, der gennem flere år var blevet opgraderet flere gange og derfor havde en del forældet kode. Derfor valgte vi at lave en ny implementering på Sitecore 9.1. For at minimere udviklingsomkostninger blev relevant og stabil kode genbrugt og forældet nyudviklet ligesom udvalgte indholdsområder i Sitecore blev opgraderet"
+        },
+        {
+            "el": "p",
+            "text": " "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fefterskoleforeningen%2Fefterskoleforeningen-mobile-1200x900.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fefterskoleforeningen%2Fefterskolerne-mobil-brug-800x600.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Løsningen"
+        },
+        {
+            "el": "p",
+            "text": "Teknisk er løsningen blevet optimeret, så brugerne oplever hurtigere performance, hvor specielt søgefunktionaliteten er blevet forbedret markant. Derudover kan besøgende få svar på, hvor meget man selv skal betale for skoleopholdet med en enkel prisberegner eller, om der er ledige pladser på den skole, man ønsker at gå på. Samtidig har foreningens 241 efterskoler fået et forbedret arbejdsværktøj, der giver enklere adgang til viden, værktøjer og markedsføring af deres skoler med statistik dashboard."
+        }
+    ]
+}

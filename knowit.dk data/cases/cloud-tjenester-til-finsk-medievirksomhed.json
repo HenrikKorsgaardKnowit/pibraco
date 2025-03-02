@@ -1,0 +1,68 @@
+{
+    "case": "cloud-tjenester-til-finsk-medievirksomhed",
+    "url": "https://www.knowit.dk/cases/cloud-tjenester-til-finsk-medievirksomhed/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Cloud-tjenester til finsk medievirksomhed"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "MTV FINLAND"
+        },
+        {
+            "el": "p",
+            "text": "MTV har valgt Knowits managed services til AWS-tjenester som en udviklings- og vedligeholdelsesløsning til deres skyplatform."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fimage-bank%2Fknowit-employees%2Fknowit-malmo-08-2022-1284x722.jpg&w=640&q=75 640w",
+            "alt": ""
+        },
+        {
+            "el": "p",
+            "text": "I overensstemmelse med deres strategi fokuserer MTV stærkt på nye forbrugerorienterede digitale medietjenester. For at kunne håndtere hele serviceudbuddet effektivt og opnå hurtigst mulig beslutningstagning, har kunden brug for en pålidelig og kompetent partner til serviceudvikling og -vedligeholdelse."
+        },
+        {
+            "el": "p",
+            "text": "I samarbejde med MTV Oy har Knowit vedligeholdt og udviklet kundens forbrugerbaserede digitale tjenester. MTV har det mest omfattende udvalg af digitale tjenester i Finland, og Knowits rolle som partner varierer alt efter behovet for hver enkelt service. Vi leverer service design, test, overvågning og vedligeholdelse samt totale projektleverancer til MTV."
+        },
+        {
+            "el": "p",
+            "text": "MTV har valgt Knowits managed services til AWS-tjenester som en udviklings- og vedligeholdelsesløsning til deres skyplatform. Det inkluderer 24/7 vagttjenester, infrastruktur- og arkitekturdesign af AWS-miljøer samt implementering."
+        },
+        {
+            "el": "p",
+            "text": "Knowit designer, implementerer og vedligeholder tjenester til MTV.fi og Katsomo.fi."
+        },
+        {
+            "el": "p",
+            "text": "Den lange historie, som Knowit-teamet deler med kunden, vores ekspertise inden for planlægning, test, overvågning og vedligeholdelsestjenester og vores kendskab til de systemer, der er afgørende for MTV's forretning, er nøgleelementerne og succesfaktorerne i vores samarbejde."
+        },
+        {
+            "el": "p",
+            "text": "\"Vores erfaring med Knowit som cloud-tjenestepartner er fremragende. Vores partnerskab med Knowit og dets konsulenters færdigheder inden for skyplatforme betyder, at vi kan fokusere på vores kerneforretning og udvikle nye digitale tjenester.\""
+        },
+        {
+            "el": "p",
+            "text": "Risto Koivula, CTO"
+        },
+        {
+            "el": "p",
+            "text": "MTV Corporation"
+        },
+        {
+            "el": "p",
+            "text": "Målet er at opbygge en robust infrastruktur, fremme inklusiv og bæredygtig industrialisering og fremme innovation."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fimage-bank%2Fsdg-icons-colored-background%2Fe-web-goal-09.png&w=640&q=75 640w",
+            "alt": "SDG 9"
+        }
+    ]
+}

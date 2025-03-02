@@ -1,0 +1,126 @@
+{
+    "case": "fra-statisk-envejskommunikation-til-dynamisk-brugerinvolvering",
+    "url": "https://www.knowit.dk/cases/fra-statisk-envejskommunikation-til-dynamisk-brugerinvolvering/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Fra statisk envejskommunikation til dynamisk brugerinvolvering"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "FINANSFORBUNDET"
+        },
+        {
+            "el": "p",
+            "text": "Med et komplekst teknologisk setup af databaser, 3 parts løsninger, i-frames og middleware, har Finansforbundet fået en ny hjemmeside, som er tilpasset deres medlemmers moderne professionelle liv og krav. Finansforbundet.dk hæver barren for, hvordan medlemsorganisationerne skal omfavne ændringerne i efterspørgslen fra deres medlemmer som følge af den hurtige digitalisering. Dette er kun starten på deres rejse mod en digital transformation."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ffinansforbundet%2Fff_squooshed.jpg&w=640&q=75 640w",
+            "alt": ""
+        },
+        {
+            "el": "h2",
+            "text": "Det moderne liv i fokus"
+        },
+        {
+            "el": "p",
+            "text": "I 2019 tog Finansforbundet hul på en ambitiøs digital transformation, hvor et af de første skridt var at lancere en ny og moderne hjemmeside."
+        },
+        {
+            "el": "p",
+            "text": "Finansforbundet ønskede en dynamisk, brugercentreret og mere involverende hjemmeside. Den nye hjemmeside skulle understøtte styrkelsen af ​​Finansforbundets værditilbud og kommunikation herom, samt hjælpe med at effektivisere og forbedre interne processer."
+        },
+        {
+            "el": "p",
+            "text": "Vores opgave var klar og transformerende: Levere en hjemmeside bygget til vores medlemmers moderne professionelle liv og krav."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ffinansforbundet%2Fff_2021-01-15_11-29-17_squooshed.jpeg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ffinansforbundet%2Fff_frame-2386_squooshed.jpeg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ffinansforbundet%2Fff_frame-2383_squooshed.jpeg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Relevant information gennem digital transformation"
+        },
+        {
+            "el": "p",
+            "text": "Vores kollegaer hos 1508 assisterede Finansforbundet med den strategiske planlægning og eksekvering af deres digitale transformation. 1508 leverede designet af det nye Finanforbundet.dk og fortsætter med at styre den komplekse opdagelses- og designproces af nye digitale tjenester til Finansforbundet."
+        },
+        {
+            "el": "p",
+            "text": "For at lære mere om 1508’s rolle og denne del af projektet, besøg venligst https://1508.dk/cases/finansforbundet/. "
+        },
+        {
+            "el": "p",
+            "text": "Nøglen til Finansforbundets værditilbud er relevante arrangementer, seminarer og uddannelser til rådighed for deres medlemmer. Den nye hjemmeside skulle forbedre adgangen til disse tjenester gennem en brugeroplevelse, der præsenterede medlemmet for relevant indhold. For at opnå dette brugte vi søgemaskinen Elasticsearch i et teknologimiljø med flere lag af databaser og middleware. Helt grundlæggende giver dette  mulighed for lagring, søgning og analyse af store mængder data meget hurtigt og i næsten realtid. For brugerne af Finansforbundet.dk muliggør det en dynamisk brugeroplevelse af relevant information."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ffinansforbundet%2Fff_frame-2380_squooshed.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Den tekniske opsætning"
+        },
+        {
+            "el": "p",
+            "text": "Gennem grundig teknisk analyse fandt vi et komplekst teknologisk setup med databaser, 3 parts løsninger, i-frames og middleware. Uden at lave ændringer i det eksisterende, udviklede vi den nye hjemmeside og digitale tjenester omkring dem, der tillod en smidig og fortsat brug af data."
+        },
+        {
+            "el": "p",
+            "text": "Vi anbefalede Umbraco 8, en anden teknologiløsning, til at levere Finansforbundet cloud storage i et Microsoft Azure-hostet miljø til deres digitale tjenester, væk fra mere traditionel on-premise storage. Vi vil, i vores fortsatte samarbejde med Finansforbundet, arbejde tæt sammen med vores klients it-afdeling for at hjælpe dem igennem denne overgang."
+        },
+        {
+            "el": "p",
+            "text": "På grund af problemfri implementering uden downtime på hjemmesiden, er en anden fordel opnået med Umbraco 8 Cloud-platformsløsningen. For Finansforbundets medlemmer betyder det, at de ikke vil opleve scenarier, hvor de ikke kan få adgang til Finansforbundet.dk på grund af vedligeholdelse eller opdateringer. Når nye funktioner eller forbedringer implementeres, sker dette nu problemfrit uden nogen forstyrrelse af brugen af ​​hjemmesiden."
+        },
+        {
+            "el": "p",
+            "text": "Med Elasticsearch og et cloudmiljø er det teknologiske grundlag for at tilføje anbefalinger til indhold og funktionalitet til hjemmesiden til stede. Denne tilføjelse taler igen ind i ambitionen om at forbedre brugeroplevelsen yderligere ved at give yderst relevante anbefalinger til brugerne, når de navigerer på hjemmesiden. Dette er under udarbejdelse og vil være tilgængeligt i fremtidige udgivelser."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ffinansforbundet%2Fff_frame-2384_squooshed-webb.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ffinansforbundet%2Fff_frame-2379_squooshed.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Interaktiv brugerinvolvering forener finansforbundet og medlemmerne"
+        },
+        {
+            "el": "p",
+            "text": "Finansforbundet er gået fra en envejskommunikerende hjemmeside til en dynamisk, brugervenlig og moderne hjemmeside, som deres medlemmer kan involvere sig interaktivt med. En digital platform med relevante services gør medlemmerne og Finansforbundet i stand til at forbinde sig med hinanden og præstere bedre."
+        },
+        {
+            "el": "p",
+            "text": "Finansforbundet, 1508 og Knowit Experience hævede barren for, hvordan foreninger og medlemsorganisationer kan udvikle digitale platforme til at omfavne ændringerne i medlemmernes faglige profiler og krav forårsaget af hurtig digitalisering på tværs af alle brancher. Dette er kun begyndelsen på Finansforbundets digitale transformation, og vi ser frem til vores fortsatte samarbejde. Så bliv hængende. Vi vil dele mere, efterhånden som vores arbejde for Finansforbundet udvikler sig."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Ffinansforbundet%2Ffinansforbundet-dk.webb.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        }
+    ]
+}

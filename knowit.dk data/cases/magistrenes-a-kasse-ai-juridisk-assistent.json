@@ -1,0 +1,134 @@
+{
+    "case": "magistrenes-a-kasse-ai-juridisk-assistent",
+    "url": "https://www.knowit.dk/cases/magistrenes-a-kasse-ai-juridisk-assistent/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Knowit udvikler AI-baseret juridisk assistent til Magistrenes A-kasse"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "MAGISTRENES A-KASSE"
+        },
+        {
+            "el": "p",
+            "text": "Magistrenes A-kasse nytænker sagsbehandlingen med en ChatGPT-baseret juridisk assistent, som både letter arbejdsgangen for sagsbehandlerne og sikrer præcis og kvalitetssikret rådgivning til medlemmerne."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fmagistrenes-a-kasse%2Fhero-1920x1080.jpg&w=640&q=75 640w",
+            "alt": ""
+        },
+        {
+            "el": "h2",
+            "text": "En ambition om effektivitet og juridisk præcision"
+        },
+        {
+            "el": "p",
+            "text": "Tilbage i sommeren 2023 var Magistrenes A-kasse allerede langt fremme og underviste deres medlemmer i at anvende ChatGPT til CV'er og jobsøgning. Men ambitionerne rakte videre. De ønskede også at integrere AI direkte i sagsbehandlingen for at gøre processerne hurtigere, forbedre svartiderne overfor medlemmerne, sikre kvaliteten af rådgivningen og frigøre flere ressourcer til medlemsrettede aktiviteter."
+        },
+        {
+            "el": "h2",
+            "text": "En skræddersyet AI-baseret juridisk assistent"
+        },
+        {
+            "el": "p",
+            "text": "Da Knowit indledte samarbejdet med Magistrenes A-kasse, havde projektet karakter af et eksperiment. Men sammen med Magistrenes A-kasse fandt vi hurtigt ud af, at det var den rigtige vej at gå. Efter godt og vel 10 uger gik vi i luften med en skræddersyet, AI-baseret juridisk assistent."
+        },
+        {
+            "el": "p",
+            "text": "Assistenten specialiserer sig i dagpengeområdet og hjælper sagsbehandlerne med at navigere i komplekse klagesager, sikre anonymisering og opsummere data hurtigt og præcist. Den juridiske assistent er designet til kun at give relevante svar inden for a-kassens domæne, ved hjæp af præcis prompt-engineering og ved kun at trække på lovsamlinger (gældende lov) og afgørelser fra Arvid Databasen (retspraksis). VI har desuden sikret, at data er private, at de opbevares inden for EU og slettes med 30 dages mellemrum - eller nu og her, hvis vi anmoder om det."
+        },
+        {
+            "el": "p",
+            "text": "Ny lovgivning og afgørelser indlæses automatisk, så svarene er opdaterede og baseres på loven, som den er nu, og ikke som den var i sidste måned. Svarene gemmes, så vi ved og altid kan dokumentere, hvad vi laver. Og nej, den kan ikke give dig opskriften på en chokoladekage."
+        },
+        {
+            "el": "h2",
+            "text": "Hvad betyder det i praksis?"
+        },
+        {
+            "el": "p",
+            "text": "Hurtigere sagsbehandling: Klager behandles hurtigere, hvilket betyder kortere ventetid for medlemmerne. Men først og fremmest er det en markant aflastning af sagsbehandlerne. "
+        },
+        {
+            "el": "p",
+            "text": "Forbedret kvalitet: AI sikrer, at rådgivningen altid baseres på den nyeste lovgivning og retspraksis."
+        },
+        {
+            "el": "p",
+            "text": "Sikkerhed i fokus: Data opbevares sikkert og i fuld overensstemmelse med privatlivskrav."
+        },
+        {
+            "el": "p",
+            "text": "Vi skabt en løsning, der har to hovedfunktioner: at besvare generelle spørgsmål inden for a-kassedomænet og at hjælpe med sagsbehandling og klager."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fmagistrenes-a-kasse%2Fmagistrene-assistent-900x675.png&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fmagistrenes-a-kasse%2Fsagsbehandling-900x675.png&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "h2",
+            "text": "De to funktioner"
+        },
+        {
+            "el": "p",
+            "text": "Den juridiske assistent"
+        },
+        {
+            "el": "p",
+            "text": "Assistenten kan hurtigt og nemt give svar på spørgsmål inden for dagpengeområdet. Den er til rådighed for at lette det manuelle arbejde og sikre, at man som sagsbehandler giver det rigtige svar til medlemmet. Man stiller ganske enkelt sit spørgsmål til assistenten, hvorefter den vil svare med udgangspunkt i det juridiske materiale, der ligger i systemet."
+        },
+        {
+            "el": "p",
+            "text": "Sagsbehandling"
+        },
+        {
+            "el": "p",
+            "text": "Medlemmerne i Magistrenes A-kasse er veluddannede, velskrivende og tekstorienterede. Det er ikke usædvanligt, at indkomne sager fylder 5 A4 sider. Det tager en formiddag og en struktureret indsats for en sagsbehandler at få overblik over sådan en sag. Med den juridiske assistents sagsbehandlerværktøj tager det få minutter: Klagen anonymiseres og indlæses. Herefter opsummerer den juridiske assistent klagen i puntform, oplister hvilke love og afgørelser, den lægger til grund for sin vurdering og hjælper sagsbehandleren på vej med en vurdering af klagen. Sagsbehandlingen kan nu løses på den halve tid til gavn for både medlemmer og sagsbehandlere. Men det er stadig sagsbehandleren, der vurderer og behandler klagen endeligt."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fmagistrenes-a-kasse%2Fdda-shortlistet-788x443.jpg&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "h2",
+            "text": "Resultater"
+        },
+        {
+            "el": "p",
+            "text": "Den juridiske assistent har vist sig at levere resultater på et imponerende niveau i den interne testperiode og bliver nu dagligt benyttet til gavn for sagsbehandlerne hos Magistrenes A-kasse. "
+        },
+        {
+            "el": "p",
+            "text": "I 2024 stillede vi op med den juridiske assistent til Danish Digital Awards, hvor vi blev nomineret i kategorien \"Best in Innovative Use of Technoogy\" (læs mere om det her). Løsningen er et innovativt skridt fremad for sagsbehandling, og den formår at kombinere teknisk knowhow, juridisk ekspertise og brugercentreret design. Ved at nytænke anvendelsen af ChatGPT-teknologien på en måde, der skaber ny værdi og løser svære udfordringer, er den juridiske assistent ikke kun et skridt fremad i sagsbehandlingens effektivitet, men også et eksempel på hvordan AI kan transformere og optimere arbejdsprocesser på tværs af industrier. Fordi ChatGPT kan bruges til meget andet end sagsbehandling. "
+        },
+        {
+            "el": "p",
+            "text": "Den juridiske assistent er udviklet af Knowits innovationsafdeling (teknisk implementering) i samarbejde med Nymand & Vogelius (organisatorisk implementering, domænetilretning og prompt engineering) på vegne af Magistrenes A-kasse. "
+        },
+        {
+            "el": "h2",
+            "text": "Hvordan kommer I fra start?"
+        },
+        {
+            "el": "p",
+            "text": "ChatGPT kommer til at præge langt de fleste af vores arbejdsopgaver. Derfor er det vigtigt at komme i gang, så I får indhøstet konkret viden og erfaring indenfor jeres arbejdsprocesser. Vi anbefaler, at I afsætter 6 uger til teknisk udvikling, prompt engineering, test og kvalitetssikring og en økonomisk ramme på 500.000 kr. "
+        },
+        {
+            "el": "p",
+            "text": " "
+        }
+    ]
+}

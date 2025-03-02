@@ -1,0 +1,82 @@
+{
+    "case": "design-og-funktionalitet-smelter-sammen",
+    "url": "https://www.knowit.dk/cases/design-og-funktionalitet-smelter-sammen/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Design og funktionalitet smelter sammen"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "+HALLE"
+        },
+        {
+            "el": "p",
+            "text": "Æstetikken er i top på møbelproducenten +Halles nye website, der kombinerer stilrent, moderne design med et skræddersyet marketing automation-setup."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fhalle%2Fhalle-banner-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "Design og funktionalitet smelter sammen"
+        },
+        {
+            "el": "h2",
+            "text": "Fra æstetik til konverteringer"
+        },
+        {
+            "el": "p",
+            "text": "Lufthavne, museer, institutioner, arbejdspladser. Det er blot nogle af de steder, hvor du kan opleve +Halles design. Og der tænkes ikke kun i æstetik, når +Halle laver møbler til disse offentlige rum. Ambitionen er at skabe behagelige ‘human spaces’ - en slags pusterum i de travle og tæt befærdede miljøer, hvor design og funktionalitet går op i en højere enhed."
+        },
+        {
+            "el": "p",
+            "text": "Den vision var også udgangpunktet for det nye website. +Halle ønskede en platform, der udover at præsentere produkterne i et lækkert, stilrent design også havde et teknisk setup, der fremadrettet kunne hjælpe designvirksomheden med at konvertere flere besøgende til faktiske kunder. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fhalle%2Fplushalle_full-1920x1080.png&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Mere end bare et produktkatalog"
+        },
+        {
+            "el": "p",
+            "text": "Dansk design er eftertragtet, men vil man for alvor differentiere sig på det internationale marked, har man behov for en digital platform, der kan mere end blot at agere produktkatalog. Det ved +Halle alt om. "
+        },
+        {
+            "el": "p",
+            "text": "Med udgangspunkt i et designoplæg fra bureauet E-types, har vi derfor skabt et website, der tilføjer både rummelighed og interaktion til en ellers todimensionel visning"
+        },
+        {
+            "el": "p",
+            "text": "Sitet er holdt i et stilrent look, der falder godt i tråd med +Halles moderne og minimalitiske stil. Sammen med både transitioner og animeret feedback skal det sikre, at +Halle produkterne står knivskarpt. "
+        },
+        {
+            "el": "h2",
+            "text": "Værdifuldt værktøj til forretningsudvikling"
+        },
+        {
+            "el": "p",
+            "text": "Det lækre design står dog ikke alene. Igennem hele processen har vi haft fokus på at tænke forretning ind i den tekniske løsning. Et skræddersyet marketing autuomation-setup kobler således +Halles forskellige kundesystemer såsom CMS, CRM, nyhedsbrev og analytics sammen, så vigtige informationer automatisk sendes videre til den kunde- og marketingansvarlige."
+        },
+        {
+            "el": "p",
+            "text": "Ved fx at tracke på, hvilke produkter på sitet eller hvilket indhold i nyhedsbrevet en besøgende er interesseret i, bliver +Halle hele tiden klogere på deres kunder og er dermed meget bedre klædt på til at møde dem – både on- og offline."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fhalle%2Fgreen-chair-43.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fhalle%2Fteaser-plushalle-43.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        }
+    ]
+}

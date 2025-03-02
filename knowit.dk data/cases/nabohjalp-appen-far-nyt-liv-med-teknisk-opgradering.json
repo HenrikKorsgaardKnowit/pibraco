@@ -1,0 +1,93 @@
+{
+    "case": "nabohjalp-appen-far-nyt-liv-med-teknisk-opgradering",
+    "url": "https://www.knowit.dk/cases/nabohjalp-appen-far-nyt-liv-med-teknisk-opgradering/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "Nabohjælp-appen får nyt liv med teknisk opgradering"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "NABOHJÆLP"
+        },
+        {
+            "el": "p",
+            "text": "Med overtagelse af drift, vedligehold og videreudvikling af Nabohjælp-appen har Knowit ikke blot moderniseret design og brugeroplevelse, men også implementeret ny kodebase og teknisk opgradering til Flutter og Azure. Alt sammen for at fremtidssikre appen og styrke naboskabet."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fnabohjalp%2Fnabohjalp-teknik%2Fhero-2.jpg&w=640&q=75 640w",
+            "alt": ""
+        },
+        {
+            "el": "h2",
+            "text": "Baggrund"
+        },
+        {
+            "el": "p",
+            "text": "Knowit har overtaget ansvaret for drift og videreudvikling af Nabohjælp-appen, som blev lanceret i 2013 af Trygfonden og Det Kriminalpræventive Råd. Appen har til formål at styrke naboskabet og reducere indbrud ved at gøre det nemmere for naboer at hjælpe hinanden med at holde øje med boliger og områder, når nogen f.eks. er på ferie. Appen var oprindeligt udviklet i native iOS og Android og har en del år på bagen, hvilket gjorde vedligeholdelsen tung og ineffektiv. For at fremtidssikre løsningen og reducere omkostningerne var der behov for en teknisk opgradering."
+        },
+        {
+            "el": "p",
+            "text": "Knowit overtog driften af appen helt uden driftsproblemer. Det er vi stolte af. Men det er helt sikkert af stor betydning, at vi fik en fremragende og kompetent overdragelse fra den daværende leverandør, som vi mødtes med til to overdragelsesworkshops. Dét at mødes fysisk og få sat ansigt på, gør det lettere at kontakte hinanden efterfølgende - alting fungerer bedre, når man kender hinanden bare en lille smule. Vi har nu ikke haft det store beov for at få bistand - det var et fagligt og teknisk stærkt stykke udviklingsarbejde, vi overtog. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fnabohjalp%2Fnabohjalp-teknik%2F2-1.png&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fsolutions%2Fnabohjalp%2Fnabohjalp-teknik%2F1-1.png&w=640&q=75 640w",
+            "alt": null
+        },
+        {
+            "el": "h2",
+            "text": "Ny features, design og kodebase"
+        },
+        {
+            "el": "p",
+            "text": "Efter overtagelsen har vi udviklet et community-univers for at trække trafik fra Facebook over i appen. Det er ikke hverken datasikkert eller dataetisk at basere dele af kommunikationen på Facebook, men det kræver, at man kan tilbyde et alternativ. Det kan vi nu."
+        },
+        {
+            "el": "p",
+            "text": "Da vi overtog appen, trængte designet til et løft: Det kunne ses, at appen havde mange år på bagen. Vi har derfor opdateret designet og forbedret brugsoplevelsen ved at introducere et mere tidssvarende og brugervenligt interface. Tidligere var appens farver skarpe og overvældende, men nu præsenteres appen i et mere afdæmpet og elegant design. Samtidig er navigationen gjort mere intuitiv. "
+        },
+        {
+            "el": "p",
+            "text": "Læs mere om vores redesign af Nabohjælp-appen her. "
+        },
+        {
+            "el": "p",
+            "text": "I forbindelse med designopdateringen (UX og UI) blev store dele af appen genskrevet. Det valgte vi at gøre, fordi Android-versionen af appen var kodet i Java. Nyere Android-apps er skrevet i Kotlin. Vi sprang Kotlin-generationen over og har i stedet implementeret Android-appen i Flutter (Googles cross platform framework). Det betyder, at vi nu kan nøjes med én kodebase, der fremadrettet dækker både Android og iOS, og dermed reduceres både kompleksitet og udgifter til vedligehold betragteligt."
+        },
+        {
+            "el": "h2",
+            "text": "Teknisk løsning"
+        },
+        {
+            "el": "p",
+            "text": "Nabohjælp er udviklet som en event-driven arkitektur. Systemet fungerer primært som et client/server-system med native apps som clients og et REST-baseret web-api som backend. Backend-systemer (herunder api'er og webapplikationer) er udviklet i .NET Core (C#). Nabohjælp hostes i Microsoft Azure og benytter nedenstående ressourcetyper:"
+        },
+        {
+            "el": "h2",
+            "text": "Resultater"
+        },
+        {
+            "el": "p",
+            "text": "Den tekniske opgradering til Flutter og Azure har reduceret vedligeholdelsesomkostningerne betragteligt ved at eliminere behovet for separate kodebaser til hver platform. Den nye infrastruktur har også forbedret appens ydeevne og gjort den langt mere skalerbar, hvilket gør den bedre rustet til fremtidig udvikling."
+        },
+        {
+            "el": "h2",
+            "text": "Om kunden"
+        },
+        {
+            "el": "p",
+            "text": "Det Kriminalpræventive Råd arbejder for at forebygge kriminalitet og skabe et mere trygt og sikkert Danmark. Rådet blev etableret i 1971 og består af repræsentanter fra forskellige sektorer, herunder politiet, kommuner frivillige organisationer og andre relevante aktører. Det Kriminalpræventive Råds arbejde er bredt funderet og omfatter forskning, rådgivning og udvikling af konkrete initiativer og kampagner med henblik på at komme samfundets udfordringer med kriminalitet til livs. Nabohjælp har eksisteret siden 1987 og er blot ét af Rådets initiativer. "
+        }
+    ]
+}

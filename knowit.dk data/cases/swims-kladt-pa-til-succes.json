@@ -1,0 +1,83 @@
+{
+    "case": "swims-kladt-pa-til-succes",
+    "url": "https://www.knowit.dk/cases/swims-kladt-pa-til-succes/",
+    "dom": [
+        {
+            "el": "h1",
+            "text": "SWIMS klædt på til succes"
+        },
+        {
+            "el": "p",
+            "text": "CASE"
+        },
+        {
+            "el": "p",
+            "text": "SWIMS"
+        },
+        {
+            "el": "p",
+            "text": "Enkelthed og funktionalitet går op i en højere enhed på SWIMS nye Ecommerce løsning, der skal hjælpe det norske fashion og apparel brand til at vinde markedsandele internationalt."
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fswims%2Ffrog1-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "SWIMS klædt på til succes"
+        },
+        {
+            "el": "h2",
+            "text": "En stilren, skandinavisk fortælling"
+        },
+        {
+            "el": "p",
+            "text": "I mere end 10 år har det norske fashion brand SWIMS haft en mission om at skabe kvalitetstøj og -sko, der beviser, at praktisk tøj til al slags vejr sagtens kan forenes med et stilrent, skandinavisk design."
+        },
+        {
+            "el": "p",
+            "text": "For SWIMS var kravene til den nye webshop derfor ikke blot at præsentere produkterne på en lækker måde, så de lander i indkøbskurven. Det handlede i lige så høj grad om at skabe et digitalt univers til at rumme fortællingen om SWIMS, om produkterne og om brandets mangeårige designtraditioner. Vi har hjulpet SWIMS igennem processen; lige fra strategisk rådgivning og design til den tekniske implementering. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fswims%2Fswims_desktop_checkout-1920x1080.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fswims%2Fswims_mobile_checkout.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Farverig funktionalitet"
+        },
+        {
+            "el": "p",
+            "text": "Liv og leg, farver og funktionalitet. Det er de centrale principper i SWIMS designs; Principper, som vi har valgt at genbruge på sitet i, hvad brandet selv betegner, ægte SWIMSify stil."
+        },
+        {
+            "el": "p",
+            "text": "Skæve farvekombinationer og subtile animationer kombineret med et stramt, stilrent udtryk dominerer, alt imens produktsiden stiller skarpt på de helt små detaljer og lækre materialer. "
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fswims%2Fbild_header_swims-787x590.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "img",
+            "src": "https://www.knowit.dk/_next/image/?url=https%3A%2F%2Fwww.knowit.dk%2Fglobalassets%2Fcase%2Fexperience%2Fswims%2Ffrog2-800x600.jpg&w=640&q=75 640w",
+            "alt": "\"\""
+        },
+        {
+            "el": "h2",
+            "text": "Et kig i maskinrummet"
+        },
+        {
+            "el": "p",
+            "text": "Den nye løsning er bygget på EpiServer e-Commerce og er fuldkommen integreret med kundens ERP. Derudover hjælper integrationer med fx MailChimp og UPS til at sikre en gennemført kommunikation med kunden, der fx også kan spore bestilte varer direkte på sitet. "
+        },
+        {
+            "el": "p",
+            "text": "Der er desuden lagt an til en sprogversionering af sitet, og vi har integreret med Computop Payment Gateway, hvilket giver mulighed for at tilpasse kommunikation og betaling til udvalgte markeder. "
+        }
+    ]
+}
